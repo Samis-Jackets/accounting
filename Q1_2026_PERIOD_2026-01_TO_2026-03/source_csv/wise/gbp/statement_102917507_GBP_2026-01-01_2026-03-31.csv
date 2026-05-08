@@ -1,0 +1,3 @@
+"TransferWise ID",Date,"Date Time",Amount,Currency,Description,"Payment Reference","Running Balance","Exchange From","Exchange To","Exchange Rate","Payer Name","Payee Name","Payee Account Number",Merchant,"Card Last Four Digits","Card Holder Full Name",Attachment,Note,"Total fees","Exchange To Amount","Transaction Type","Transaction Details Type"
+BALANCE-4701681865,27-01-2026,"27-01-2026 06:52:43.354",-7262.00,GBP,"Converted 7,262.00 GBP to 9,900.45 USD",,0.00,GBP,USD,1.36740,,,,,,,,,21.65,9900.45,DEBIT,CONVERSION
+TRANSFER-1939623187,27-01-2026,"27-01-2026 06:03:29.341",7262.00,GBP,"Received money from ahmed gheyath al-sharif with reference Loan",Loan,7262.00,,,,"ahmed gheyath al-sharif",,,,,,,,0.00,,CREDIT,DEPOSIT

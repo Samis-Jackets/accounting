@@ -1,0 +1,39 @@
+﻿# Brain dump för Wise SEK
+# Syntax: nyckelord  ->  konto  BUSINESS|PRIVATE  fri kommentar
+# Första matchande regel vinner.
+
+# === ÄGAREN / NÄRSTÅENDE → 1939 ===
+ahmed ghith alsharef       ->  2893  PRIVATE  ägaren / närstående
+ahmed gheyath alsharef     ->  2893  PRIVATE  ägaren (alt. stavning)
+ahmed gheyath              ->  2893  PRIVATE  ägaren (kort)
+ahmed ghith                ->  2893  PRIVATE  ägaren (kort)
+mohamad sharif             ->  2893  PRIVATE  ägaren
+mohammad sami              ->  2893  PRIVATE  ägaren
+
+# === SPECIFIKA BELOPP (syntax: keyword|belopp -> konto) ===
+# 2026-01-26 +22 500 SEK kommer från ägarens privata Nordea-konto
+# (PERSONKONTO-STUDENT 3086 00 59626 -> BG 5525-0500 WISE EUROPE 2026-01-23)
+# Det är INTE en överföring från Marginalen (1930) utan ägarinsättning.
+topped up account|22500.00            ->  2893  PRIVATE  Nordea privat -> Wise (ägarinsättning)
+
+# === SWISH / FÖRSÄLJNING-INFLOW PÅ WISE = INTERN FRÅN LUNAR (1948) ===
+# Sales bokförs ENBART i Lunar (1948) med 25% moms. När pengarna sedan
+# flyttas till Wise SEK är det en intern transfer. Motkonto = 1948.
+received money from samis jackets ab  ->  1948  BUSINESS  intern: Lunar -> Wise SEK
+swish sales                            ->  1948  BUSINESS  intern: Lunar -> Wise SEK
+swish sale                             ->  1948  BUSINESS  intern: Lunar -> Wise SEK
+
+# === KONTANT (privat) ===
+4167 kontanten cityhuset   ->  2893  PRIVATE  kontantuttag privat
+kontanten cityhuset        ->  2893  PRIVATE  kontantuttag privat
+bankomat                   ->  2893  PRIVATE  kontantuttag privat
+kontanten                  ->  2893  PRIVATE  kontantuttag privat
+
+# === PRIVATA RESOR ===
+klm airline                ->  2893  PRIVATE  privat flygresa
+trip.com                   ->  2893  PRIVATE  privat resa
+gotogate                   ->  2893  PRIVATE  privat flygresa
+
+# === FÖRBRUKNING ===
+tradera                    ->  5410  BUSINESS  förbrukningsinventarier
+biltema                    ->  5460  BUSINESS  förbrukningsmaterial

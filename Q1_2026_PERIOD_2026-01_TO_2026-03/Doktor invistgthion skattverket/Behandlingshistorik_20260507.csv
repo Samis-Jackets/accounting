@@ -1,0 +1,53 @@
+﻿"""Behandlingshistorik""",,,
+,,,
+559489-5301,,,
+"""Utskriftsdatum"": den 7 May 2026 13:51:30",,,
+,,,
+"""Nr""","""Utförd""","""Nytt värde""","""Inloggad anv"""
+47,2026-05-07 13:39:52,Verifikation registerad 2026 nr A530 from 2893 to 1910 cash in snabbgros privet  har ändrats.,info@samisjackets.com
+46,2026-05-07 13:39:08,Ver registrerad 2026 nr A530 from 2893 to 1910 cash in snabbgros privet ,info@samisjackets.com
+45,2026-05-07 13:25:12,SIE4 import från fil SAMER_PAYMENT_FWT_STANDALONE.se klar.,info@samisjackets.com
+44,2026-05-07 13:25:12,"Ver registrerad 2026 nr A529 Payment to FWT by Samer Alsharef - 373,303 SEK (38,885 USD @ 9.6)",info@samisjackets.com
+43,2026-05-07 13:25:12,"SIE4 import från fil SAMER_PAYMENT_FWT_STANDALONE.se startad, avser 2026-01-01 - 2026-12-31.",info@samisjackets.com
+42,2026-05-07 13:05:31,"Ver registrerad 2026 nr A528 Correction of journal entry A527, Correction of journal entry A526, FWT Invoice FWT-SJ-2026-Q1-001 - $126,882.90 @ 9.6 (av Mohammad Sami Alsharef, 2026-05-07) (av Mohammad Sami Alsharef, 2026-05-07)",info@samisjackets.com
+41,2026-05-07 13:03:15,"Ver registrerad 2026 nr A527 Correction of journal entry A526, FWT Invoice FWT-SJ-2026-Q1-001 - $126,882.90 @ 9.6 (av Mohammad Sami Alsharef, 2026-05-07)",info@samisjackets.com
+40,2026-05-07 13:02:40,SIE4 import från fil FWT_INVOICE_STANDALONE.se klar.,info@samisjackets.com
+39,2026-05-07 13:02:39,"Ver registrerad 2026 nr A526 FWT Invoice FWT-SJ-2026-Q1-001 - $126,882.90 @ 9.6",info@samisjackets.com
+38,2026-05-07 13:02:39,"SIE4 import från fil FWT_INVOICE_STANDALONE.se startad, avser 2026-01-01 - 2026-12-31.",info@samisjackets.com
+37,2026-05-06 19:43:57,SIE4 import från fil MASTER_Q1_2026_CORRECTED_CASH_BASIS.se klar.,info@samisjackets.com
+36,2026-05-06 19:43:56,Importerade verifikationer 501-525,info@samisjackets.com
+35,2026-05-06 19:43:55,Importerade verifikationer 401-500,info@samisjackets.com
+34,2026-05-06 19:43:54,Importerade verifikationer 301-400,info@samisjackets.com
+33,2026-05-06 19:43:52,Importerade verifikationer 201-300,info@samisjackets.com
+32,2026-05-06 19:43:51,Importerade verifikationer 101-200,info@samisjackets.com
+31,2026-05-06 19:43:50,Importerade verifikationer 1-100,info@samisjackets.com
+30,2026-05-06 19:43:50,"Nytt konto 4580 Varor f├╢r ├Ñterf├╢rs├ñljning - livsmedel, avser 2026",
+29,2026-05-06 19:43:50,"Nytt konto 3190 ∩┐╜vrig f∩┐╜rs∩┐╜ljning av varor, avser 2026",
+28,2026-05-06 19:43:50,"SIE4 import från fil MASTER_Q1_2026_CORRECTED_CASH_BASIS.se startad, avser 2026-01-01 - 2026-12-31.",info@samisjackets.com
+27,2026-05-06 19:18:49,Nytt räkenskapsår 2026,info@samisjackets.com
+26,2026-05-06 19:18:49,"Ingående balanser överförda, avser 2026",info@samisjackets.com
+25,2026-05-06 19:17:02,SIE4 import från fil 20240701-20251231 (4).se klar.,info@samisjackets.com
+24,2026-05-06 19:17:01,Importerade verifikationer 1001-1036,info@samisjackets.com
+23,2026-05-06 19:17:00,Importerade verifikationer 901-1000,info@samisjackets.com
+22,2026-05-06 19:16:59,Importerade verifikationer 801-900,info@samisjackets.com
+21,2026-05-06 19:16:58,Importerade verifikationer 701-800,info@samisjackets.com
+20,2026-05-06 19:16:56,Importerade verifikationer 601-700,info@samisjackets.com
+19,2026-05-06 19:16:55,Importerade verifikationer 501-600,info@samisjackets.com
+18,2026-05-06 19:16:53,Importerade verifikationer 401-500,info@samisjackets.com
+17,2026-05-06 19:16:52,Importerade verifikationer 301-400,info@samisjackets.com
+16,2026-05-06 19:16:51,Importerade verifikationer 201-300,info@samisjackets.com
+15,2026-05-06 19:16:50,Importerade verifikationer 101-200,info@samisjackets.com
+14,2026-05-06 19:16:49,Importerade verifikationer 1-100,info@samisjackets.com
+13,2026-05-06 19:16:49,"Nytt konto 4110 Kostnad slda varor, avser 2024 - 2025",
+12,2026-05-06 19:16:49,"Nytt konto 1947 Worldline, avser 2024 - 2025",
+11,2026-05-06 19:16:49,"Nytt konto 1948 Sales account, avser 2024 - 2025",
+10,2026-05-06 19:16:49,"Nytt konto 2441 Future World Tech, avser 2024 - 2025",
+9,2026-05-06 19:16:49,"Nytt konto 1943 Wise GBP, avser 2024 - 2025",
+8,2026-05-06 19:16:49,"Nytt konto 1944 Wise EUR, avser 2024 - 2025",
+7,2026-05-06 19:16:49,"Nytt konto 1942 Wise USD, avser 2024 - 2025",
+6,2026-05-06 19:16:49,"Nytt konto 1945 Wise SEK, avser 2024 - 2025",
+5,2026-05-06 19:16:49,"Nytt konto 5911 AI-marknadsforingsverktyg, avser 2024 - 2025",
+4,2026-05-06 19:16:49,"Nytt konto 1941 Annat bankkonto viva.com, avser 2024 - 2025",
+3,2026-05-06 19:16:49,"Nytt konto 4001 Inkop av tjanst, avser 2024 - 2025",
+2,2026-05-06 19:16:48,"SIE4 import från fil 20240701-20251231 (4).se startad, avser 2024-07-01 - 2025-12-31.",info@samisjackets.com
+1,2026-05-06 19:15:51,Nytt räkenskapsår 2024 - 2025,info@samisjackets.com

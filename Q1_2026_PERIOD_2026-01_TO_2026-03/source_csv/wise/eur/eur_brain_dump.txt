@@ -1,0 +1,68 @@
+﻿# Brain dump för Wise EUR
+# Syntax: nyckelord  ->  konto  BUSINESS|PRIVATE  kommentar
+# Med belopps-filter: nyckelord|belopp  ->  konto  SIDE  kommentar
+
+# === ÄGAREN / NÄRSTÅENDE → 1939 ===
+ahmed gheyath al-sharif    ->  2893  PRIVATE  ägaren
+ahmed ghith alsharef       ->  2893  PRIVATE  ägaren
+ahmed gheyath              ->  2893  PRIVATE  ägaren (kort)
+ahmed ghith                ->  2893  PRIVATE  ägaren (kort)
+mohammad sami alsharef     ->  2893  PRIVATE  ägaren (insättning/uttag)
+mohamad sami alsharef      ->  2893  PRIVATE  ägaren
+mohammad sami              ->  2893  PRIVATE  ägaren
+mohamad sharif             ->  2893  PRIVATE  ägaren
+sent money to mohammad sami     ->  2893  PRIVATE  ägaruttag
+sent money to mohamad sami      ->  2893  PRIVATE  ägaruttag
+
+# === SHOPIFY/STRIPE — DEFAULT: Sverige B2C 25 % moms ===
+# STRIPE betalar ut Shopify-försäljning till Wise EUR. STÖRRE delen är
+# svenska B2C-kunder → 3001 + 2611 (auto-split via is_sales_moms25).
+# UNDANTAG: enstaka Norge-payouts måste taggas explicit (amount-filter).
+#
+# === NORGE-UNDANTAG (0 % moms via 3190) ===
+# 2026-02-12 · 251,27 EUR (~2 925,68 SEK) · SHOPIFY-USWVSBIHFODGNZZIK5QM8VPLIIR
+shopify-uswvsbihfodgnzzik5qm8vpliir   ->  3190  BUSINESS  Norge-kund (bekräftad av ägaren)
+#
+# DEFAULT (alla andra Stripe/Shopify-payouts) → 3001 SE 25 %
+received money from stripe   ->  3001  BUSINESS  Shopify SE-försäljning (Stripe payout) 25 %
+shopify/shopify              ->  3001  BUSINESS  Shopify SE-försäljning 25 %
+
+# === SHOPIFY-PRENUMERATION (utgift) ===
+paid to shopify              ->  5420  BUSINESS  Shopify SaaS-prenumeration
+shopify* 500636476           ->  5420  BUSINESS  Shopify-avgift
+
+# === SAAS / PROGRAMVAROR ===
+github                       ->  5420  BUSINESS  GitHub
+apple.com/bill               ->  5420  BUSINESS  Apple iCloud/SaaS
+www.fashn.ai                 ->  5420  BUSINESS  fashn.ai SaaS
+fashn.ai                     ->  5420  BUSINESS  fashn.ai SaaS
+
+# === MOBIL/TELEFON ===
+tre sverige                  ->  6212  BUSINESS  mobiltelefon
+
+# === DRIVMEDEL / PARKERING ===
+st1 gillbergaplan            ->  5611  BUSINESS  drivmedel
+st1                          ->  5611  BUSINESS  drivmedel
+apcoa flow                   ->  5611  BUSINESS  parkering
+apcoa                        ->  5611  BUSINESS  parkering
+
+# === ANNONSERING ===
+tiktok ads                   ->  5900  BUSINESS  TikTok-annonsering
+
+# === FÖRBRUKNING ===
+tradera                      ->  5410  BUSINESS  förbrukningsinventarier
+biltema                      ->  5460  BUSINESS  förbrukningsmaterial
+
+# === KONTANT (privat) ===
+4167 kontanten cityhuset     ->  2893  PRIVATE  kontantuttag privat
+kontanten cityhuset          ->  2893  PRIVATE  kontantuttag privat
+bankomat                     ->  2893  PRIVATE  kontantuttag privat
+kontanten                    ->  2893  PRIVATE  kontantuttag privat
+
+# === LIVSMEDEL (privat) ===
+lidl                         ->  2893  PRIVATE  privat livsmedel
+
+# === PRIVATA RESOR ===
+klm airline                  ->  2893  PRIVATE  privat flygresa
+trip.com                     ->  2893  PRIVATE  privat resa
+gotogate                     ->  2893  PRIVATE  privat flygresa

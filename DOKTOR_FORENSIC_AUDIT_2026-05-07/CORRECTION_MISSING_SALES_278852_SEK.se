@@ -1,0 +1,45 @@
+#FLAGGA 0
+#PROGRAM "DOKTOR Forensic Correction - Sales & VAT" "2.0"
+#FORMAT PC8
+#GEN 20260507
+#SIETYP 4
+#FNAMN "Samis Jackets AB"
+#ORGNR 559489-5301
+#KPTYP EUBAS97
+#RAR 0 20260101 20261231
+
+#KONTO 1930 "Marginalen företagskonto"
+#KONTO 1942 "Bank Wise USD"
+#KONTO 1947 "Bank Worldline kortinläsen"
+#KONTO 1948 "Bank Lunar"
+#KONTO 2611 "Utgående moms på försäljning inom Sverige, 25%"
+#KONTO 3001 "Försäljning varor 25% moms"
+#KONTO 3051 "Försäljning varor Sverige 25% moms (Shopify/Swish)"
+#KONTO 3105 "Försäljning varor till land utanför EU"
+
+#VER M 901 20260507 "CORRECTION: Add missing Lunar Bank sales Q1 2026"
+{
+   #TRANS 1948 {} 74486.65 "Lunar sales Q1 2026 - previously not recorded"
+   #TRANS 3001 {} -59589.32 "Net sales (74,486.65 / 1.25)"
+   #TRANS 2611 {} -14897.33 "Utgående moms 25% on Lunar sales"
+}
+
+#VER M 902 20260507 "CORRECTION: Add missing Worldline card sales Q1 2026"
+{
+   #TRANS 1947 {} 145330.75 "Worldline sales Q1 2026 - previously not recorded"
+   #TRANS 3051 {} -116264.60 "Net sales (145,330.75 / 1.25)"
+   #TRANS 2611 {} -29066.15 "Utgående moms 25% on Worldline sales"
+}
+
+#VER M 903 20260507 "CORRECTION: Add missing Wise EU/USD sales Q1 2026"
+{
+   #TRANS 1942 {} 1035.00 "Wise sales Q1 2026 - previously not recorded"
+   #TRANS 3051 {} -828.00 "Net sales (1,035.00 / 1.25)"
+   #TRANS 2611 {} -207.00 "Utgående moms 25% on Wise sales"
+}
+
+#VER M 904 20260507 "CORRECTION: Add missing Norway export sales Q1 2026"
+{
+   #TRANS 1930 {} 58000.00 "Norway export Q1 2026 - previously not recorded"
+   #TRANS 3105 {} -58000.00 "Export sales to Norway (0% VAT)"
+}

@@ -1,0 +1,74 @@
+﻿# Brain dump för Marginalen (1930)
+# Syntax: nyckelord  ->  konto  BUSINESS|PRIVATE  kommentar
+
+# === SKIP-REGLER (intern transfer ägd av annan SE-fil) ===
+# Avsändaren äger transferen - mottagarens fil får INTE boka igen
+swish sales lunar|12385.00  ->  SKIP  BUSINESS  Lunar->Marg 2026-01-07
+swish sales|13104.00        ->  SKIP  BUSINESS  Lunar->Marg 2026-02-06
+swish sales|7460.00         ->  SKIP  BUSINESS  Lunar->Marg 2026-03-25
+swish sales|4400.00         ->  SKIP  BUSINESS  Lunar->Marg 2026-03-30
+swish sales|3000.00         ->  SKIP  BUSINESS  Lunar->Marg 2026-03-30
+insättning|7500.00          ->  SKIP  BUSINESS  Lunar->Marg 2026-02-10 (Lunar VER74)
+sweish sales|21911.00       ->  SKIP  BUSINESS  Lunar->Marg 2026-03-17 (Lunar VER110)
+
+# === FÖRSÄLJNING (typo + variant av SWISH) ===
+sweish sales            ->  3001  BUSINESS  Swish-försäljning (typo)
+
+# === EXPORT NORGE (utanför EU, utan moms - 3105) ===
+# OBS: dessa måste komma FÖRE generiska "mohamad sharif -> 2893"
+mohamad sharif a qalaji ->  3105  BUSINESS  Wholesale Norge export (Qalaji)
+qalaji                  ->  3105  BUSINESS  Wholesale Norge export
+ci-2026-001             ->  3105  BUSINESS  Wholesale Norge export (CI-2026-001)
+norge frakt             ->  5710  BUSINESS  Frakt Norge (export-relaterad)
+
+# === FÖRSÄKRINGSERSÄTTNING (BG 6641229 — inbetalning från försäkringsbolag) ===
+# Tidigare felklassad som 2893 ägarskuld; är faktiskt försäkringsersättning
+# för förlorat lager (China-leverans) → 3994 Försäkringsersättningar.
+0006641229              ->  3994  BUSINESS  Försäkringsersättning (BG 6641229)
+6641229                 ->  3994  BUSINESS  Försäkringsersättning (BG 6641229)
+
+# === SKATTEKONTO (Marginalen -> 1630) ===
+emelie och mari skrattar -> 1630  BUSINESS  Inbetalning Skatteverket (skattekonto)
+skatteverket            ->  1630  BUSINESS  Inbetalning Skattekonto
+
+# === INTERN TRANSFER ===
+wise europe             ->  1945  BUSINESS  intern: Marginalen -> Wise SEK
+till wise               ->  1945  BUSINESS  intern: Marginalen -> Wise SEK
+wise                    ->  1945  BUSINESS  intern: Marginalen -> Wise SEK
+
+# === ÄGAREN / NÄRSTÅENDE ===
+till 2893               ->  2893  PRIVATE  uttag till ägaren
+2893 återbetalning      ->  2893  PRIVATE  återbetalning till ägaren
+mohamad sharif          ->  2893  PRIVATE  ägaren (insättning)
+insättning              ->  2893  PRIVATE  ägarinsättning
+privat konto            ->  2893  PRIVATE  ägarens privata konto
+överföring              ->  2893  PRIVATE  överföring (ägaren)
+
+# === LOKAL / LAGER ===
+fastighets ab akvarium  ->  5010  BUSINESS  lokalhyra
+lagar hyra              ->  5010  BUSINESS  lagerhyra
+
+# === FRAKT ===
+dsv road                ->  5710  BUSINESS  frakt DSV
+dsv                     ->  5710  BUSINESS  frakt DSV
+schenker                ->  5710  BUSINESS  frakt Schenker
+unitrans shipping       ->  5710  BUSINESS  frakt Unitrans
+
+# === BANKAVGIFTER ===
+månadsavgift företagskonto  ->  6570  BUSINESS  månadsavgift bank
+manadsavgift företagskonto  ->  6570  BUSINESS  månadsavgift bank
+card terminal           ->  6570  BUSINESS  kortterminal-avgift
+svea bank ab            ->  6570  BUSINESS  Svea kortavgift
+
+# === TELEFON / SAAS ===
+mobile abbonmang        ->  6212  BUSINESS  mobil
+mobil abbonmang         ->  6212  BUSINESS  mobil
+abbonmang               ->  6212  BUSINESS  abonnemang
+
+# === DRIVMEDEL / PARKERING ===
+parkirng                ->  5611  BUSINESS  parkering
+parkering               ->  5611  BUSINESS  parkering
+
+# === INKÖP VAROR ===
+inköp från privatperson kläder  ->  4010  BUSINESS  inköp varor från privatperson
+betalningen för sista fakturan  ->  4010  BUSINESS  leverantörsfaktura varor

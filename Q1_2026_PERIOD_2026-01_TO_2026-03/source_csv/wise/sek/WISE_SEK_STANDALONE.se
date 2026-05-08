@@ -1,0 +1,284 @@
+#FLAGGA 0
+
+
+
+#PROGRAM "SamisJackets-Wise-SEK" "1.0"
+
+
+
+#FORMAT PC8
+
+
+
+#GEN 20260504
+
+
+
+#SIETYP 4
+
+
+
+#FNAMN "Samis Jackets AB"
+
+
+
+#ORGNR 559489-5301
+
+
+
+#KPTYP EUBAS97
+
+
+
+#RAR 0 20260101 20261231
+
+
+
+#RAR -1 20240701 20251231
+
+
+
+#KONTO 1942 "Wise USD"
+
+
+
+#KONTO 1945 "Wise SEK"
+
+
+
+#KONTO 1948 "Lunar Bank"
+
+
+
+#KONTO 2893 "Skuld till del�gare och n�rst�ende"
+
+
+
+#KONTO 4010 "Ink�p varor"
+
+
+
+#KONTO 5611 "Drivmedel"
+
+
+
+#IB 0 1942 0.00
+
+
+
+#IB 0 1945 0.00
+
+
+
+#IB 0 1948 0.00
+
+
+
+#IB 0 2893 0.00
+
+
+
+#VER A 1 20260108 "FX SEK->USD"
+
+
+
+{
+
+
+
+   #TRANS 1945 {} -85720.00
+
+
+
+   #TRANS 1942 {} 85720.00
+
+
+
+}
+
+
+
+#VER A 2 20260109 "FX SEK->USD"
+
+
+
+{
+
+
+
+   #TRANS 1945 {} -7500.00
+
+
+
+   #TRANS 1942 {} 7500.00
+
+
+
+}
+
+
+
+#VER A 3 20260312 "Card 4167 Kontanten Cityhuset"
+
+
+
+{
+
+
+
+   #TRANS 1945 {} -106.48
+
+
+
+   #TRANS 2893 {} 106.48
+
+
+
+}
+
+
+
+#VER A 4 20260319 "Card Apcoa Flow Se"
+
+
+
+{
+
+
+
+   #TRANS 1945 {} -128.37
+
+
+
+   #TRANS 5611 {} 128.37
+
+
+
+}
+
+
+
+#VER A 5 20260319 "Card Temu.com"
+
+
+
+{
+
+
+
+   #TRANS 1945 {} 128.37
+
+
+
+   #TRANS 4010 {} -128.37
+
+
+
+}
+
+
+
+#VER A 6 20260122 "FX SEK->USD"
+
+
+
+{
+
+
+
+   #TRANS 1945 {} -43845.50
+
+
+
+   #TRANS 1942 {} 43845.50
+
+
+
+}
+
+
+
+#VER A 7 20260122 "Samis Jackets AB (Swish sales) - SKIPPED (booked in Lunar standalone)"
+
+
+
+{
+
+
+
+   #TRANS 1945 {} 0.00
+
+
+
+   #TRANS 1948 {} 0.00
+
+
+
+}
+
+
+
+#VER A 8 20260126 "FX SEK->USD"
+
+
+
+{
+
+
+
+   #TRANS 1945 {} -22500.00
+
+
+
+   #TRANS 1942 {} 22500.00
+
+
+
+}
+
+
+
+#VER A 9 20260126 "Topped up account"
+
+
+
+{
+
+
+
+   #TRANS 1945 {} 22500.00
+
+
+
+   #TRANS 2893 {} -22500.00
+
+
+
+}
+
+
+
+#UB 0 1942 159565.50
+
+
+
+#UB 0 1945 -116726.48
+
+
+
+#UB 0 1948 -20445.50
+
+
+
+#UB 0 2893 -22393.52
+
+
+
+#RES 0 4010 -128.37
+
+
+
+#RES 0 5611 128.37
+
+
+

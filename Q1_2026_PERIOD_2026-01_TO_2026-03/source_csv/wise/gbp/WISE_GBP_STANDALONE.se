@@ -1,0 +1,58 @@
+#FLAGGA 0
+
+#PROGRAM "SamisJackets-Wise-GBP" "1.0"
+
+#FORMAT PC8
+
+#GEN 20260504
+
+#SIETYP 4
+
+#FNAMN "Samis Jackets AB"
+
+#ORGNR 559489-5301
+
+#KPTYP EUBAS97
+
+#RAR 0 20260101 20261231
+
+#RAR -1 20240701 20251231
+
+#KONTO 1942 "Wise USD"
+
+#KONTO 1943 "Wise GBP"
+
+#KONTO 2893 "Skuld till del„gare och n„rst†ende"
+
+#IB 0 1942 0.00
+
+#IB 0 1943 0.00
+
+#IB 0 2893 0.00
+
+#VER A 1 20260127 "FX GBP->USD"
+
+{
+
+   #TRANS 1943 {} -97310.80
+
+   #TRANS 1942 {} 97310.80
+
+}
+
+#VER A 2 20260127 "ahmed gheyath al-sha (Loan)"
+
+{
+
+   #TRANS 1943 {} 97310.80
+
+   #TRANS 2893 {} -97310.80
+
+}
+
+#UB 0 1942 97310.80
+
+#UB 0 1943 0.00
+
+#UB 0 2893 -97310.80
+

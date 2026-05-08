@@ -1,0 +1,20 @@
+﻿# Brain dump för Wise GBP
+# Syntax: nyckelord  ->  konto  BUSINESS|PRIVATE  kommentar
+# Med belopps-filter: nyckelord|belopp  ->  konto  SIDE  kommentar
+
+# === ÄGAREN / NÄRSTÅENDE → 1939 ===
+ahmed gheyath al-sharif    ->  2893  PRIVATE  ägaren / lån (Loan)
+ahmed ghith alsharef       ->  2893  PRIVATE  ägaren
+ahmed gheyath              ->  2893  PRIVATE  ägaren (kort)
+ahmed ghith                ->  2893  PRIVATE  ägaren (kort)
+mohamad sharif             ->  2893  PRIVATE  ägaren
+mohammad sami              ->  2893  PRIVATE  ägaren
+
+# === KONTANT (privat) ===
+bankomat                   ->  2893  PRIVATE  kontantuttag privat
+kontanten                  ->  2893  PRIVATE  kontantuttag privat
+
+# === PRIVATA RESOR ===
+klm airline                ->  2893  PRIVATE  privat flygresa
+trip.com                   ->  2893  PRIVATE  privat resa
+gotogate                   ->  2893  PRIVATE  privat flygresa

@@ -1,0 +1,45 @@
+Period,Employee,Payment_Date,Salary_Month,Net_SEK,Personal_Tax_SEK,Employer_Contrib_SEK,Gross_SEK,Total_Cost_SEK,Payment_Method,Status
+Q1_2026,Mari,2026-02-24,Jan_2026,16725.00,1803.76,3258.27,18528.76,21787.03,Marginalen_1930,Paid
+Q1_2026,Emelie,2026-02-24,Jan_2026,15916.00,1716.24,3101.73,17632.24,20733.97,Marginalen_1930,Paid
+Q1_2026,Unknown,2026-03-25,Feb_2026,5501.00,1620.08,2828.78,7121.08,9949.86,Marginalen_1930,Paid
+Q1_2026,Emelie,2026-03-26,Feb_2026_Semester,23753.00,6993.92,12212.22,30746.92,42959.14,Marginalen_1930,Paid
+Q1_2026,Combined,Q1_2026_TOTAL,Q1_Total,61895.00,14074.00,23868.00,75969.00,99837.00,Multiple,Summary
+
+# NOTES:
+# - Source: PAYROLL_AUDIT_Q1_2026.md and payroll_q1_2026.txt
+# - Total personnel cost Q1: 99,837 SEK (gross salary + employer contributions)
+# - Net effect on P&L after subsidies (3985): 62,553 SEK
+# - Personal tax (2710) and employer contributions (2731) paid via Skatteverket (1630)
+# - Government subsidies received (3985): 22,145 SEK (Anställningsstöd + Lönebidrag)
+#
+# ACCOUNTING ENTRIES NEEDED:
+# 1. Each salary payment should be:
+#    Dr 7210 Bruttolön (gross)
+#    Dr 7510 Arbetsgivaravgift (employer contrib)
+#    Cr 2710 Personalskatt (personal tax liability)
+#    Cr 2731 Sociala avgifter (social security liability)
+#    Cr 1930 Marginalen (net paid)
+#
+# 2. Tax payments to Skatteverket (already booked):
+#    Dr 1630 Skattekonto
+#    Cr 2710 + Cr 2731 (paying the liabilities)
+#
+# 3. Subsidies received (already booked):
+#    Dr 1630 Skattekonto
+#    Cr 3985 Offentliga bidrag
+
+# TAX PAYMENTS VIA SKATTEVERKET (1630):
+# Date,Type,Amount_SEK,Period
+2026-03-12,Arbetsgivaravgift,-6360.00,Feb_2026
+2026-03-12,Avdragen_skatt,-3520.00,Feb_2026
+2026-04-13,Arbetsgivaravgift,-8909.00,Mar_2026
+2026-04-13,Avdragen_skatt,-5014.00,Mar_2026
+2026-04-13,Beslut_AGAV,-6132.00,Feb_2026_korr
+2026-04-13,Beslut_Pskatt,-3600.00,Feb_2026_korr
+2026-04-27,Beslut_AGAV,-2467.00,Mar_2026_korr
+2026-04-27,Beslut_Pskatt,-1940.00,Mar_2026_korr
+
+# SUBSIDIES RECEIVED:
+# Date,Type,Amount_SEK
+2026-03-12,Anställningsstöd,3755.00
+2026-03-12,Lönebidrag,18390.00

@@ -1,0 +1,2 @@
+date;amount_sek;currency;original_amount;direction;suggested_account;category_hint;counterparty;description;notes;needs_review;source_file
+2026-03-31;204990.00;SEK;204990.00;IN;3051;SALES_SUMMARY;Kassa POS;Kassa försäljningsrapport - 361 artikelrader;SUMMERING - matcha mot Marginalen/Worldline/Swish-inbetalningar, bokför INTE som extra intäkt;NO;kassa Försäljningsrapport 2026-04-28 14-37.csv

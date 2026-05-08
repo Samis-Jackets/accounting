@@ -1,0 +1,567 @@
+#FLAGGA 0
+#PROGRAM "Spiris Bokforing audit-snippet" 1.0
+#FORMAT PC8
+#GEN 20260429 "Mohammad Sami Alsharef"
+#SIETYP 4
+#ORGNR 559489-5301
+#FNAMN "Samis Jackets AB"
+#RAR 0 20260101 20260331
+#KPTYP EUBAS97
+#VALUTA SEK
+; Per-bank audit-snippet for worldline. NOT for Visma import.
+; Bank account = 1947 (Worldline)
+
+#KONTO 1947 "Worldline"
+#KONTO 3051 "F”rs„ljning Shopify/Swish 25%"
+#KONTO 6570 "Bankkostnader"
+
+#VER W 1 20260101 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 3433.00
+#TRANS 3051 {} -3433.00
+}
+#VER W 2 20260101 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -26.38
+#TRANS 6570 {} 26.38
+}
+#VER W 3 20260105 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 4555.00
+#TRANS 3051 {} -4555.00
+}
+#VER W 4 20260105 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -29.88
+#TRANS 6570 {} 29.88
+}
+#VER W 5 20260106 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 5221.00
+#TRANS 3051 {} -5221.00
+}
+#VER W 6 20260106 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -33.99
+#TRANS 6570 {} 33.99
+}
+#VER W 7 20260107 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 4303.00
+#TRANS 3051 {} -4303.00
+}
+#VER W 8 20260107 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -28.51
+#TRANS 6570 {} 28.51
+}
+#VER W 9 20260108 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 5016.00
+#TRANS 3051 {} -5016.00
+}
+#VER W 10 20260108 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -32.74
+#TRANS 6570 {} 32.74
+}
+#VER W 11 20260109 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1895.00
+#TRANS 3051 {} -1895.00
+}
+#VER W 12 20260109 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -12.31
+#TRANS 6570 {} 12.31
+}
+#VER W 13 20260110 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1244.00
+#TRANS 3051 {} -1244.00
+}
+#VER W 14 20260110 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -8.07
+#TRANS 6570 {} 8.07
+}
+#VER W 15 20260111 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 3089.00
+#TRANS 3051 {} -3089.00
+}
+#VER W 16 20260111 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -20.07
+#TRANS 6570 {} 20.07
+}
+#VER W 17 20260112 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 2245.00
+#TRANS 3051 {} -2245.00
+}
+#VER W 18 20260112 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -14.58
+#TRANS 6570 {} 14.58
+}
+#VER W 19 20260114 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1880.00
+#TRANS 3051 {} -1880.00
+}
+#VER W 20 20260114 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -12.42
+#TRANS 6570 {} 12.42
+}
+#VER W 21 20260115 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 399.00
+#TRANS 3051 {} -399.00
+}
+#VER W 22 20260115 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -2.59
+#TRANS 6570 {} 2.59
+}
+#VER W 23 20260116 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1861.00
+#TRANS 3051 {} -1861.00
+}
+#VER W 24 20260116 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -12.08
+#TRANS 6570 {} 12.08
+}
+#VER W 25 20260117 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1997.00
+#TRANS 3051 {} -1997.00
+}
+#VER W 26 20260117 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -18.75
+#TRANS 6570 {} 18.75
+}
+#VER W 27 20260119 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1075.00
+#TRANS 3051 {} -1075.00
+}
+#VER W 28 20260119 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -8.93
+#TRANS 6570 {} 8.93
+}
+#VER W 29 20260120 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 398.00
+#TRANS 3051 {} -398.00
+}
+#VER W 30 20260120 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -3.86
+#TRANS 6570 {} 3.86
+}
+#VER W 31 20260121 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1494.00
+#TRANS 3051 {} -1494.00
+}
+#VER W 32 20260121 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -9.69
+#TRANS 6570 {} 9.69
+}
+#VER W 33 20260122 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1378.00
+#TRANS 3051 {} -1378.00
+}
+#VER W 34 20260122 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -9.04
+#TRANS 6570 {} 9.04
+}
+#VER W 35 20260124 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 5284.44
+#TRANS 3051 {} -5284.44
+}
+#VER W 36 20260124 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -34.66
+#TRANS 6570 {} 34.66
+}
+#VER W 37 20260126 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 3073.00
+#TRANS 3051 {} -3073.00
+}
+#VER W 38 20260126 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -41.36
+#TRANS 6570 {} 41.36
+}
+#VER W 39 20260127 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 2366.00
+#TRANS 3051 {} -2366.00
+}
+#VER W 40 20260127 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -15.37
+#TRANS 6570 {} 15.37
+}
+#VER W 41 20260128 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1581.00
+#TRANS 3051 {} -1581.00
+}
+#VER W 42 20260128 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -10.27
+#TRANS 6570 {} 10.27
+}
+#VER W 43 20260129 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 4091.00
+#TRANS 3051 {} -4091.00
+}
+#VER W 44 20260129 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -26.59
+#TRANS 6570 {} 26.59
+}
+#VER W 45 20260131 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 9993.00
+#TRANS 3051 {} -9993.00
+}
+#VER W 46 20260131 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -65.12
+#TRANS 6570 {} 65.12
+}
+#VER W 47 20260202 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 3871.00
+#TRANS 3051 {} -3871.00
+}
+#VER W 48 20260202 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -25.15
+#TRANS 6570 {} 25.15
+}
+#VER W 49 20260203 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 843.00
+#TRANS 3051 {} -843.00
+}
+#VER W 50 20260203 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -5.47
+#TRANS 6570 {} 5.47
+}
+#VER W 51 20260204 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1268.00
+#TRANS 3051 {} -1268.00
+}
+#VER W 52 20260204 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -8.23
+#TRANS 6570 {} 8.23
+}
+#VER W 53 20260205 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1764.00
+#TRANS 3051 {} -1764.00
+}
+#VER W 54 20260205 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -11.46
+#TRANS 6570 {} 11.46
+}
+#VER W 55 20260206 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 506.00
+#TRANS 3051 {} -506.00
+}
+#VER W 56 20260206 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -3.28
+#TRANS 6570 {} 3.28
+}
+#VER W 57 20260207 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 3615.00
+#TRANS 3051 {} -3615.00
+}
+#VER W 58 20260207 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -23.67
+#TRANS 6570 {} 23.67
+}
+#VER W 59 20260209 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 3722.00
+#TRANS 3051 {} -3722.00
+}
+#VER W 60 20260209 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -24.18
+#TRANS 6570 {} 24.18
+}
+#VER W 61 20260210 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 4581.00
+#TRANS 3051 {} -4581.00
+}
+#VER W 62 20260210 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -33.07
+#TRANS 6570 {} 33.07
+}
+#VER W 63 20260211 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1386.00
+#TRANS 3051 {} -1386.00
+}
+#VER W 64 20260211 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -9.05
+#TRANS 6570 {} 9.05
+}
+#VER W 65 20260213 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 3038.00
+#TRANS 3051 {} -3038.00
+}
+#VER W 66 20260213 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -33.29
+#TRANS 6570 {} 33.29
+}
+#VER W 67 20260214 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 965.00
+#TRANS 3051 {} -965.00
+}
+#VER W 68 20260214 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -6.38
+#TRANS 6570 {} 6.38
+}
+#VER W 69 20260215 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 550.00
+#TRANS 3051 {} -550.00
+}
+#VER W 70 20260215 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -3.58
+#TRANS 6570 {} 3.58
+}
+#VER W 71 20260217 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1326.00
+#TRANS 3051 {} -1326.00
+}
+#VER W 72 20260217 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -8.62
+#TRANS 6570 {} 8.62
+}
+#VER W 73 20260218 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 299.00
+#TRANS 3051 {} -299.00
+}
+#VER W 74 20260218 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -1.94
+#TRANS 6570 {} 1.94
+}
+#VER W 75 20260219 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 2324.00
+#TRANS 3051 {} -2324.00
+}
+#VER W 76 20260219 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -15.10
+#TRANS 6570 {} 15.10
+}
+#VER W 77 20260220 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 378.00
+#TRANS 3051 {} -378.00
+}
+#VER W 78 20260220 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -2.45
+#TRANS 6570 {} 2.45
+}
+#VER W 79 20260221 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1590.00
+#TRANS 3051 {} -1590.00
+}
+#VER W 80 20260221 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -10.51
+#TRANS 6570 {} 10.51
+}
+#VER W 81 20260224 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 3915.00
+#TRANS 3051 {} -3915.00
+}
+#VER W 82 20260224 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -25.64
+#TRANS 6570 {} 25.64
+}
+#VER W 83 20260227 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 5152.00
+#TRANS 3051 {} -5152.00
+}
+#VER W 84 20260227 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -33.48
+#TRANS 6570 {} 33.48
+}
+#VER W 85 20260228 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1.00
+#TRANS 3051 {} -1.00
+}
+#VER W 86 20260228 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -0.01
+#TRANS 6570 {} 0.01
+}
+#VER W 87 20260302 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 847.00
+#TRANS 3051 {} -847.00
+}
+#VER W 88 20260302 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -5.50
+#TRANS 6570 {} 5.50
+}
+#VER W 89 20260305 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 99.00
+#TRANS 3051 {} -99.00
+}
+#VER W 90 20260305 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -0.64
+#TRANS 6570 {} 0.64
+}
+#VER W 91 20260315 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 1656.00
+#TRANS 3051 {} -1656.00
+}
+#VER W 92 20260315 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -10.90
+#TRANS 6570 {} 10.90
+}
+#VER W 93 20260316 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 3985.00
+#TRANS 3051 {} -3985.00
+}
+#VER W 94 20260316 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -27.14
+#TRANS 6570 {} 27.14
+}
+#VER W 95 20260317 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 8619.00
+#TRANS 3051 {} -8619.00
+}
+#VER W 96 20260317 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -58.28
+#TRANS 6570 {} 58.28
+}
+#VER W 97 20260320 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 6021.00
+#TRANS 3051 {} -6021.00
+}
+#VER W 98 20260320 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -39.81
+#TRANS 6570 {} 39.81
+}
+#VER W 99 20260322 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 6721.00
+#TRANS 3051 {} -6721.00
+}
+#VER W 100 20260322 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -55.54
+#TRANS 6570 {} 55.54
+}
+#VER W 101 20260324 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 12591.00
+#TRANS 3051 {} -12591.00
+}
+#VER W 102 20260324 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -86.71
+#TRANS 6570 {} 86.71
+}
+#VER W 103 20260325 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 2537.00
+#TRANS 3051 {} -2537.00
+}
+#VER W 104 20260325 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -16.48
+#TRANS 6570 {} 16.48
+}
+#VER W 105 20260326 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 7690.00
+#TRANS 3051 {} -7690.00
+}
+#VER W 106 20260326 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -65.40
+#TRANS 6570 {} 65.40
+}
+#VER W 107 20260327 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 5719.00
+#TRANS 3051 {} -5719.00
+}
+#VER W 108 20260327 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -44.55
+#TRANS 6570 {} 44.55
+}
+#VER W 109 20260330 "G&S By Samis jackets | SALES"
+{
+#TRANS 1947 {} 16213.00
+#TRANS 3051 {} -16213.00
+}
+#VER W 110 20260330 "Worldline / Bambora | BANK_FEE"
+{
+#TRANS 1947 {} -105.80
+#TRANS 6570 {} 105.80
+}

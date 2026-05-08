@@ -1,0 +1,31 @@
+#FLAGGA 0
+#PROGRAM "Manual correction" "1.0"
+#FORMAT PC8
+#GEN 20260507
+#SIETYP 4
+#FNAMN "Samis Jackets AB"
+#ORGNR 559489-5301
+#KPTYP EUBAS97
+#RAR 0 20260101 20261231
+#RAR -1 20240701 20251231
+
+#KONTO 1220 "Inventarier, verktyg och installationer"
+#KONTO 1460 "Lager av handelsvaror"
+#KONTO 2441 "Leverantorsskulder"
+#KONTO 2615 "Utgaende moms import av varor 25%"
+#KONTO 2645 "Beraknad ingaende moms pa forvarv fran utlandet"
+#KONTO 4545 "Import av varor, 25 % moms"
+#KONTO 4549 "Motkonto beskattningsunderlag import"
+#KONTO 5460 "Forbrukningsmaterial"
+
+#VER A 999 20260331 "FWT Invoice FWT-SJ-2026-Q1-001 - $126,882.90 @ 9.6 - full reverse charge import (ersatter A526)"
+{
+   #TRANS 1460 {}   791575.22
+   #TRANS 5460 {}   183926.02
+   #TRANS 1220 {}   242574.60
+   #TRANS 2441 {} -1218075.84
+   #TRANS 4545 {}  1218075.84
+   #TRANS 4549 {} -1218075.84
+   #TRANS 2645 {}   304518.96
+   #TRANS 2615 {}  -304518.96
+}

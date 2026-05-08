@@ -1,0 +1,20 @@
+#FLAGGA 0
+#PROGRAM "AI Accountant" "1.0"
+#FORMAT PC8
+#GEN 20260507
+#SIETYP 4
+#FNAMN "Samis Jackets AB"
+#ORGNR 559489-5301
+#ADRESS "" "" "" ""
+#FNR 1
+#RAR 0 20260101 20261231
+#KPTYP EUBAS97
+
+#KONTO 2441 "Leverantörsskulder"
+#KONTO 2893 "Skulder till närstående personer, kortfristig del"
+
+#VER A 528 20260331 "Payment to FWT by Samer Alsharef - 373,303 SEK (38,885 USD @ 9.6)"
+{
+   #TRANS 2441 {} 373303.00 20260331 "Paid to Future World Tech in China by Samer"
+   #TRANS 2893 {} -373303.00 20260331 "Loan from Mhd Samer Alsharef - 38,885 USD"
+}

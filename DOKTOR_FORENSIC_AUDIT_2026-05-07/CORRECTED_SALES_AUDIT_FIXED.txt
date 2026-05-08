@@ -1,0 +1,49 @@
+================================================================================
+CORRECTED SALES & VAT AUDIT - FIXED VERSION
+Samis Jackets AB - Org.nr: 559489-5301
+Date: 2026-05-07
+Period: Q1 2026 (2026-01-01 to 2026-03-31)
+================================================================================
+
+USER CORRECTIONS APPLIED:
+✅ Removed insurance/försäkringsersättningar (NOT sales)
+✅ Fixed Worldline double-counting (only use Marginalen B transactions)
+✅ Separated bidrag/grants from sales
+
+📊 REAL SALES (Q1 2026):
+--------------------------------------------------------------------------------
+   Marginalen direct sales (3001)                       5,638.40 SEK
+   Norway Export (3105)                                58,000.00 SEK
+   Lunar Bank (3001)                                   74,486.65 SEK
+   Wise EU/USD (3051)                                   1,035.00 SEK
+--------------------------------------------------------------------------------
+   TOTAL REAL SALES (Gross)                           139,160.05 SEK
+
+   Net Sales (excl. VAT)                              122,928.04 SEK
+   Output VAT 25%                                      16,232.01 SEK
+
+💰 OTHER INCOME (NOT SALES):
+--------------------------------------------------------------------------------
+   Insurance/försäkringsersättningar (3994)            49,668.00 SEK
+--------------------------------------------------------------------------------
+   TOTAL OTHER INCOME                                  49,668.00 SEK
+
+   Note: These are not sales - they are insurance compensation
+   or government grants. No VAT applies.
+
+❌ DUPLICATES REMOVED (User was RIGHT!):
+--------------------------------------------------------------------------------
+   Worldline standalone (DUPLICATE)                   145,330.75 SEK
+
+   Worldline deposits show up in Marginalen as 'B...' transactions.
+   We only count them once (from Marginalen B transactions).
+
+📋 SUMMARY:
+================================================================================
+   Real Sales (Gross):                   139,160.05 SEK
+   Real Sales (Net, excl. VAT):          122,928.04 SEK
+   Output VAT 25%:                        16,232.01 SEK
+   Other Income (Insurance/Bidrag):       49,668.00 SEK
+
+✅ NO DOUBLE-COUNTING
+✅ INSURANCE SEPARATED FROM SALES

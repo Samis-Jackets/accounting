@@ -1,0 +1,63 @@
+﻿"""Saldolista""",,,,,,
+Samis Jackets AB,,,,,,
+559489-5301,,,,,,
+"""Utskriftsdatum"": den 7 May 2026 13:50:35",,,,,,
+,,,,,,
+"""Avser perioden"" 2026-01-01 - 2026-12-31",,,,,,
+,,,,,,
+"""Konto""","""Beskrivning""","""Ingående balans""","""Debet""","""Kredit""","""Differens""","""Utgående saldo"""
+1220,"Inventarier, verktyg och installationer",49170.68,485149.20,242574.60,242574.60,291745.28
+1240,(Fritt konto för Maskiner och andra tekniska anläggningar),27500.00,0.00,0.00,0.00,27500.00
+1460,Lager av handelsvaror,566933.00,1685290.44,1137368.64,547921.80,1114854.80
+1580,Fordringar för kontokort och kuponger,39934.97,0.00,0.00,0.00,39934.97
+1630,Avräkning för skatter och avgifter (skattekonto),103.00,94628.00,92168.00,2460.00,2563.00
+1910,Kassa,0.92,29400.00,29363.00,37.00,37.92
+1930,Företagskonto,42490.75,387673.62,413193.28,-25519.66,16971.09
+1941,Annat bankkonto viva.com,-0.55,0.00,0.00,0.00,-0.55
+1942,Wise USD,4503.41,299639.48,299683.55,-44.07,4459.34
+1943,Wise GBP,0.00,97310.80,97310.80,0.00,0.00
+1944,Wise EUR,0.00,67022.68,68178.00,-1155.32,-1155.32
+1945,Wise SEK,0.00,159800.35,159800.35,0.00,0.00
+1947,Worldline,14591.99,181663.44,195438.54,-13775.10,816.89
+1948,Sales account,0.17,95464.31,107152.83,-11688.52,-11688.35
+2091,Balanserad vinst eller förlust,-2511.47,0.00,0.00,0.00,-2511.47
+2093,Erhållna aktieägartillskott,-1.00,0.00,0.00,0.00,-1.00
+2441,Future World Tech,610300.17,1825850.75,2436151.68,-610300.93,-0.76
+2448,Ej reskontraförda leverantörsskulder,-0.92,0.00,0.00,0.00,-0.92
+2510,Skatteskulder,22940.00,0.00,0.00,0.00,22940.00
+2611,"Utgående moms på försäljning inom Sverige, 25%",0.00,604.99,65933.38,-65328.39,-65328.39
+2615,Utgående moms import av varor 25%,0.00,609037.92,304518.96,304518.96,304518.96
+2641,Debiterad ingående moms,1053.60,815.41,243.64,571.77,1625.37
+2645,Beräknad ingående moms på förvärv från utlandet,0.00,304518.96,609037.92,-304518.96,-304518.96
+2650,Redovisningskonto för moms,-81643.00,81643.00,0.00,81643.00,0.00
+2710,Personalskatt,0.00,3520.00,12134.00,-8614.00,-8614.00
+2731,Avräkning lagstadgade sociala avgifter,0.00,6360.00,21401.00,-15041.00,-15041.00
+2893,"Skulder till närstående personer, kortfristig del",-1598927.35,87808.77,546260.98,-458452.21,-2057379.56
+3001,"Försäljning inom Sverige, 25 % moms",0.00,2419.98,99741.76,-97321.78,-97321.78
+3051,Försäljn varor 25% sv,0.00,0.00,163991.75,-163991.75,-163991.75
+3105,Försäljning varor till land utanför EU,0.00,0.00,58000.00,-58000.00,-58000.00
+3190,∩┐╜vrig f∩┐╜rs∩┐╜ljning av varor,0.00,0.00,2839.35,-2839.35,-2839.35
+3985,Erhållna statliga bidrag,0.00,0.00,22145.00,-22145.00,-22145.00
+3994,Försäkringsersättningar,0.00,0.00,49668.00,-49668.00,-49668.00
+4110,Kostnad slda varor,0.00,345793.42,0.00,345793.42,345793.42
+4580,Varor f├╢r ├Ñterf├╢rs├ñljning - livsmedel,0.00,3644.34,0.00,3644.34,3644.34
+5010,Lokalhyra,0.00,20836.00,0.00,20836.00,20836.00
+5410,Förbrukningsinventarier,0.00,17671.35,128.37,17542.98,17542.98
+5420,Programvaror,0.00,9806.75,960.00,8846.75,8846.75
+5460,Förbrukningsmaterial,0.00,369079.02,183926.02,185153.00,185153.00
+5611,"Drivmedel för personbilar, mc, m.m.",0.00,11935.41,3312.74,8622.67,8622.67
+5700,Frakter och transporter (gruppkonto),0.00,1056.84,0.00,1056.84,1056.84
+5710,Frakter och försäkringar vid varudistribution,0.00,20532.28,0.00,20532.28,20532.28
+5800,Resekostnader (gruppkonto),0.00,35.91,0.00,35.91,35.91
+5900,Reklam och PR (gruppkonto),0.00,7936.64,14.54,7922.10,7922.10
+6212,Mobiltelefon,0.00,2775.64,0.00,2775.64,2775.64
+6310,Företagsförsäkringar,0.00,4633.00,0.00,4633.00,4633.00
+6500,Övriga externa tjänster (gruppkonto),0.00,1011.72,0.00,1011.72,1011.72
+6570,Bankkostnader,0.00,4267.04,0.00,4267.04,4267.04
+7210,Löner till tjänstemän,0.00,74029.00,0.00,74029.00,74029.00
+7510,"Arbetsgivaravgifter 31,42 %",0.00,21401.00,0.00,21401.00,21401.00
+7960,Valutakursförluster på fordringar och skulder av rörelsekaraktär,0.00,6.52,0.00,6.52,6.52
+8311,Ränteintäkter från bank,0.00,0.00,78.30,-78.30,-78.30
+8423,Räntekostnader för skatter och avgifter,0.00,645.00,0.00,645.00,645.00
+,,,,,,
+,"""Totalt""",-303561.63,7422718.98,7422718.98,0.00,-303561.63,

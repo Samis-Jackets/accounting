@@ -1,0 +1,134 @@
+================================================================================
+CORRECTED SALES & VAT AUDIT - USER-CORRECTED VERSION
+================================================================================
+Samis Jackets AB - Org.nr: 559489-5301
+Date: 2026-05-07
+Period: Q1 2026 (2026-01-01 to 2026-03-31)
+
+USER CORRECTIONS APPLIED:
+✅ Removed insurance 49,668 SEK (3994 försäkringsersättningar - NOT sales)
+✅ Fixed Worldline double-counting (Worldline deposits to Marginalen as "B" transactions)
+✅ Worldline sales 145,330.75 SEK counted ONCE (not twice)
+
+================================================================================
+📊 CORRECTED REAL SALES (Q1 2026):
+================================================================================
+
+1. CARD SALES (Worldline → Marginalen "B" transactions)
+   -----------------------------------------------------------------------
+   Gross amount (incl. 25% VAT):                        145,330.75 SEK
+   
+   These are card payments processed by Worldline that deposit to
+   Marginalen bank account as "B..." reference transactions.
+   57 card payment deposits found in Marginalen.
+   
+   Net sales (excl. VAT): 145,330.75 / 1.25 =          116,264.60 SEK
+   Output VAT 25%:                                       29,066.15 SEK
+
+2. LUNAR BANK SALES (Account 1948 → 3001)
+   -----------------------------------------------------------------------
+   Gross amount from Lunar:                              74,486.65 SEK
+   MINUS: Insurance (3994) - NOT SALES:                       0.00 SEK
+   
+   Note: Insurance 49,668 SEK is in MARGINALEN, not Lunar
+   
+   Real Lunar sales (incl. 25% VAT):                     74,486.65 SEK
+   Net sales (excl. VAT): 74,486.65 / 1.25 =            59,589.32 SEK
+   Output VAT 25%:                                       14,897.33 SEK
+
+3. WISE EU/USD SALES (Account 1945 → 3051)
+   -----------------------------------------------------------------------
+   Gross amount (incl. 25% VAT):                          1,035.00 SEK
+   Net sales (excl. VAT): 1,035 / 1.25 =                   828.00 SEK
+   Output VAT 25%:                                          207.00 SEK
+
+4. NORWAY EXPORT SALES (Account 3105 - 0% VAT)
+   -----------------------------------------------------------------------
+   Export to Norway (0% VAT):                            58,000.00 SEK
+   
+   Export outside Sweden - no VAT applicable
+
+5. MARGINALEN DIRECT SALES (Account 3001)
+   -----------------------------------------------------------------------
+   Small direct sales:                                    5,638.40 SEK
+   Net sales (excl. VAT): 5,638.40 / 1.25 =              4,510.72 SEK
+   Output VAT 25%:                                        1,127.68 SEK
+
+================================================================================
+💰 OTHER INCOME (NOT SALES) - Separate from sales revenue:
+================================================================================
+
+INSURANCE COMPENSATION (Account 3994 - försäkringsersättningar):
+   -----------------------------------------------------------------------
+   VER A 13 (20260112): "0006641229"                      1,294.00 SEK
+   VER A 83 (20260225): "0006641229"                     48,374.00 SEK
+   -----------------------------------------------------------------------
+   TOTAL INSURANCE COMPENSATION:                         49,668.00 SEK
+   
+   NOTE: This is OTHER INCOME, not sales revenue
+   No VAT applies to insurance compensation
+
+GOVERNMENT GRANTS/BIDRAG (Account 3985):
+   -----------------------------------------------------------------------
+   No bidrag found in Q1 2026:                                0.00 SEK
+
+================================================================================
+📋 CORRECTED SUMMARY:
+================================================================================
+
+SALES REVENUE (Försäljning):
+   Gross sales (incl. VAT):                             284,490.80 SEK
+   Net sales (excl. VAT):                               239,192.64 SEK
+   Output VAT 25%:                                       45,298.16 SEK
+
+OTHER INCOME (Övriga intäkter):
+   Insurance compensation (3994):                        49,668.00 SEK
+   Government grants (3985):                                  0.00 SEK
+
+TOTAL INCOME (Sales + Other):                           334,158.80 SEK
+
+================================================================================
+❌ ERRORS CORRECTED:
+================================================================================
+
+ERROR #1: DOUBLE-COUNTING WORLDLINE
+   Previous audit counted: Worldline 145,330.75 + Marginalen B transactions
+   CORRECTION: These are THE SAME transactions (Worldline deposits TO Marginalen)
+   Result: Removed 145,330.75 SEK duplicate
+
+ERROR #2: INSURANCE AS SALES
+   Previous audit counted 49,668 SEK insurance as sales
+   CORRECTION: Insurance is "Other Income" (3994), not sales (3001/3051/3105)
+   Result: Moved 49,668 SEK from sales to other income
+
+ERROR #3: BIDRAG AS SALES
+   User mentioned 48,500 bidrag treated as sales
+   VERIFICATION: Found as insurance 48,374 SEK (VER A 83), not bidrag
+   No actual bidrag (3985) found in Q1 2026
+
+================================================================================
+✅ VERIFICATION:
+================================================================================
+
+Worldline total from standalone SE file:                145,330.75 SEK ✓
+Number of "B" transactions in Marginalen:                        57 ✓
+Insurance 3994 in Marginalen:                            49,668.00 SEK ✓
+Total correctly excludes duplicates and non-sales income             ✓
+
+================================================================================
+BREAKDOWN BY SOURCE:
+================================================================================
+
+Card Sales (Worldline/Marginalen):        145,330.75 SEK  (51.1%)
+Lunar Bank Sales:                          74,486.65 SEK  (26.2%)
+Norway Export:                             58,000.00 SEK  (20.4%)
+Marginalen Direct:                          5,638.40 SEK   (2.0%)
+Wise Sales:                                 1,035.00 SEK   (0.3%)
+                                         ───────────────
+TOTAL SALES:                              284,490.80 SEK (100.0%)
+
+Other Income (Insurance):                  49,668.00 SEK
+
+================================================================================
+END OF CORRECTED AUDIT
+================================================================================

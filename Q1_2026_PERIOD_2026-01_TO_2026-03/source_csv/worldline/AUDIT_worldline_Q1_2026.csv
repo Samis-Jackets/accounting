@@ -1,0 +1,112 @@
+date;amount_sek;currency;original_amount;direction;suggested_account;category_hint;counterparty;description;notes;needs_review;source_file
+2026-01-01;3433.00;SEK;3433.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01019707261 (7 kortköp, payout 3411.61);REF=B01019707261 matchar Marginalen B-rad 3411.61;NO;monthly_report_202601.xlsx
+2026-01-01;-26.38;SEK;-26.38;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01019707261;;NO;monthly_report_202601.xlsx
+2026-01-05;4555.00;SEK;4555.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01059767400 (14 kortköp, payout 4525.12);REF=B01059767400 matchar Marginalen B-rad 4525.12;NO;monthly_report_202601.xlsx
+2026-01-05;-29.88;SEK;-29.88;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01059767400;;NO;monthly_report_202601.xlsx
+2026-01-06;5221.00;SEK;5221.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01069781423 (13 kortköp, payout 5187.01);REF=B01069781423 matchar Marginalen B-rad 5187.01;NO;monthly_report_202601.xlsx
+2026-01-06;-33.99;SEK;-33.99;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01069781423;;NO;monthly_report_202601.xlsx
+2026-01-07;4303.00;SEK;4303.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01079801854 (8 kortköp, payout 4274.49);REF=B01079801854 matchar Marginalen B-rad 4274.49;NO;monthly_report_202601.xlsx
+2026-01-07;-28.51;SEK;-28.51;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01079801854;;NO;monthly_report_202601.xlsx
+2026-01-08;5016.00;SEK;5016.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01089820788 (16 kortköp, payout 4983.26);REF=B01089820788 matchar Marginalen B-rad 4983.26;NO;monthly_report_202601.xlsx
+2026-01-08;-32.74;SEK;-32.74;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01089820788;;NO;monthly_report_202601.xlsx
+2026-01-09;1895.00;SEK;1895.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01099844174 (8 kortköp, payout 1882.69);REF=B01099844174 matchar Marginalen B-rad 1882.69;NO;monthly_report_202601.xlsx
+2026-01-09;-12.31;SEK;-12.31;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01099844174;;NO;monthly_report_202601.xlsx
+2026-01-10;1244.00;SEK;1244.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01109871141 (5 kortköp, payout 1235.93);REF=B01109871141 matchar Marginalen B-rad 1235.93;NO;monthly_report_202601.xlsx
+2026-01-10;-8.07;SEK;-8.07;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01109871141;;NO;monthly_report_202601.xlsx
+2026-01-11;3089.00;SEK;3089.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01119895474 (6 kortköp, payout 3068.93);REF=B01119895474 matchar Marginalen B-rad 3068.93;NO;monthly_report_202601.xlsx
+2026-01-11;-20.07;SEK;-20.07;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01119895474;;NO;monthly_report_202601.xlsx
+2026-01-12;2245.00;SEK;2245.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01129913847 (4 kortköp, payout 2230.42);REF=B01129913847 matchar Marginalen B-rad 2230.42;NO;monthly_report_202601.xlsx
+2026-01-12;-14.58;SEK;-14.58;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01129913847;;NO;monthly_report_202601.xlsx
+2026-01-14;1880.00;SEK;1880.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01149951988 (9 kortköp, payout 1867.58);REF=B01149951988 matchar Marginalen B-rad 1867.58;NO;monthly_report_202601.xlsx
+2026-01-14;-12.42;SEK;-12.42;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01149951988;;NO;monthly_report_202601.xlsx
+2026-01-15;399.00;SEK;399.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01159978317 (1 kortköp, payout 396.41);REF=B01159978317 matchar Marginalen B-rad 396.41;NO;monthly_report_202601.xlsx
+2026-01-15;-2.59;SEK;-2.59;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01159978317;;NO;monthly_report_202601.xlsx
+2026-01-16;1861.00;SEK;1861.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01160005483 (5 kortköp, payout 1848.92);REF=B01160005483 matchar Marginalen B-rad 1848.92;NO;monthly_report_202601.xlsx
+2026-01-16;-12.08;SEK;-12.08;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01160005483;;NO;monthly_report_202601.xlsx
+2026-01-17;1997.00;SEK;1997.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01170031005 (5 kortköp, payout 1978.25);REF=B01170031005 matchar Marginalen B-rad 1978.25;NO;monthly_report_202601.xlsx
+2026-01-17;-18.75;SEK;-18.75;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01170031005;;NO;monthly_report_202601.xlsx
+2026-01-19;1075.00;SEK;1075.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01190076678 (3 kortköp, payout 1066.07);REF=B01190076678 matchar Marginalen B-rad 1066.07;NO;monthly_report_202601.xlsx
+2026-01-19;-8.93;SEK;-8.93;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01190076678;;NO;monthly_report_202601.xlsx
+2026-01-20;398.00;SEK;398.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01200091424 (4 kortköp, payout 394.14);REF=B01200091424 matchar Marginalen B-rad 394.14;NO;monthly_report_202601.xlsx
+2026-01-20;-3.86;SEK;-3.86;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01200091424;;NO;monthly_report_202601.xlsx
+2026-01-21;1494.00;SEK;1494.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01210114816 (6 kortköp, payout 1484.31);REF=B01210114816 matchar Marginalen B-rad 1484.31;NO;monthly_report_202601.xlsx
+2026-01-21;-9.69;SEK;-9.69;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01210114816;;NO;monthly_report_202601.xlsx
+2026-01-22;1378.00;SEK;1378.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01220140280 (3 kortköp, payout 1368.96);REF=B01220140280 matchar Marginalen B-rad 1368.96;NO;monthly_report_202601.xlsx
+2026-01-22;-9.04;SEK;-9.04;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01220140280;;NO;monthly_report_202601.xlsx
+2026-01-24;5284.44;SEK;5284.44;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01240194434 (13 kortköp, payout 5249.78);REF=B01240194434 matchar Marginalen B-rad 5249.78;NO;monthly_report_202601.xlsx
+2026-01-24;-34.66;SEK;-34.66;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01240194434;;NO;monthly_report_202601.xlsx
+2026-01-26;3073.00;SEK;3073.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01260240243 (12 kortköp, payout 3031.64);REF=B01260240243 matchar Marginalen B-rad 3031.64;NO;monthly_report_202601.xlsx
+2026-01-26;-41.36;SEK;-41.36;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01260240243;;NO;monthly_report_202601.xlsx
+2026-01-27;2366.00;SEK;2366.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01270256020 (8 kortköp, payout 2350.63);REF=B01270256020 matchar Marginalen B-rad 2350.63;NO;monthly_report_202601.xlsx
+2026-01-27;-15.37;SEK;-15.37;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01270256020;;NO;monthly_report_202601.xlsx
+2026-01-28;1581.00;SEK;1581.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01280278972 (8 kortköp, payout 1570.73);REF=B01280278972 matchar Marginalen B-rad 1570.73;NO;monthly_report_202601.xlsx
+2026-01-28;-10.27;SEK;-10.27;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01280278972;;NO;monthly_report_202601.xlsx
+2026-01-29;4091.00;SEK;4091.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01290305116 (14 kortköp, payout 4064.41);REF=B01290305116 matchar Marginalen B-rad 4064.41;NO;monthly_report_202601.xlsx
+2026-01-29;-26.59;SEK;-26.59;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01290305116;;NO;monthly_report_202601.xlsx
+2026-01-31;9993.00;SEK;9993.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B01310359414 (35 kortköp, payout 9927.88);REF=B01310359414 matchar Marginalen B-rad 9927.88;NO;monthly_report_202601.xlsx
+2026-01-31;-65.12;SEK;-65.12;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B01310359414;;NO;monthly_report_202601.xlsx
+2026-02-01;0.00;SEK;0.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02010386401 (0 kortköp, payout 5.48);REF=B02010386401 matchar Marginalen B-rad 5.48;NO;monthly_report_202602.xlsx
+2026-02-02;3871.00;SEK;3871.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02020405609 (11 kortköp, payout 3845.85);REF=B02020405609 matchar Marginalen B-rad 3845.85;NO;monthly_report_202602.xlsx
+2026-02-02;-25.15;SEK;-25.15;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02020405609;;NO;monthly_report_202602.xlsx
+2026-02-03;843.00;SEK;843.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02030422253 (6 kortköp, payout 837.53);REF=B02030422253 matchar Marginalen B-rad 837.53;NO;monthly_report_202602.xlsx
+2026-02-03;-5.47;SEK;-5.47;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02030422253;;NO;monthly_report_202602.xlsx
+2026-02-04;1268.00;SEK;1268.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02040445787 (8 kortköp, payout 1259.77);REF=B02040445787 matchar Marginalen B-rad 1259.77;NO;monthly_report_202602.xlsx
+2026-02-04;-8.23;SEK;-8.23;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02040445787;;NO;monthly_report_202602.xlsx
+2026-02-05;1764.00;SEK;1764.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02050471530 (7 kortköp, payout 1752.54);REF=B02050471530 matchar Marginalen B-rad 1752.54;NO;monthly_report_202602.xlsx
+2026-02-05;-11.46;SEK;-11.46;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02050471530;;NO;monthly_report_202602.xlsx
+2026-02-06;506.00;SEK;506.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02060497853 (4 kortköp, payout 502.72);REF=B02060497853 matchar Marginalen B-rad 502.72;NO;monthly_report_202602.xlsx
+2026-02-06;-3.28;SEK;-3.28;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02060497853;;NO;monthly_report_202602.xlsx
+2026-02-07;3615.00;SEK;3615.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02070523538 (12 kortköp, payout 3591.33);REF=B02070523538 matchar Marginalen B-rad 3591.33;NO;monthly_report_202602.xlsx
+2026-02-07;-23.67;SEK;-23.67;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02070523538;;NO;monthly_report_202602.xlsx
+2026-02-09;3722.00;SEK;3722.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02090569951 (7 kortköp, payout 3697.82);REF=B02090569951 matchar Marginalen B-rad 3697.82;NO;monthly_report_202602.xlsx
+2026-02-09;-24.18;SEK;-24.18;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02090569951;;NO;monthly_report_202602.xlsx
+2026-02-10;4581.00;SEK;4581.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02100584482 (13 kortköp, payout 4547.93);REF=B02100584482 matchar Marginalen B-rad 4547.93;NO;monthly_report_202602.xlsx
+2026-02-10;-33.07;SEK;-33.07;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02100584482;;NO;monthly_report_202602.xlsx
+2026-02-11;1386.00;SEK;1386.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02110607269 (6 kortköp, payout 1376.95);REF=B02110607269 matchar Marginalen B-rad 1376.95;NO;monthly_report_202602.xlsx
+2026-02-11;-9.05;SEK;-9.05;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02110607269;;NO;monthly_report_202602.xlsx
+2026-02-13;3038.00;SEK;3038.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02130658937 (11 kortköp, payout 3004.71);REF=B02130658937 matchar Marginalen B-rad 3004.71;NO;monthly_report_202602.xlsx
+2026-02-13;-33.29;SEK;-33.29;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02130658937;;NO;monthly_report_202602.xlsx
+2026-02-14;965.00;SEK;965.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02140685830 (6 kortköp, payout 958.62);REF=B02140685830 matchar Marginalen B-rad 958.62;NO;monthly_report_202602.xlsx
+2026-02-14;-6.38;SEK;-6.38;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02140685830;;NO;monthly_report_202602.xlsx
+2026-02-15;550.00;SEK;550.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02150711570 (1 kortköp, payout 546.42);REF=B02150711570 matchar Marginalen B-rad 546.42;NO;monthly_report_202602.xlsx
+2026-02-15;-3.58;SEK;-3.58;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02150711570;;NO;monthly_report_202602.xlsx
+2026-02-17;1326.00;SEK;1326.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02170746228 (5 kortköp, payout 1317.38);REF=B02170746228 matchar Marginalen B-rad 1317.38;NO;monthly_report_202602.xlsx
+2026-02-17;-8.62;SEK;-8.62;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02170746228;;NO;monthly_report_202602.xlsx
+2026-02-18;299.00;SEK;299.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02180770543 (1 kortköp, payout 297.06);REF=B02180770543 matchar Marginalen B-rad 297.06;NO;monthly_report_202602.xlsx
+2026-02-18;-1.94;SEK;-1.94;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02180770543;;NO;monthly_report_202602.xlsx
+2026-02-19;2324.00;SEK;2324.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02190795628 (5 kortköp, payout 2308.90);REF=B02190795628 matchar Marginalen B-rad 2308.90;NO;monthly_report_202602.xlsx
+2026-02-19;-15.10;SEK;-15.10;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02190795628;;NO;monthly_report_202602.xlsx
+2026-02-20;378.00;SEK;378.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02200821451 (2 kortköp, payout 375.55);REF=B02200821451 matchar Marginalen B-rad 375.55;NO;monthly_report_202602.xlsx
+2026-02-20;-2.45;SEK;-2.45;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02200821451;;NO;monthly_report_202602.xlsx
+2026-02-21;1590.00;SEK;1590.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02210847561 (6 kortköp, payout 1579.49);REF=B02210847561 matchar Marginalen B-rad 1579.49;NO;monthly_report_202602.xlsx
+2026-02-21;-10.51;SEK;-10.51;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02210847561;;NO;monthly_report_202602.xlsx
+2026-02-24;3915.00;SEK;3915.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02240904331 (9 kortköp, payout 3889.36);REF=B02240904331 matchar Marginalen B-rad 3889.36;NO;monthly_report_202602.xlsx
+2026-02-24;-25.64;SEK;-25.64;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02240904331;;NO;monthly_report_202602.xlsx
+2026-02-27;5152.00;SEK;5152.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02270977337 (10 kortköp, payout 5118.52);REF=B02270977337 matchar Marginalen B-rad 5118.52;NO;monthly_report_202602.xlsx
+2026-02-27;-33.48;SEK;-33.48;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02270977337;;NO;monthly_report_202602.xlsx
+2026-02-28;1.00;SEK;1.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B02281005989 (1 kortköp, payout 0.99);REF=B02281005989 matchar Marginalen B-rad 0.99;NO;monthly_report_202602.xlsx
+2026-02-28;-0.01;SEK;-0.01;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B02281005989;;NO;monthly_report_202602.xlsx
+2026-03-02;847.00;SEK;847.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B03021053599 (2 kortköp, payout 841.50);REF=B03021053599 matchar Marginalen B-rad 841.50;NO;monthly_report_202603.xlsx
+2026-03-02;-5.50;SEK;-5.50;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B03021053599;;NO;monthly_report_202603.xlsx
+2026-03-05;99.00;SEK;99.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B03051119511 (1 kortköp, payout 98.36);REF=B03051119511 matchar Marginalen B-rad 98.36;NO;monthly_report_202603.xlsx
+2026-03-05;-0.64;SEK;-0.64;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B03051119511;;NO;monthly_report_202603.xlsx
+2026-03-15;1656.00;SEK;1656.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B03151367841 (14 kortköp, payout 1645.10);REF=B03151367841 matchar Marginalen B-rad 1645.10;NO;monthly_report_202603.xlsx
+2026-03-15;-10.90;SEK;-10.90;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B03151367841;;NO;monthly_report_202603.xlsx
+2026-03-16;3985.00;SEK;3985.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B03161387133 (9 kortköp, payout 3957.86);REF=B03161387133 matchar Marginalen B-rad 3957.86;NO;monthly_report_202603.xlsx
+2026-03-16;-27.14;SEK;-27.14;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B03161387133;;NO;monthly_report_202603.xlsx
+2026-03-17;8619.00;SEK;8619.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B03171403665 (26 kortköp, payout 8560.72);REF=B03171403665 matchar Marginalen B-rad 8560.72;NO;monthly_report_202603.xlsx
+2026-03-17;-58.28;SEK;-58.28;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B03171403665;;NO;monthly_report_202603.xlsx
+2026-03-20;6021.00;SEK;6021.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B03201480621 (16 kortköp, payout 5981.19);REF=B03201480621 matchar Marginalen B-rad 5981.19;NO;monthly_report_202603.xlsx
+2026-03-20;-39.81;SEK;-39.81;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B03201480621;;NO;monthly_report_202603.xlsx
+2026-03-22;6721.00;SEK;6721.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B03221536484 (33 kortköp, payout 6665.46);REF=B03221536484 matchar Marginalen B-rad 6665.46;NO;monthly_report_202603.xlsx
+2026-03-22;-55.54;SEK;-55.54;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B03221536484;;NO;monthly_report_202603.xlsx
+2026-03-24;12591.00;SEK;12591.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B03241573073 (17 kortköp, payout 12504.29);REF=B03241573073 matchar Marginalen B-rad 12504.29;NO;monthly_report_202603.xlsx
+2026-03-24;-86.71;SEK;-86.71;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B03241573073;;NO;monthly_report_202603.xlsx
+2026-03-25;2537.00;SEK;2537.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B03251597946 (7 kortköp, payout 2520.52);REF=B03251597946 matchar Marginalen B-rad 2520.52;NO;monthly_report_202603.xlsx
+2026-03-25;-16.48;SEK;-16.48;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B03251597946;;NO;monthly_report_202603.xlsx
+2026-03-26;7690.00;SEK;7690.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B03261624898 (14 kortköp, payout 7624.60);REF=B03261624898 matchar Marginalen B-rad 7624.60;NO;monthly_report_202603.xlsx
+2026-03-26;-65.40;SEK;-65.40;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B03261624898;;NO;monthly_report_202603.xlsx
+2026-03-27;5719.00;SEK;5719.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B03271651166 (11 kortköp, payout 5674.45);REF=B03271651166 matchar Marginalen B-rad 5674.45;NO;monthly_report_202603.xlsx
+2026-03-27;-44.55;SEK;-44.55;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B03271651166;;NO;monthly_report_202603.xlsx
+2026-03-30;16213.00;SEK;16213.00;IN;3051;SALES;G&S By Samis jackets;Worldline payout B03301727484 (32 kortköp, payout 16107.20);REF=B03301727484 matchar Marginalen B-rad 16107.20;NO;monthly_report_202603.xlsx
+2026-03-30;-105.80;SEK;-105.80;OUT;6570;BANK_FEE;Worldline / Bambora;Worldline avgifter payout B03301727484;;NO;monthly_report_202603.xlsx

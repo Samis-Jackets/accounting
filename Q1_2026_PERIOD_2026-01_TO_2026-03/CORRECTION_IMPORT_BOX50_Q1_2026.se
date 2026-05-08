@@ -1,0 +1,23 @@
+#FLAGGA 0
+#PROGRAM "Manual correction" "1.0"
+#FORMAT PC8
+#GEN 20260507
+#SIETYP 4
+#FNAMN "Samis Jackets AB"
+#ORGNR 559489-5301
+#KPTYP EUBAS97
+#RAR 0 20260101 20261231
+#RAR -1 20240701 20251231
+
+#KONTO 2615 "Utgaende moms import av varor 25%"
+#KONTO 2645 "Beraknad ingaende moms pa forvarv fran utlandet"
+#KONTO 4545 "Import av varor, 25 % moms"
+#KONTO 4549 "Motkonto beskattningsunderlag import"
+
+#VER A 999 20260331 "Importmoms reverse charge Q1 2026 (FWT China container) - Box 50/60/48"
+{
+   #TRANS 4545 {} 1218075.84
+   #TRANS 4549 {} -1218075.84
+   #TRANS 2645 {} 304518.96
+   #TRANS 2615 {} -304518.96
+}

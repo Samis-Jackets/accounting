@@ -1,0 +1,1376 @@
+#FLAGGA 0
+
+
+
+#PROGRAM "SamisJackets-Wise-EUR" "1.0"
+
+
+
+#FORMAT PC8
+
+
+
+#GEN 20260504
+
+
+
+#SIETYP 4
+
+
+
+#FNAMN "Samis Jackets AB"
+
+
+
+#ORGNR 559489-5301
+
+
+
+#KPTYP EUBAS97
+
+
+
+#RAR 0 20260101 20261231
+
+
+
+#RAR -1 20240701 20251231
+
+
+
+#KONTO 1942 "Wise USD"
+
+
+
+#KONTO 1944 "Wise EUR"
+
+
+
+#KONTO 1945 "Wise SEK"
+
+
+
+#KONTO 7960 "Valutakursforluster"
+
+
+
+#KONTO 2611 "Utg�ende moms 25%"
+
+
+
+#KONTO 2893 "Skuld till del�gare och n�rst�ende"
+
+
+
+#KONTO 3001 "F�rs�ljning varor 25% SE"
+
+
+
+#KONTO 3190 "F�rs�ljning Norge via Shopify/Stripe (0% moms)"
+
+
+
+#KONTO 5410 "5410"
+
+
+
+#KONTO 5420 "SaaS/programvara"
+
+
+
+#KONTO 5611 "Drivmedel"
+
+
+
+#KONTO 5900 "Reklam"
+
+
+
+#KONTO 6212 "Mobil/telecom"
+
+
+
+#IB 0 1942 0.00
+
+
+
+#IB 0 1944 0.00
+
+
+
+#IB 0 1945 0.00
+
+
+
+#IB 0 2611 0.00
+
+
+
+#IB 0 2893 0.00
+
+
+
+#VER A 1 20260102 "Stripe KCORKWOTWJ6BPD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 5408.07
+
+
+
+   #TRANS 3001 {} -4326.46
+
+
+
+   #TRANS 2611 {} -1081.61
+
+
+
+}
+
+
+
+#VER A 2 20260202 "Stripe 83I8LIHSJVPYIP"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 1391.48
+
+
+
+   #TRANS 3001 {} -1113.18
+
+
+
+   #TRANS 2611 {} -278.30
+
+
+
+}
+
+
+
+#VER A 3 20260203 "FX EUR->USD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -1391.48
+
+
+
+   #TRANS 1942 {} 1391.48
+
+
+
+}
+
+
+
+#VER A 4 20260204 "Stripe Y5AW9IJ6KVMRUN"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 76.73
+
+
+
+   #TRANS 3001 {} -61.38
+
+
+
+   #TRANS 2611 {} -15.35
+
+
+
+}
+
+
+
+#VER A 5 20260105 "Stripe 1LKMUODEZBW33A"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 1156.89
+
+
+
+   #TRANS 3001 {} -925.51
+
+
+
+   #TRANS 2611 {} -231.38
+
+
+
+}
+
+
+
+#VER A 6 20260205 "FX EUR->USD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -3002.41
+
+
+
+   #TRANS 1942 {} 3002.41
+
+
+
+}
+
+
+
+#VER A 7 20260205 "Stripe PETLJL3X1SOXZO"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 2925.68
+
+
+
+   #TRANS 3001 {} -2340.54
+
+
+
+   #TRANS 2611 {} -585.14
+
+
+
+}
+
+
+
+#VER A 8 20260106 "Stripe XEFE0VKRKOHGXI"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 5137.88
+
+
+
+   #TRANS 3001 {} -4110.30
+
+
+
+   #TRANS 2611 {} -1027.58
+
+
+
+}
+
+
+
+#VER A 9 20260206 "Stripe NJULGLWKUZPLXY"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 1578.95
+
+
+
+   #TRANS 3001 {} -1263.16
+
+
+
+   #TRANS 2611 {} -315.79
+
+
+
+}
+
+
+
+#VER A 10 20260306 "Received money from MOHAMMAD SAMI ALSHAR"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 33609.03
+
+
+
+   #TRANS 2893 {} -33609.03
+
+
+
+}
+
+
+
+#VER A 11 20260107 "Stripe SDPAL7COVKZLII"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 1095.99
+
+
+
+   #TRANS 3001 {} -876.79
+
+
+
+   #TRANS 2611 {} -219.20
+
+
+
+}
+
+
+
+#VER A 12 20260307 "Card St1 Gillbergaplan"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 577.66
+
+
+
+   #TRANS 5611 {} -577.66
+
+
+
+}
+
+
+
+#VER A 13 20260307 "Card St1 Gillbergaplan"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -577.66
+
+
+
+   #TRANS 5611 {} 577.66
+
+
+
+}
+
+
+
+#VER A 14 20260307 "Card St1 Gillbergaplan Eskils"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 577.66
+
+
+
+   #TRANS 5611 {} -577.66
+
+
+
+}
+
+
+
+#VER A 15 20260307 "Card St1 Gillbergaplan Eskils"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -577.66
+
+
+
+   #TRANS 5611 {} 577.66
+
+
+
+}
+
+
+
+#VER A 16 20260108 "FX EUR->USD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -4771.88
+
+
+
+   #TRANS 1942 {} 4771.88
+
+
+
+}
+
+
+
+#VER A 17 20260108 "Stripe RHGG0IZTX7ZDW3"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 4771.88
+
+
+
+   #TRANS 3001 {} -3817.50
+
+
+
+   #TRANS 2611 {} -954.38
+
+
+
+}
+
+
+
+#VER A 18 20260108 "FX EUR->USD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -12798.83
+
+
+
+   #TRANS 1942 {} 12798.83
+
+
+
+}
+
+
+
+#VER A 19 20260109 "FX EUR->USD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -632.12
+
+
+
+   #TRANS 1942 {} 632.12
+
+
+
+}
+
+
+
+#VER A 20 20260109 "Stripe RFPT7NITNIKI5C"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 632.12
+
+
+
+   #TRANS 3001 {} -505.70
+
+
+
+   #TRANS 2611 {} -126.42
+
+
+
+}
+
+
+
+#VER A 21 20260209 "FX EUR->USD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -1578.95
+
+
+
+   #TRANS 1942 {} 1578.95
+
+
+
+}
+
+
+
+#VER A 22 20260309 "Sent money to Mohammad sami Alsharef | M"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -11300.00
+
+
+
+   #TRANS 2893 {} 11300.00
+
+
+
+}
+
+
+
+#VER A 23 20260309 "FX EUR->SEK (10 EUR -> 106.48 SEK)"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -113.00
+
+
+
+   #TRANS 1945 {} 106.48
+
+
+
+   #TRANS 7960 {} 6.52
+
+
+
+}
+
+
+
+#VER A 24 20260310 "Card Klm Airline 074413079810"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -416.29
+
+
+
+   #TRANS 2893 {} 416.29
+
+
+
+}
+
+
+
+#VER A 25 20260310 "Card Klm Airline 074413079805"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -1777.15
+
+
+
+   #TRANS 2893 {} 1777.15
+
+
+
+}
+
+
+
+#VER A 26 20260212 "Stripe ZZIK5QM8VPLIIR"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 2839.35
+
+
+
+   #TRANS 3190 {} -2839.35
+
+
+
+}
+
+
+
+#VER A 27 20260312 "Card 4167 Kontanten Cityhuset"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -1639.52
+
+
+
+   #TRANS 2893 {} 1639.52
+
+
+
+}
+
+
+
+#VER A 28 20260312 "Card Shopify* 500636476"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -406.80
+
+
+
+   #TRANS 5420 {} 406.80
+
+
+
+}
+
+
+
+#VER A 29 20260213 "FX EUR->USD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -2839.35
+
+
+
+   #TRANS 1942 {} 2839.35
+
+
+
+}
+
+
+
+#VER A 30 20260115 "Stripe LTC538TVVXRV5U"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 444.32
+
+
+
+   #TRANS 3001 {} -355.46
+
+
+
+   #TRANS 2611 {} -88.86
+
+
+
+}
+
+
+
+#VER A 31 20260315 "Card Tiktok Ads"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -2107.45
+
+
+
+   #TRANS 5900 {} 2107.45
+
+
+
+}
+
+
+
+#VER A 32 20260315 "Card Tradera"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -165.66
+
+
+
+   #TRANS 5410 {} 165.66
+
+
+
+}
+
+
+
+#VER A 33 20260116 "FX EUR->USD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -718.57
+
+
+
+   #TRANS 1942 {} 718.57
+
+
+
+}
+
+
+
+#VER A 34 20260116 "Stripe XXI52HGGDN35SQ"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 274.25
+
+
+
+   #TRANS 3001 {} -219.40
+
+
+
+   #TRANS 2611 {} -54.85
+
+
+
+}
+
+
+
+#VER A 35 20260216 "Stripe NLQE0ARPCQWBQZ"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 887.95
+
+
+
+   #TRANS 3001 {} -710.36
+
+
+
+   #TRANS 2611 {} -177.59
+
+
+
+}
+
+
+
+#VER A 36 20260217 "Stripe OA3QAOLCNQAP3V"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 248.37
+
+
+
+   #TRANS 3001 {} -198.70
+
+
+
+   #TRANS 2611 {} -49.67
+
+
+
+}
+
+
+
+#VER A 37 20260318 "Card Tiktok Ads"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -2130.95
+
+
+
+   #TRANS 5900 {} 2130.95
+
+
+
+}
+
+
+
+#VER A 38 20260119 "FX EUR->USD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -1278.60
+
+
+
+   #TRANS 1942 {} 1278.60
+
+
+
+}
+
+
+
+#VER A 39 20260119 "Stripe QEHZKZZGWM0LTM"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 1278.60
+
+
+
+   #TRANS 3001 {} -1022.88
+
+
+
+   #TRANS 2611 {} -255.72
+
+
+
+}
+
+
+
+#VER A 40 20260319 "Card Www.fashn.ai"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -76.84
+
+
+
+   #TRANS 5420 {} 76.84
+
+
+
+}
+
+
+
+#VER A 41 20260319 "Card Apcoa Flow Se"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -260.47
+
+
+
+   #TRANS 5611 {} 260.47
+
+
+
+}
+
+
+
+#VER A 42 20260220 "Paid to Shopify | Shopify"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -255.15
+
+
+
+   #TRANS 5420 {} 255.15
+
+
+
+}
+
+
+
+#VER A 43 20260320 "Card Tre Sverige Stockholm -"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -1068.64
+
+
+
+   #TRANS 6212 {} 1068.64
+
+
+
+}
+
+
+
+#VER A 44 20260221 "FX EUR->USD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -881.17
+
+
+
+   #TRANS 1942 {} 881.17
+
+
+
+}
+
+
+
+#VER A 45 20260122 "FX EUR->USD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -575.85
+
+
+
+   #TRANS 1942 {} 575.85
+
+
+
+}
+
+
+
+#VER A 46 20260122 "Stripe KMH2LWHBMYKOK4"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 575.85
+
+
+
+   #TRANS 3001 {} -460.68
+
+
+
+   #TRANS 2611 {} -115.17
+
+
+
+}
+
+
+
+#VER A 47 20260323 "Card St1 Gillbergaplan"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 875.41
+
+
+
+   #TRANS 5611 {} -875.41
+
+
+
+}
+
+
+
+#VER A 48 20260323 "Card St1 Gillbergaplan"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -2100.22
+
+
+
+   #TRANS 5611 {} 2100.22
+
+
+
+}
+
+
+
+#VER A 49 20260324 "Card Lidl166etunarabergstor"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -713.26
+
+
+
+   #TRANS 2893 {} 713.26
+
+
+
+}
+
+
+
+#VER A 50 20260325 "Card Apple.com/bill 020100529"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -1045.36
+
+
+
+   #TRANS 5420 {} 1045.36
+
+
+
+}
+
+
+
+#VER A 51 20260126 "FX EUR->USD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -1717.26
+
+
+
+   #TRANS 1942 {} 1717.26
+
+
+
+}
+
+
+
+#VER A 52 20260126 "Stripe QWBXPUPTBILUEJ"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 1717.26
+
+
+
+   #TRANS 3001 {} -1373.81
+
+
+
+   #TRANS 2611 {} -343.45
+
+
+
+}
+
+
+
+#VER A 53 20260128 "Paid to Shopify | na.Ts6YUh1aH0QaZb:L23E"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -96.62
+
+
+
+   #TRANS 5420 {} 96.62
+
+
+
+}
+
+
+
+#VER A 54 20260128 "Stripe YKLDS5EYEC3N5N"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} 96.62
+
+
+
+   #TRANS 3001 {} -77.30
+
+
+
+   #TRANS 2611 {} -19.32
+
+
+
+}
+
+
+
+#VER A 55 20260328 "Card Tradera"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -717.10
+
+
+
+   #TRANS 5410 {} 717.10
+
+
+
+}
+
+
+
+#VER A 56 20260329 "Card Github, Inc."
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -384.65
+
+
+
+   #TRANS 5420 {} 384.65
+
+
+
+}
+
+
+
+#VER A 57 20260331 "FX EUR->USD"
+
+
+
+{
+
+
+
+   #TRANS 1944 {} -8061.08
+
+
+
+   #TRANS 1942 {} 8061.08
+
+
+
+}
+
+
+
+#UB 0 1942 40247.55
+
+
+
+#UB 0 1944 -0.00
+
+
+
+#UB 0 1945 113.00
+
+
+
+#UB 0 2611 -5939.78
+
+
+
+#UB 0 2893 -17762.81
+
+
+
+#RES 0 3001 -23759.11
+
+
+
+#RES 0 3190 -2839.35
+
+
+
+#RES 0 5410 882.76
+
+
+
+#RES 0 5420 2265.42
+
+
+
+#RES 0 5611 1485.28
+
+
+
+#RES 0 5900 4238.40
+
+
+
+#RES 0 6212 1068.64
+
+
+

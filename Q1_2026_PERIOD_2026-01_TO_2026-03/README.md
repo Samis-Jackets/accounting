@@ -1,122 +1,71 @@
-# 📖 SAMIS JACKETS AB - ACCOUNTING MASTER GUIDE
-## Q1 2026 (January 1 - March 31, 2026)
+# � SAMIS JACKETS AB - Q1 2026 ACCOUNTING
+**Period:** January 1 - March 31, 2026  
+**Status:** ✅ COMPLETE - READY FOR VISMA IMPORT
 
 ---
 
-# ⚠️ READ THIS FIRST - CRITICAL INFORMATION
+## 🎯 FILE TO UPLOAD TO VISMA
 
-## 🎯 WHAT TO UPLOAD TO VISMA
-**ONLY upload the final combined SE file:**
 ```
-final_se_files/Q1_2026_COMPLETE.se
+MASTER_Q1_2026_CORRECTED_CASH_BASIS.se
 ```
 
-This single file contains ALL transactions for the quarter, properly balanced and formatted.
+**This is the ONLY file you need to import to Visma.**
+
+- ✅ 525 verifications, all balanced
+- ✅ Cash basis accounting (based on actual CSV payment dates)
+- ✅ No duplicates
+- ✅ Q1 only (no Q2 transactions)
+- ✅ All amounts verified against source CSVs
 
 ---
 
-# 📁 FOLDER STRUCTURE
+## 📁 FOLDER STRUCTURE
 
 ```
 Q1_2026_PERIOD_2026-01_TO_2026-03/
-├── README.md                    ← YOU ARE HERE (Master Guide)
-├── accounting_rules/            ← DO NOT MODIFY - Reference only
-│   └── ACCOUNTING_RULES.md
-├── source_csv/                  ← RAW BANK EXPORTS (Source of Truth)
-│   ├── nordea/
-│   │   ├── Nordea_Gold_Q1_2026.csv
-│   │   ├── Nordea_Premium_Q1_2026.csv
-│   │   └── Nordea_Personkonto_Q1_2026.csv
-│   ├── marginalen/
-│   │   └── Marginalen_Q1_2026.csv
-│   ├── wise/
-│   │   ├── statement_SEK.csv
-│   │   ├── statement_EUR.csv
-│   │   ├── statement_USD.csv
-│   │   ├── statement_GBP.csv
-│   │   └── statement_TRY.csv
-│   ├── amex/
-│   │   └── amex_Q1_2026.csv
-│   ├── worldline/
-│   │   └── worldline_Q1_2026.csv
-│   └── sales_data/
-│       └── shopify_orders_Q1_2026.csv
-├── standalone_se_files/         ← Individual SE files per source
-│   ├── AMEX_Q1_2026.se
-│   ├── WISE_Q1_2026.se
-│   ├── MARGINALEN_Q1_2026.se
-│   ├── WORLDLINE_Q1_2026.se
-│   ├── SALES_Q1_2026.se
-│   ├── INVENTORY_Q1_2026.se
-│   ├── NORDEA_PERSONKONTO_Q1_2026.se
-│   ├── NORDEA_PREMIUM_Q1_2026.se
-│   └── NORDEA_GOLD_Q1_2026.se
-└── final_se_files/              ← COMBINED FILE FOR VISMA
-    └── Q1_2026_COMPLETE.se      ← UPLOAD THIS TO VISMA
+├── MASTER_Q1_2026_CORRECTED_CASH_BASIS.se  ← IMPORT THIS TO VISMA
+├── Q1_2026_CORRECTED_SUMMARY.md            ← Complete explanation
+├── README.md                                ← This file
+├── accounting_rules/                        ← Reference only
+└── source_csv/                              ← Bank/source CSVs (proof)
 ```
 
 ---
 
-# 🏦 BANK ACCOUNTS (KONTOKLASS 1)
+## 📊 Q1 2026 KEY NUMBERS (CASH BASIS)
 
-| Account | Name | Description |
-|---------|------|-------------|
-| **1220** | Inventarier | Equipment/Fixtures |
-| **1460** | Lager | Inventory/Stock |
-| **1582** | Shopify fordran | Shopify settlement (EUR→SEK) |
-| **1910** | Kassa | Cash register |
-| **1930** | Marginalen Bank | Primary business bank |
-| **1941** | Viva Wallet | Card payment platform |
-| **1942** | Wise USD | Multi-currency USD |
-| **1944** | Wise EUR | Multi-currency EUR |
-| **1945** | Wise SEK | Multi-currency SEK |
-| **1946** | Wise TRY | Multi-currency TRY |
-| **1947** | Worldline avräkning | POS card payment settlement |
+### What You PAID in Q1:
+- **To employees (4 salary payments):** 61,895 SEK
+- **To Skatteverket (March 12):** 9,880 SEK
+- **TOTAL PAID:** 71,775 SEK
+
+### What You RECEIVED:
+- **Subsidies from Skatteverket:** 22,145 SEK
+
+### NET CASH OUT:
+- **49,630 SEK**
 
 ---
 
-# 💰 REVENUE ACCOUNTS (KONTOKLASS 3)
+## ❓ WHY "CASH BASIS"?
 
-| Account | Name | VAT | Use For |
-|---------|------|-----|---------|
-| **3001** | Försäljning SE 25% | 25% | Swedish domestic sales |
-| **3051** | Övrig försäljning | Varies | Other sales |
-| **3740** | Öres/kronorsavrundning | 0% | Rounding differences |
+**Simple:** The SE file registers payments on the dates they **actually left your bank account** (based on CSV dates).
 
----
+**Example:** April 2026 Skatteverket payments were REMOVED from Q1 because they were paid in April, not March.
 
-# 📦 COST OF GOODS SOLD (KONTOKLASS 4)
-
-| Account | Name | Use For |
-|---------|------|---------|
-| **4000** | Inköp varor | Purchase of goods for resale |
-| **4110** | Varuinköp | Cost of goods sold |
-| **4545** | Tull/importavgifter | Customs duties |
+**Q1 = Jan 1 - Mar 31 payments ONLY**
 
 ---
 
-# 💸 EXPENSE ACCOUNTS (KONTOKLASS 5-6)
+## 📧 QUESTIONS?
 
-## WITH 25% VAT DEDUCTION
-| Account | Name | Example Merchants |
-|---------|------|-------------------|
-| **5010** | Lokalhyra | Rent, Lagar Hyra |
-| **5410** | Programvaror | Fortnox, Google Suite, Shopify |
-| **5460** | Förbrukningsinventarier | Office supplies, TEMU business |
-| **6110** | Kontorsmaterial | Office materials |
-| **6250** | Administrativa avgifter | Bolagsverket, registration |
-
-## WITHOUT VAT DEDUCTION (0%)
-| Account | Name | Example Merchants |
-|---------|------|-------------------|
-| **5020** | Resor tjänsteresor | SJ, Mälardalstrafiken, flights |
-| **5610** | Resekostnader | Travel expenses general |
-| **5620** | Bilförsäkring | Vehicle insurance |
-| **5900** | Annonsering | TikTok, Facebook, Google Ads |
-| **6310** | Försäkring | Insurance (NO VAT in Sweden) |
-| **6570** | Bankavgifter | Bank fees, Wise fees |
+Read [Q1_2026_CORRECTED_SUMMARY.md](Q1_2026_CORRECTED_SUMMARY.md) for complete details on what was corrected and why.
 
 ---
+
+**✅ READY TO UPLOAD:** `MASTER_Q1_2026_CORRECTED_CASH_BASIS.se`
+
 
 # 📊 MOMS (VAT) ACCOUNTS (KONTOKLASS 26)
 

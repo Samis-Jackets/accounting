@@ -1,0 +1,27 @@
+﻿# Brain dump fÃ¶r Wise USD
+# Skriv: nyckelord  ->  konto  BUSINESS|PRIVATE  fri kommentar
+# FÃ¶rsta match vinner. Brain_dump prioriteras fÃ¶re MERCHANT_RULES.
+
+# === SAMI BESLUT 2026-05 ===
+
+# Kontantuttag = privat, inte kassa. Bokas som privat skuld 2893.
+4167 kontanten      ->  2893  PRIVATE  kontantuttag privat (ej kassa 1910)
+kontanten cityhuset ->  2893  PRIVATE  kontantuttag privat
+bankomat            ->  2893  PRIVATE  kontantuttag privat (ej kassa 1910)
+
+# Privata flygresor och bokningar (ej fÃ¶retagsresor)
+klm airline      ->  2893  PRIVATE  privat flygresa
+trip.com         ->  2893  PRIVATE  privat resa
+gotogate         ->  2893  PRIVATE  privat flygresa
+
+# Shopify drog tillbaka pengar = refund (reverserar fÃ¶rsÃ¤ljning)
+paid to shopify  ->  3001  BUSINESS  shopify refund - reverserar fÃ¶rsÃ¤ljning
+
+# Min bror, privat
+ahmed gheyath    ->  2893  PRIVATE  bror, privat
+
+# Tradera: kassasystem + mobiltelefon till fÃ¶retaget = fÃ¶rbrukningsinventarier
+tradera          ->  5410  BUSINESS  fÃ¶rbrukningsinventarier (kassa+mobil till butik)
+
+# Biltema: butiksmaterial
+biltema          ->  5460  BUSINESS  fÃ¶rbrukningsmaterial butik

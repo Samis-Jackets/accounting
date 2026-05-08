@@ -1,0 +1,30 @@
+#FLAGGA 0
+#PROGRAM "Manual VAT correction" "1.0"
+#FORMAT PC8
+#GEN 20260507
+#SIETYP 4
+#FNAMN "Samis Jackets AB"
+#ORGNR 559489-5301
+#KPTYP EUBAS97
+#RAR 0 20260101 20261231
+#RAR -1 20240701 20251231
+
+#KONTO 1460 "Lager av handelsvaror"
+#KONTO 2641 "Debiterad ingaende moms"
+#KONTO 5010 "Lokalhyra"
+#KONTO 5410 "Forbrukningsinventarier"
+#KONTO 5460 "Forbrukningsmaterial"
+#KONTO 5611 "Drivmedel for personbilar"
+#KONTO 6212 "Mobiltelefon"
+
+#VER A 998 20260331 "Q1 2026 input VAT extraction from gross-booked SE expenses"
+{
+   #TRANS 2641 {} 14172.00
+   #TRANS 1460 {} -3486.00
+   #TRANS 5010 {} -4167.20
+   #TRANS 5410 {} -3429.40
+   #TRANS 5460 {} -224.98
+   #TRANS 5611 {} -2309.29
+   #TRANS 6212 {} -555.13
+}
+

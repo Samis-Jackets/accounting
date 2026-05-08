@@ -1,0 +1,18 @@
+#FLAGGA 0
+#PROGRAM "DOKTOR Forensic Correction" "1.0"
+#FORMAT PC8
+#GEN 20260507
+#SIETYP 4
+#FNAMN "Samis Jackets AB"
+#ORGNR 559489-5301
+#KPTYP EUBAS97
+#RAR 0 20260101 20261231
+
+#KONTO 1460 "Lager av handelsvaror"
+#KONTO 5460 "Förbrukningsmaterial"
+
+#VER M 900 20260507 "CORRECTION: Reclassify packaging materials from expense to inventory"
+{
+   #TRANS 5460 {} -183926.02 "Korrigering - förpackningsmaterial är del av varor för återförsäljning"
+   #TRANS 1460 {} 183926.02 "Korrigering - förpackningsmaterial kapitaliseras till lager"
+}

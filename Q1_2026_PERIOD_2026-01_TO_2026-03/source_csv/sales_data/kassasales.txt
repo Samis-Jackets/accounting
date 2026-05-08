@@ -1,0 +1,3 @@
+Butiksnummer 	Försäljning	Moms	Försäljning (inkl. moms)	Inköpssumma	Vinst	Vinst (%)
+1	163 992,00	40 998,00	204 990,00	75 678,50	88 313,50	53,9 %
+163 992,00	40 998,00	204 990,00	75 678,50	88 313,50	53,9 %

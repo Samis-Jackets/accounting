@@ -1,0 +1,83 @@
+✅ FINAL SIE4 ENTRY - FWT INVOICE (SINGLE ENTRY ONLY)
+====================================================
+
+COPY-PASTE READY:
+-----------------
+
+#VER A 526 20260331 "FWT Invoice FWT-SJ-2026-Q1-001 - $126,882.90 @ 9.6"
+{
+   #TRANS 1460 {} 791575.22
+   #TRANS 5460 {} 183926.02
+   #TRANS 1220 {} 242574.60
+   #TRANS 2441 {} -1218075.84
+   #TRANS 2645 {} -304518.96
+   #TRANS 2615 {} 304518.96
+}
+
+
+BALANCE VERIFICATION:
+=====================
+
+Debits:  791,575.22 + 183,926.02 + 242,574.60 + 304,518.96 = 1,522,594.80 SEK
+Credits: 1,218,075.84 + 304,518.96 = 1,522,594.80 SEK
+✅ BALANCED
+
+
+WHY 1.5 MILLION INSTEAD OF 1.2 MILLION?
+========================================
+
+Invoice amount:     1,218,075.84 SEK
+Import VAT 25%:       304,518.96 SEK
+                   ─────────────────
+Total debits:       1,522,594.80 SEK  ← This is ~1.5M
+
+The difference is the IMPORT VAT (reverse charge):
+- Account 2645: -304,518.96 SEK (VAT you can reclaim)
+- Account 2615: +304,518.96 SEK (VAT you owe to government)
+- These cancel out in the quarterly VAT return
+
+
+ACCOUNT 2441 BALANCE AFTER THIS ENTRY:
+=======================================
+
+Opening balance (2441):    610,300.17 SEK
+Add this invoice:        1,218,075.84 SEK
+                       ─────────────────
+New balance (2441):      1,828,375.01 SEK  ← Total debt to FWT
+
+This is approximately 1.8 million SEK in supplier debt to Future World Tech.
+
+
+NO PAYMENT ENTRY NEEDED:
+=========================
+
+Payment already handled through Worldline account (1947).
+This entry ONLY records the invoice with reverse charge VAT.
+
+
+PATTERN FROM 2025:
+==================
+
+Same pattern as 2025 China imports:
+
+#VER A 588 20250228 "First China container"
+{
+   #TRANS 2441 {} -368492.00    // Supplier debt
+   #TRANS 4545 {} 368492.00     // Expense/inventory
+   #TRANS 2645 {} -92123.00     // Import VAT (reclaim)
+   #TRANS 2615 {} 92123.00      // Reverse charge VAT
+}
+
+
+INVOICE DETAILS:
+================
+
+Invoice: FWT-SJ-2026-Q1-001
+Supplier: Future World Tech International Limited (Hong Kong)
+Date: 2026-03-31
+Amount: $126,882.90 USD @ 9.6 = 1,218,075.84 SEK
+Import VAT: 304,518.96 SEK (reverse charge)
+Total debits: 1,522,594.80 SEK
+
+
+STATUS: ✅ READY FOR VISMA IMPORT

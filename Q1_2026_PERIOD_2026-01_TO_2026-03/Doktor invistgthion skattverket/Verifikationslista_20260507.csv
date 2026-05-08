@@ -1,0 +1,2362 @@
+﻿"""Preliminär Verifikationslista""",,,,,
+Samis Jackets AB,,,,,
+559489-5301,,,,,
+"""Utskriftsdatum"": den 7 May 2026 13:51:06",,,,,
+,,,,,
+"""Räkenskapsår:"" 2026-01-01 - 2026-12-31",,,,,
+"""Avser perioden"" 2026-01-01 - 2026-12-31",,,,,
+,,,,,
+"""Verifikation""","""Datum""","""Beskrivning/Konto""","""Typ""","""Debet""","""Kredit"""
+A 1,2026-01-01,Mnadsavgift Fretagskonto [MARGINALEN],,,
+,,1930 Företagskonto,,,70.00
+,,6570 Bankkostnader,,70.00,
+,,,,,
+A 2,2026-01-01,Card Tiktok Ads [WISE_USD],,,
+,,1942 Wise USD,,,117.69
+,,5900 Reklam och PR (gruppkonto),,117.69,
+,,,,,
+A 3,2026-01-01,SALES [WORLDLINE],,,
+,,1947 Worldline,,3433.00,
+,,3051 Försäljn varor 25% sv,,,2746.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,686.60
+,,,,,
+A 4,2026-01-01,FEE [WORLDLINE],,,
+,,1947 Worldline,,,26.38
+,,6570 Bankkostnader,,26.38,
+,,,,,
+A 5,2026-01-02,B12319685833 [MARGINALEN],,,
+,,1930 Företagskonto,,13764.63,
+,,1947 Worldline,,,13764.63
+,,,,,
+A 6,2026-01-02,B01019707261 [MARGINALEN],,,
+,,1930 Företagskonto,,3411.61,
+,,1947 Worldline,,,3411.61
+,,,,,
+A 7,2026-01-02,Stripe KCORKWOTWJ6BPD [WISE_EUR],,,
+,,1944 Wise EUR,,5408.07,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,4326.46
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,1081.61
+,,,,,
+A 8,2026-01-03,Card Kl Bistro [WISE_USD],,,
+,,1942 Wise USD,,,447.91
+,,6500 Övriga externa tjänster (gruppkonto),,447.91,
+,,,,,
+A 9,2026-01-03,Card Biltema Eskilstuna [WISE_USD],,,
+,,1942 Wise USD,,,102.08
+,,5460 Förbrukningsmaterial,,102.08,
+,,,,,
+A 10,2026-01-05,B01059767400 [MARGINALEN],,,
+,,1930 Företagskonto,,4525.12,
+,,1947 Worldline,,,4525.12
+,,,,,
+A 11,2026-01-05,Stripe 1LKMUODEZBW33A [WISE_EUR],,,
+,,1944 Wise EUR,,1156.89,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,925.51
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,231.38
+,,,,,
+A 12,2026-01-05,SALES [WORLDLINE],,,
+,,1947 Worldline,,4555.00,
+,,3051 Försäljn varor 25% sv,,,3644.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,911.00
+,,,,,
+A 13,2026-01-05,FEE [WORLDLINE],,,
+,,1947 Worldline,,,29.88
+,,6570 Bankkostnader,,29.88,
+,,,,,
+A 14,2026-01-06,Stripe XEFE0VKRKOHGXI [WISE_EUR],,,
+,,1944 Wise EUR,,5137.88,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,4110.30
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,1027.58
+,,,,,
+A 15,2026-01-06,SALES [WORLDLINE],,,
+,,1947 Worldline,,5221.00,
+,,3051 Försäljn varor 25% sv,,,4176.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,1044.20
+,,,,,
+A 16,2026-01-06,FEE [WORLDLINE],,,
+,,1947 Worldline,,,33.99
+,,6570 Bankkostnader,,33.99,
+,,,,,
+A 17,2026-01-07,B01079801854 [MARGINALEN],,,
+,,1930 Företagskonto,,4274.49,
+,,1947 Worldline,,,4274.49
+,,,,,
+A 18,2026-01-07,B01069781423 [MARGINALEN],,,
+,,1930 Företagskonto,,5187.01,
+,,1947 Worldline,,,5187.01
+,,,,,
+A 19,2026-01-07,card terminal [MARGINALEN],,,
+,,1930 Företagskonto,,,248.00
+,,6570 Bankkostnader,,248.00,
+,,,,,
+A 20,2026-01-07,Intern transit Lunar->Marg (Lunar har redan bokat sales) [MARGINALEN],,,
+,,1930 Företagskonto,,12385.00,
+,,1948 Sales account,,,12385.00
+,,,,,
+A 21,2026-01-07,Apple Subscription (business apps) [GOLD] APPLE.COM/BILL [NORDEA],,,
+,,5420 Programvaror,,39.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,39.00
+,,,,,
+A 22,2026-01-07,Stripe SDPAL7COVKZLII [WISE_EUR],,,
+,,1944 Wise EUR,,1095.99,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,876.79
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,219.20
+,,,,,
+A 23,2026-01-07,Cashback [WISE_USD],,,
+,,1942 Wise USD,,13.72,
+,,8311 Ränteintäkter från bank,,,13.72
+,,,,,
+A 24,2026-01-07,SALES [WORLDLINE],,,
+,,1947 Worldline,,4303.00,
+,,3051 Försäljn varor 25% sv,,,3442.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,860.60
+,,,,,
+A 25,2026-01-07,FEE [WORLDLINE],,,
+,,1947 Worldline,,,28.51
+,,6570 Bankkostnader,,28.51,
+,,,,,
+A 26,2026-01-08,B01089820788 [MARGINALEN],,,
+,,1930 Företagskonto,,4983.26,
+,,1947 Worldline,,,4983.26
+,,,,,
+A 27,2026-01-08,VERFRING [MARGINALEN],,,
+,,1930 Företagskonto,,2600.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,2600.00
+,,,,,
+A 28,2026-01-08,Till wise [MARGINALEN],,,
+,,1930 Företagskonto,,,85720.00
+,,1945 Wise SEK,,85720.00,
+,,,,,
+A 29,2026-01-08,FX EUR->USD [WISE_EUR],,,
+,,1944 Wise EUR,,,4771.88
+,,1942 Wise USD,,4771.88,
+,,,,,
+A 30,2026-01-08,Stripe RHGG0IZTX7ZDW3 [WISE_EUR],,,
+,,1944 Wise EUR,,4771.88,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,3817.50
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,954.38
+,,,,,
+A 31,2026-01-08,FX EUR->USD [WISE_EUR],,,
+,,1944 Wise EUR,,,12798.83
+,,1942 Wise USD,,12798.83,
+,,,,,
+A 32,2026-01-08,FX SEK->USD [WISE_SEK],,,
+,,1945 Wise SEK,,,85720.00
+,,1942 Wise USD,,85720.00,
+,,,,,
+A 33,2026-01-08,Sent money to FUTURE WORLD TECH INTERNAT [WISE_USD],,,
+,,1942 Wise USD,,,107318.11
+,,2441 Future World Tech,,107318.11,
+,,,,,
+A 34,2026-01-08,SALES [WORLDLINE],,,
+,,1947 Worldline,,5016.00,
+,,3051 Försäljn varor 25% sv,,,4012.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,1003.20
+,,,,,
+A 35,2026-01-08,FEE [WORLDLINE],,,
+,,1947 Worldline,,,32.74
+,,6570 Bankkostnader,,32.74,
+,,,,,
+A 36,2026-01-09,B01099844174 [MARGINALEN],,,
+,,1930 Företagskonto,,1882.69,
+,,1947 Worldline,,,1882.69
+,,,,,
+A 37,2026-01-09,WISE EUROPE SA [MARGINALEN],,,
+,,1930 Företagskonto,,,7500.00
+,,1945 Wise SEK,,7500.00,
+,,,,,
+A 38,2026-01-09,FX EUR->USD [WISE_EUR],,,
+,,1944 Wise EUR,,,632.12
+,,1942 Wise USD,,632.12,
+,,,,,
+A 39,2026-01-09,Stripe RFPT7NITNIKI5C [WISE_EUR],,,
+,,1944 Wise EUR,,632.12,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,505.70
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,126.42
+,,,,,
+A 40,2026-01-09,FX SEK->USD [WISE_SEK],,,
+,,1945 Wise SEK,,,7500.00
+,,1942 Wise USD,,7500.00,
+,,,,,
+A 41,2026-01-09,SALES [WORLDLINE],,,
+,,1947 Worldline,,1895.00,
+,,3051 Försäljn varor 25% sv,,,1516.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,379.00
+,,,,,
+A 42,2026-01-09,FEE [WORLDLINE],,,
+,,1947 Worldline,,,12.31
+,,6570 Bankkostnader,,12.31,
+,,,,,
+A 43,2026-01-10,SALES [WORLDLINE],,,
+,,1947 Worldline,,1244.00,
+,,3051 Försäljn varor 25% sv,,,995.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,248.80
+,,,,,
+A 44,2026-01-10,FEE [WORLDLINE],,,
+,,1947 Worldline,,,8.07
+,,6570 Bankkostnader,,8.07,
+,,,,,
+A 45,2026-01-11,Apple Subscription (business apps) [PREMIUM] APPLE.COM/BILL [NORDEA],,,
+,,5420 Programvaror,,249.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,249.00
+,,,,,
+A 46,2026-01-11,Card Shopify* 471988295 [WISE_USD],,,
+,,1942 Wise USD,,,395.08
+,,5420 Programvaror,,395.08,
+,,,,,
+A 47,2026-01-11,SALES [WORLDLINE],,,
+,,1947 Worldline,,3089.00,
+,,3051 Försäljn varor 25% sv,,,2471.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,617.80
+,,,,,
+A 48,2026-01-11,FEE [WORLDLINE],,,
+,,1947 Worldline,,,20.07
+,,6570 Bankkostnader,,20.07,
+,,,,,
+A 49,2026-01-12,0006641229 [MARGINALEN],,,
+,,1930 Företagskonto,,1294.00,
+,,3994 Försäkringsersättningar,,,1294.00
+,,,,,
+A 50,2026-01-12,B01129913847 [MARGINALEN],,,
+,,1930 Företagskonto,,2230.42,
+,,1947 Worldline,,,2230.42
+,,,,,
+A 51,2026-01-12,B01119895474 [MARGINALEN],,,
+,,1930 Företagskonto,,3068.93,
+,,1947 Worldline,,,3068.93
+,,,,,
+A 52,2026-01-12,B01109871141 [MARGINALEN],,,
+,,1930 Företagskonto,,1235.93,
+,,1947 Worldline,,,1235.93
+,,,,,
+A 53,2026-01-12,SCHENKER AB [MARGINALEN],,,
+,,1930 Företagskonto,,,1863.00
+,,5710 Frakter och försäkringar vid varudistribution,,1863.00,
+,,,,,
+A 54,2026-01-12,SCHENKER AB [MARGINALEN],,,
+,,1930 Företagskonto,,,82.00
+,,5710 Frakter och försäkringar vid varudistribution,,82.00,
+,,,,,
+A 55,2026-01-12,SALES [WORLDLINE],,,
+,,1947 Worldline,,2245.00,
+,,3051 Försäljn varor 25% sv,,,1796.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,449.00
+,,,,,
+A 56,2026-01-12,FEE [WORLDLINE],,,
+,,1947 Worldline,,,14.58
+,,6570 Bankkostnader,,14.58,
+,,,,,
+A 57,2026-01-14,B01149951988 [MARGINALEN],,,
+,,1930 Företagskonto,,1867.58,
+,,1947 Worldline,,,1867.58
+,,,,,
+A 58,2026-01-14,Card Anmalningsavgift Till Ho [WISE_USD],,,
+,,1942 Wise USD,,,563.81
+,,6500 Övriga externa tjänster (gruppkonto),,563.81,
+,,,,,
+A 59,2026-01-14,SALES [WORLDLINE],,,
+,,1947 Worldline,,1880.00,
+,,3051 Försäljn varor 25% sv,,,1504.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,376.00
+,,,,,
+A 60,2026-01-14,FEE [WORLDLINE],,,
+,,1947 Worldline,,,12.42
+,,6570 Bankkostnader,,12.42,
+,,,,,
+A 61,2026-01-15,B01159978317 [MARGINALEN],,,
+,,1930 Företagskonto,,396.41,
+,,1947 Worldline,,,396.41
+,,,,,
+A 62,2026-01-15,Stripe LTC538TVVXRV5U [WISE_EUR],,,
+,,1944 Wise EUR,,444.32,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,355.46
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,88.86
+,,,,,
+A 63,2026-01-15,SALES [WORLDLINE],,,
+,,1947 Worldline,,399.00,
+,,3051 Försäljn varor 25% sv,,,319.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,79.80
+,,,,,
+A 64,2026-01-15,FEE [WORLDLINE],,,
+,,1947 Worldline,,,2.59
+,,6570 Bankkostnader,,2.59,
+,,,,,
+A 65,2026-01-16,"MAROUKEL, NANCY [LUNAR]",,,
+,,1948 Sales account,,375.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,300.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,75.00
+,,,,,
+A 66,2026-01-16,Sami [LUNAR],,,
+,,1948 Sales account,,1.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,1.00
+,,,,,
+A 67,2026-01-16,Swish Business enrollment [LUNAR],,,
+,,1948 Sales account,,,37.74
+,,6570 Bankkostnader,,37.74,
+,,,,,
+A 68,2026-01-16,Intern transit Lunar->Marg (Lunar har redan bokat sales) [MARGINALEN],,,
+,,1930 Företagskonto,,7048.00,
+,,1948 Sales account,,,7048.00
+,,,,,
+A 69,2026-01-16,B01160005483 [MARGINALEN],,,
+,,1930 Företagskonto,,1848.92,
+,,1947 Worldline,,,1848.92
+,,,,,
+A 70,2026-01-16,Privat konto [MARGINALEN],,,
+,,1930 Företagskonto,,637.65,
+,,"2893 Skulder till närstående personer, kortfristig del",,,637.65
+,,,,,
+A 71,2026-01-16,Apple Subscription (business apps) [PREMIUM] APPLE.COM/BILL [NORDEA],,,
+,,5420 Programvaror,,18.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,18.00
+,,,,,
+A 72,2026-01-16,FX EUR->USD [WISE_EUR],,,
+,,1944 Wise EUR,,,718.57
+,,1942 Wise USD,,718.57,
+,,,,,
+A 73,2026-01-16,Stripe XXI52HGGDN35SQ [WISE_EUR],,,
+,,1944 Wise EUR,,274.25,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,219.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,54.85
+,,,,,
+A 74,2026-01-16,SALES [WORLDLINE],,,
+,,1947 Worldline,,1861.00,
+,,3051 Försäljn varor 25% sv,,,1488.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,372.20
+,,,,,
+A 75,2026-01-16,FEE [WORLDLINE],,,
+,,1947 Worldline,,,12.08
+,,6570 Bankkostnader,,12.08,
+,,,,,
+A 76,2026-01-17,RASHA AL-SAFFAR [LUNAR],,,
+,,1948 Sales account,,299.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,239.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,59.80
+,,,,,
+A 77,2026-01-17,RASHA AL-SAFFAR [LUNAR],,,
+,,1948 Sales account,,1179.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,943.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,235.80
+,,,,,
+A 78,2026-01-17,ELAF ALAMIN [LUNAR],,,
+,,1948 Sales account,,4480.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,3584.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,896.00
+,,,,,
+A 79,2026-01-17,ABDUL BASET ALSALAMA [LUNAR],,,
+,,1948 Sales account,,900.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,720.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,180.00
+,,,,,
+A 80,2026-01-17,ABDUL BASET ALSALAMA [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 81,2026-01-17,ABEER SALIM [LUNAR],,,
+,,1948 Sales account,,1379.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1103.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,275.80
+,,,,,
+A 82,2026-01-17,RASHA AL-SAFFAR [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 83,2026-01-17,ABEER SALIM [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 84,2026-01-17,REEM SHAYAH [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 85,2026-01-17,"SHEIKH HUSSEIN,BUSHRA [LUNAR]",,,
+,,1948 Sales account,,1579.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1263.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,315.80
+,,,,,
+A 86,2026-01-17,"OSSMAN,ROQEIA [LUNAR]",,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 87,2026-01-17,SALES [WORLDLINE],,,
+,,1947 Worldline,,1997.00,
+,,3051 Försäljn varor 25% sv,,,1597.60
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,399.40
+,,,,,
+A 88,2026-01-17,FEE [WORLDLINE],,,
+,,1947 Worldline,,,18.75
+,,6570 Bankkostnader,,18.75,
+,,,,,
+A 89,2026-01-18,JUBRAN JOMEH YASSIN ABBASI [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 90,2026-01-18,"OSSMAN,ROQEIA [LUNAR]",,,
+,,1948 Sales account,,1100.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,880.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,220.00
+,,,,,
+A 91,2026-01-18,Apple Subscription (business apps) [GOLD] APPLE.COM/BILL [NORDEA],,,
+,,5420 Programvaror,,39.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,39.00
+,,,,,
+A 92,2026-01-18,Card Apcoa Flow Se [WISE_USD],,,
+,,1942 Wise USD,,,384.27
+,,"5611 Drivmedel för personbilar, mc, m.m.",,384.27,
+,,,,,
+A 93,2026-01-19,"AL MOHAMMAD ALHADI,NIRAN [LUNAR]",,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 94,2026-01-19,SAFAA ALGHARIB [LUNAR],,,
+,,1948 Sales account,,1079.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,863.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,215.80
+,,,,,
+A 95,2026-01-19,MAYADA JUMAA [LUNAR],,,
+,,1948 Sales account,,1080.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,864.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,216.00
+,,,,,
+A 96,2026-01-19,MAYADA JUMAA [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 97,2026-01-19,B01190076678 [MARGINALEN],,,
+,,1930 Företagskonto,,1066.07,
+,,1947 Worldline,,,1066.07
+,,,,,
+A 98,2026-01-19,Mobil abbonmang [MARGINALEN],,,
+,,1930 Företagskonto,,,569.00
+,,6212 Mobiltelefon,,569.00,
+,,,,,
+A 99,2026-01-19,B01170031005 [MARGINALEN],,,
+,,1930 Företagskonto,,1978.25,
+,,1947 Worldline,,,1978.25
+,,,,,
+A 100,2026-01-19,FX EUR->USD [WISE_EUR],,,
+,,1944 Wise EUR,,,1278.60
+,,1942 Wise USD,,1278.60,
+,,,,,
+A 101,2026-01-19,Stripe QEHZKZZGWM0LTM [WISE_EUR],,,
+,,1944 Wise EUR,,1278.60,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1022.88
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,255.72
+,,,,,
+A 102,2026-01-19,Card St1 Gillbergaplan [WISE_USD],,,
+,,1942 Wise USD,,1066.62,
+,,"5611 Drivmedel för personbilar, mc, m.m.",,,1066.62
+,,,,,
+A 103,2026-01-19,Card St1 Gillbergaplan [WISE_USD],,,
+,,1942 Wise USD,,,2041.40
+,,"5611 Drivmedel för personbilar, mc, m.m.",,2041.40,
+,,,,,
+A 104,2026-01-19,SALES [WORLDLINE],,,
+,,1947 Worldline,,1075.00,
+,,3051 Försäljn varor 25% sv,,,860.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,215.00
+,,,,,
+A 105,2026-01-19,FEE [WORLDLINE],,,
+,,1947 Worldline,,,8.93
+,,6570 Bankkostnader,,8.93,
+,,,,,
+A 106,2026-01-20,DONIA TKHOMI [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 107,2026-01-20,"SHEIKH HUSSEIN,BUSHRA [LUNAR]",,,
+,,1948 Sales account,,1000.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,800.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,200.00
+,,,,,
+A 108,2026-01-20,NOUR AKHRAS [LUNAR],,,
+,,1948 Sales account,,79.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,63.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,15.80
+,,,,,
+A 109,2026-01-20,"ALELAWI,BOTOUL [LUNAR]",,,
+,,1948 Sales account,,1079.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,863.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,215.80
+,,,,,
+A 110,2026-01-20,ALMA ALSKAA [LUNAR],,,
+,,1948 Sales account,,779.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,623.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,155.80
+,,,,,
+A 111,2026-01-20,B01200091424 [MARGINALEN],,,
+,,1930 Företagskonto,,394.14,
+,,1947 Worldline,,,394.14
+,,,,,
+A 112,2026-01-20,SALES [WORLDLINE],,,
+,,1947 Worldline,,398.00,
+,,3051 Försäljn varor 25% sv,,,318.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,79.60
+,,,,,
+A 113,2026-01-20,FEE [WORLDLINE],,,
+,,1947 Worldline,,,3.86
+,,6570 Bankkostnader,,3.86,
+,,,,,
+A 114,2026-01-21,DONIA TKHOMI [LUNAR],,,
+,,1948 Sales account,,1100.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,880.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,220.00
+,,,,,
+A 115,2026-01-21,HANAN ALDAABOUL [LUNAR],,,
+,,1948 Sales account,,1079.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,863.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,215.80
+,,,,,
+A 116,2026-01-21,HANAN ALDAABOUL [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 117,2026-01-21,B01210114816 [MARGINALEN],,,
+,,1930 Företagskonto,,1484.31,
+,,1947 Worldline,,,1484.31
+,,,,,
+A 118,2026-01-21,Parkirng [MARGINALEN],,,
+,,1930 Företagskonto,,,560.00
+,,"5611 Drivmedel för personbilar, mc, m.m.",,560.00,
+,,,,,
+A 119,2026-01-21,SALES [WORLDLINE],,,
+,,1947 Worldline,,1494.00,
+,,3051 Försäljn varor 25% sv,,,1195.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,298.80
+,,,,,
+A 120,2026-01-21,FEE [WORLDLINE],,,
+,,1947 Worldline,,,9.69
+,,6570 Bankkostnader,,9.69,
+,,,,,
+A 121,2026-01-22,ESSRAA MOHAMMED AHMED [LUNAR],,,
+,,1948 Sales account,,1279.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1023.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,255.80
+,,,,,
+A 122,2026-01-22,"HASANHOSIN, EEAD [LUNAR]",,,
+,,1948 Sales account,,500.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,400.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,100.00
+,,,,,
+A 123,2026-01-22,Lunar Plan Essential [LUNAR],,,
+,,1948 Sales account,,,1190.00
+,,6570 Bankkostnader,,1190.00,
+,,,,,
+A 124,2026-01-22,Swish sales (transfer to Wise SEK) [LUNAR],,,
+,,1948 Sales account,,,20489.00
+,,1945 Wise SEK,,20445.50,
+,,6570 Bankkostnader,,43.50,
+,,,,,
+A 125,2026-01-22,B01220140280 [MARGINALEN],,,
+,,1930 Företagskonto,,1368.96,
+,,1947 Worldline,,,1368.96
+,,,,,
+A 126,2026-01-22,Wise [MARGINALEN],,,
+,,1930 Företagskonto,,,23400.00
+,,1945 Wise SEK,,23400.00,
+,,,,,
+A 127,2026-01-22,FX EUR->USD [WISE_EUR],,,
+,,1944 Wise EUR,,,575.85
+,,1942 Wise USD,,575.85,
+,,,,,
+A 128,2026-01-22,Stripe KMH2LWHBMYKOK4 [WISE_EUR],,,
+,,1944 Wise EUR,,575.85,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,460.68
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,115.17
+,,,,,
+A 129,2026-01-22,FX SEK->USD [WISE_SEK],,,
+,,1945 Wise SEK,,,43845.50
+,,1942 Wise USD,,43845.50,
+,,,,,
+A 130,2026-01-22,SALES [WORLDLINE],,,
+,,1947 Worldline,,1378.00,
+,,3051 Försäljn varor 25% sv,,,1102.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,275.60
+,,,,,
+A 131,2026-01-22,FEE [WORLDLINE],,,
+,,1947 Worldline,,,9.04
+,,6570 Bankkostnader,,9.04,
+,,,,,
+A 132,2026-01-23,"ALSABBAGH,ALAA [LUNAR]",,,
+,,1948 Sales account,,379.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,303.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,75.80
+,,,,,
+A 133,2026-01-24,Sami [LUNAR],,,
+,,1948 Sales account,,99.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,99.00
+,,,,,
+A 134,2026-01-24,Sami [LUNAR],,,
+,,1948 Sales account,,99.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,99.00
+,,,,,
+A 135,2026-01-24,Sami [LUNAR],,,
+,,1948 Sales account,,129.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,129.00
+,,,,,
+A 136,2026-01-24,SALES [WORLDLINE],,,
+,,1947 Worldline,,5284.44,
+,,3051 Försäljn varor 25% sv,,,4227.55
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,1056.89
+,,,,,
+A 137,2026-01-24,FEE [WORLDLINE],,,
+,,1947 Worldline,,,34.66
+,,6570 Bankkostnader,,34.66,
+,,,,,
+A 138,2026-01-25,PERSONUPPGIFT SKYDDAD [LUNAR],,,
+,,1948 Sales account,,79.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,63.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,15.80
+,,,,,
+A 139,2026-01-26,NOUR ABDEEN [LUNAR],,,
+,,1948 Sales account,,1080.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,864.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,216.00
+,,,,,
+A 140,2026-01-26,B01260240243 [MARGINALEN],,,
+,,1930 Företagskonto,,3031.64,
+,,1947 Worldline,,,3031.64
+,,,,,
+A 141,2026-01-26,B01240194434 [MARGINALEN],,,
+,,1930 Företagskonto,,5249.78,
+,,1947 Worldline,,,5249.78
+,,,,,
+A 142,2026-01-26,FX EUR->USD [WISE_EUR],,,
+,,1944 Wise EUR,,,1717.26
+,,1942 Wise USD,,1717.26,
+,,,,,
+A 143,2026-01-26,Stripe QWBXPUPTBILUEJ [WISE_EUR],,,
+,,1944 Wise EUR,,1717.26,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1373.81
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,343.45
+,,,,,
+A 144,2026-01-26,FX SEK->USD [WISE_SEK],,,
+,,1945 Wise SEK,,,22500.00
+,,1942 Wise USD,,22500.00,
+,,,,,
+A 145,2026-01-26,Topped up account [WISE_SEK],,,
+,,1945 Wise SEK,,22500.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,22500.00
+,,,,,
+A 146,2026-01-26,Sent money to FUTURE WORLD TECH INTERNAT [WISE_USD],,,
+,,1942 Wise USD,,,77615.80
+,,2441 Future World Tech,,77615.80,
+,,,,,
+A 147,2026-01-26,SALES [WORLDLINE],,,
+,,1947 Worldline,,3073.00,
+,,3051 Försäljn varor 25% sv,,,2458.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,614.60
+,,,,,
+A 148,2026-01-26,FEE [WORLDLINE],,,
+,,1947 Worldline,,,41.36
+,,6570 Bankkostnader,,41.36,
+,,,,,
+A 149,2026-01-27,RAEDA SOBH [LUNAR],,,
+,,1948 Sales account,,429.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,343.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,85.80
+,,,,,
+A 150,2026-01-27,ELAF ALAMIN [LUNAR],,,
+,,1948 Sales account,,1750.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1400.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,350.00
+,,,,,
+A 151,2026-01-27,AWADYA SALEH [LUNAR],,,
+,,1948 Sales account,,300.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,240.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,60.00
+,,,,,
+A 152,2026-01-27,B01270256020 [MARGINALEN],,,
+,,1930 Företagskonto,,2350.63,
+,,1947 Worldline,,,2350.63
+,,,,,
+A 153,2026-01-27,Card terminal [MARGINALEN],,,
+,,1930 Företagskonto,,,248.00
+,,6570 Bankkostnader,,248.00,
+,,,,,
+A 154,2026-01-27,Frakt [MARGINALEN],,,
+,,1930 Företagskonto,,,171.00
+,,5710 Frakter och försäkringar vid varudistribution,,171.00,
+,,,,,
+A 155,2026-01-27,Frakt [MARGINALEN],,,
+,,1930 Företagskonto,,,2016.00
+,,5710 Frakter och försäkringar vid varudistribution,,2016.00,
+,,,,,
+A 156,2026-01-27,Frakt [MARGINALEN],,,
+,,1930 Företagskonto,,,275.00
+,,5710 Frakter och försäkringar vid varudistribution,,275.00,
+,,,,,
+A 157,2026-01-27,Frakt [MARGINALEN],,,
+,,1930 Företagskonto,,,94.71
+,,5710 Frakter och försäkringar vid varudistribution,,94.71,
+,,,,,
+A 158,2026-01-27,Frakt [MARGINALEN],,,
+,,1930 Företagskonto,,,94.00
+,,5710 Frakter och försäkringar vid varudistribution,,94.00,
+,,,,,
+A 159,2026-01-27,Frakt [MARGINALEN],,,
+,,1930 Företagskonto,,,2170.00
+,,5710 Frakter och försäkringar vid varudistribution,,2170.00,
+,,,,,
+A 160,2026-01-27,Frakt [MARGINALEN],,,
+,,1930 Företagskonto,,,171.74
+,,5710 Frakter och försäkringar vid varudistribution,,171.74,
+,,,,,
+A 161,2026-01-27,Frakt [MARGINALEN],,,
+,,1930 Företagskonto,,,78.83
+,,5710 Frakter och försäkringar vid varudistribution,,78.83,
+,,,,,
+A 162,2026-01-27,2893 terbetalning [MARGINALEN],,,
+,,1930 Företagskonto,,,3000.00
+,,"2893 Skulder till närstående personer, kortfristig del",,3000.00,
+,,,,,
+A 163,2026-01-27,FX GBP->USD [WISE_GBP],,,
+,,1943 Wise GBP,,,97310.80
+,,1942 Wise USD,,97310.80,
+,,,,,
+A 164,2026-01-27,ahmed gheyath al-sha (Loan) [WISE_GBP],,,
+,,1943 Wise GBP,,97310.80,
+,,"2893 Skulder till närstående personer, kortfristig del",,,97310.80
+,,,,,
+A 165,2026-01-27,Sent money to FUTURE WORLD TECH INTERNAT [WISE_USD],,,
+,,1942 Wise USD,,,47094.00
+,,2441 Future World Tech,,47094.00,
+,,,,,
+A 166,2026-01-27,SALES [WORLDLINE],,,
+,,1947 Worldline,,2366.00,
+,,3051 Försäljn varor 25% sv,,,1892.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,473.20
+,,,,,
+A 167,2026-01-27,FEE [WORLDLINE],,,
+,,1947 Worldline,,,15.37
+,,6570 Bankkostnader,,15.37,
+,,,,,
+A 168,2026-01-28,PERSONUPPGIFT SKYDDAD [LUNAR],,,
+,,1948 Sales account,,79.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,63.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,15.80
+,,,,,
+A 169,2026-01-28,Sami [LUNAR],,,
+,,1948 Sales account,,79.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,79.00
+,,,,,
+A 170,2026-01-28,ATAA MAHMOUD HMEDAN [LUNAR],,,
+,,1948 Sales account,,250.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,200.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,50.00
+,,,,,
+A 171,2026-01-28,MOHAMMAD ALNAEF [LUNAR],,,
+,,1948 Sales account,,1279.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1023.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,255.80
+,,,,,
+A 172,2026-01-28,Retur refund Sweish [LUNAR],,,
+,,1948 Sales account,,,429.00
+,,"3001 Försäljning inom Sverige, 25 % moms",,343.20,
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,85.80,
+,,,,,
+A 173,2026-01-28,2893 terbetalning [LUNAR],,,
+,,1948 Sales account,,,2740.00
+,,"2893 Skulder till närstående personer, kortfristig del",,2740.00,
+,,,,,
+A 174,2026-01-28,B01280278972 [MARGINALEN],,,
+,,1930 Företagskonto,,1570.73,
+,,1947 Worldline,,,1570.73
+,,,,,
+A 175,2026-01-28,Paid to Shopify | na.Ts6YUh1aH0QaZb:L23E [WISE_EUR],,,
+,,1944 Wise EUR,,,96.62
+,,5420 Programvaror,,96.62,
+,,,,,
+A 176,2026-01-28,Stripe YKLDS5EYEC3N5N [WISE_EUR],,,
+,,1944 Wise EUR,,96.62,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,77.30
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,19.32
+,,,,,
+A 177,2026-01-28,Paid to Shopify | na.Ts6YUh1aH0QaZb:L23E [WISE_USD],,,
+,,1942 Wise USD,,,552.81
+,,"3001 Försäljning inom Sverige, 25 % moms",,442.25,
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,110.56,
+,,,,,
+A 178,2026-01-28,SALES [WORLDLINE],,,
+,,1947 Worldline,,1581.00,
+,,3051 Försäljn varor 25% sv,,,1264.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,316.20
+,,,,,
+A 179,2026-01-28,FEE [WORLDLINE],,,
+,,1947 Worldline,,,10.27
+,,6570 Bankkostnader,,10.27,
+,,,,,
+A 180,2026-01-29,NAJMA DAYIB [LUNAR],,,
+,,1948 Sales account,,459.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,367.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,91.80
+,,,,,
+A 181,2026-01-29,"ABOUD,MARYAM [LUNAR]",,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 182,2026-01-29,FATIMA ASAAD [LUNAR],,,
+,,1948 Sales account,,329.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,263.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,65.80
+,,,,,
+A 183,2026-01-29,B01290305116 [MARGINALEN],,,
+,,1930 Företagskonto,,4064.41,
+,,1947 Worldline,,,4064.41
+,,,,,
+A 184,2026-01-29,Card Tiktok Ads [WISE_USD],,,
+,,1942 Wise USD,,,1615.11
+,,5900 Reklam och PR (gruppkonto),,1615.11,
+,,,,,
+A 185,2026-01-29,SALES [WORLDLINE],,,
+,,1947 Worldline,,4091.00,
+,,3051 Försäljn varor 25% sv,,,3272.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,818.20
+,,,,,
+A 186,2026-01-29,FEE [WORLDLINE],,,
+,,1947 Worldline,,,26.59
+,,6570 Bankkostnader,,26.59,
+,,,,,
+A 187,2026-01-30,Sami [LUNAR],,,
+,,1948 Sales account,,79.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,79.00
+,,,,,
+A 188,2026-01-30,ASMAA SABBAGH [LUNAR],,,
+,,1948 Sales account,,932.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,745.60
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,186.40
+,,,,,
+A 189,2026-01-30,Card Zalando Payments Gmbh Be [WISE_USD],,,
+,,1942 Wise USD,,,2226.48
+,,5410 Förbrukningsinventarier,,2226.48,
+,,,,,
+A 190,2026-01-31,AWADYA SALEH [LUNAR],,,
+,,1948 Sales account,,429.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,343.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,85.80
+,,,,,
+A 191,2026-01-31,Card Tiktok Ads [WISE_USD],,,
+,,1942 Wise USD,,,1526.37
+,,5900 Reklam och PR (gruppkonto),,1526.37,
+,,,,,
+A 192,2026-01-31,SALES [WORLDLINE],,,
+,,1947 Worldline,,9993.00,
+,,3051 Försäljn varor 25% sv,,,7994.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,1998.60
+,,,,,
+A 193,2026-01-31,FEE [WORLDLINE],,,
+,,1947 Worldline,,,65.12
+,,6570 Bankkostnader,,65.12,
+,,,,,
+A 194,2026-02-01,Mnadsavgift Fretagskonto [MARGINALEN],,,
+,,1930 Företagskonto,,,70.00
+,,6570 Bankkostnader,,70.00,
+,,,,,
+A 195,2026-02-01,"Inkop fr privatperson kontant del 25500 (totalt 38000, 12500 via Marginalen) [SALES_AND_COGS]",,,
+,,1460 Lager av handelsvaror,,25500.00,
+,,1910 Kassa,,,25500.00
+,,,,,
+A 196,2026-02-01,Card Google*Workspace CC [WISE_USD],,,
+,,1942 Wise USD,,,152.09
+,,5420 Programvaror,,152.09,
+,,,,,
+A 197,2026-02-01,Card Tiktok Ads [WISE_USD],,,
+,,1942 Wise USD,,,439.07
+,,5900 Reklam och PR (gruppkonto),,439.07,
+,,,,,
+A 198,2026-02-02,Assaf Ali Alkasoum [LUNAR],,,
+,,1948 Sales account,,340.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,272.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,68.00
+,,,,,
+A 199,2026-02-02,ALMA ALSKAA [LUNAR],,,
+,,1948 Sales account,,415.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,332.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,83.00
+,,,,,
+A 200,2026-02-02,Assaf Ali Alkasoum [LUNAR],,,
+,,1948 Sales account,,1078.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,862.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,215.60
+,,,,,
+A 201,2026-02-02,B02020405609 [MARGINALEN],,,
+,,1930 Företagskonto,,3845.85,
+,,1947 Worldline,,,3845.85
+,,,,,
+A 202,2026-02-02,Inkp frn privatperson klder [MARGINALEN],,,
+,,1930 Företagskonto,,,12500.00
+,,1460 Lager av handelsvaror,,12500.00,
+,,,,,
+A 203,2026-02-02,B02010386401 [MARGINALEN],,,
+,,1930 Företagskonto,,5.48,
+,,1947 Worldline,,,5.48
+,,,,,
+A 204,2026-02-02,B01310359414 [MARGINALEN],,,
+,,1930 Företagskonto,,9927.88,
+,,1947 Worldline,,,9927.88
+,,,,,
+A 205,2026-02-02,Stripe 83I8LIHSJVPYIP [WISE_EUR],,,
+,,1944 Wise EUR,,1391.48,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1113.18
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,278.30
+,,,,,
+A 206,2026-02-02,SALES [WORLDLINE],,,
+,,1947 Worldline,,3871.00,
+,,3051 Försäljn varor 25% sv,,,3096.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,774.20
+,,,,,
+A 207,2026-02-02,FEE [WORLDLINE],,,
+,,1947 Worldline,,,25.15
+,,6570 Bankkostnader,,25.15,
+,,,,,
+A 208,2026-02-03,MOHAMMAD ALNAEF [LUNAR],,,
+,,1948 Sales account,,510.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,408.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,102.00
+,,,,,
+A 209,2026-02-03,"EBRAHIM,NEAMAT ALI ADAM [LUNAR]",,,
+,,1948 Sales account,,1350.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1080.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,270.00
+,,,,,
+A 210,2026-02-03,MAYADA JUMAA [LUNAR],,,
+,,1948 Sales account,,1350.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1080.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,270.00
+,,,,,
+A 211,2026-02-03,PERSONUPPGIFT SKYDDAD [LUNAR],,,
+,,1948 Sales account,,800.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,640.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,160.00
+,,,,,
+A 212,2026-02-03,B02030422253 [MARGINALEN],,,
+,,1930 Företagskonto,,837.53,
+,,1947 Worldline,,,837.53
+,,,,,
+A 213,2026-02-03,FX EUR->USD [WISE_EUR],,,
+,,1944 Wise EUR,,,1391.48
+,,1942 Wise USD,,1391.48,
+,,,,,
+A 214,2026-02-03,SALES [WORLDLINE],,,
+,,1947 Worldline,,843.00,
+,,3051 Försäljn varor 25% sv,,,674.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,168.60
+,,,,,
+A 215,2026-02-03,FEE [WORLDLINE],,,
+,,1947 Worldline,,,5.47
+,,6570 Bankkostnader,,5.47,
+,,,,,
+A 216,2026-02-04,SHADI ALMOUSA ALAHMAD [LUNAR],,,
+,,1948 Sales account,,350.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,280.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,70.00
+,,,,,
+A 217,2026-02-04,ASMAA SABBAGH [LUNAR],,,
+,,1948 Sales account,,79.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,63.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,15.80
+,,,,,
+A 218,2026-02-04,KHALED ALMOHAMMAD [LUNAR],,,
+,,1948 Sales account,,1000.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,800.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,200.00
+,,,,,
+A 219,2026-02-04,B02040445787 [MARGINALEN],,,
+,,1930 Företagskonto,,1259.77,
+,,1947 Worldline,,,1259.77
+,,,,,
+A 220,2026-02-04,Stripe Y5AW9IJ6KVMRUN [WISE_EUR],,,
+,,1944 Wise EUR,,76.73,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,61.38
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,15.35
+,,,,,
+A 221,2026-02-04,"Card Cursor, Ai Powered Ide [WISE_USD]",,,
+,,1942 Wise USD,,,195.99
+,,5420 Programvaror,,195.99,
+,,,,,
+A 222,2026-02-04,Card Trip.com [WISE_USD],,,
+,,1942 Wise USD,,,1655.15
+,,"2893 Skulder till närstående personer, kortfristig del",,1655.15,
+,,,,,
+A 223,2026-02-04,SALES [WORLDLINE],,,
+,,1947 Worldline,,1268.00,
+,,3051 Försäljn varor 25% sv,,,1014.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,253.60
+,,,,,
+A 224,2026-02-04,FEE [WORLDLINE],,,
+,,1947 Worldline,,,8.23
+,,6570 Bankkostnader,,8.23,
+,,,,,
+A 225,2026-02-05,B02050471530 [MARGINALEN],,,
+,,1930 Företagskonto,,1752.54,
+,,1947 Worldline,,,1752.54
+,,,,,
+A 226,2026-02-05,Frakt [MARGINALEN],,,
+,,1930 Företagskonto,,,1556.00
+,,5710 Frakter och försäkringar vid varudistribution,,1556.00,
+,,,,,
+A 227,2026-02-05,FX EUR->USD [WISE_EUR],,,
+,,1944 Wise EUR,,,3002.41
+,,1942 Wise USD,,3002.41,
+,,,,,
+A 228,2026-02-05,Stripe PETLJL3X1SOXZO [WISE_EUR],,,
+,,1944 Wise EUR,,2925.68,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,2340.54
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,585.14
+,,,,,
+A 229,2026-02-05,Card Cursor Usage Mid  Feb [WISE_USD],,,
+,,1942 Wise USD,,,192.42
+,,5420 Programvaror,,192.42,
+,,,,,
+A 230,2026-02-05,Sent money to FUTURE WORLD TECH INTERNAT [WISE_USD],,,
+,,1942 Wise USD,,,2444.00
+,,2441 Future World Tech,,2444.00,
+,,,,,
+A 231,2026-02-05,Cashback [WISE_USD],,,
+,,1942 Wise USD,,23.78,
+,,8311 Ränteintäkter från bank,,,23.78
+,,,,,
+A 232,2026-02-05,SALES [WORLDLINE],,,
+,,1947 Worldline,,1764.00,
+,,3051 Försäljn varor 25% sv,,,1411.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,352.80
+,,,,,
+A 233,2026-02-05,FEE [WORLDLINE],,,
+,,1947 Worldline,,,11.46
+,,6570 Bankkostnader,,11.46,
+,,,,,
+A 234,2026-02-06,Transfer [LUNAR],,,
+,,1948 Sales account,,,13104.00
+,,1930 Företagskonto,,13104.00,
+,,,,,
+A 235,2026-02-06,B02060497853 [MARGINALEN],,,
+,,1930 Företagskonto,,502.72,
+,,1947 Worldline,,,502.72
+,,,,,
+A 236,2026-02-06,Stripe NJULGLWKUZPLXY [WISE_EUR],,,
+,,1944 Wise EUR,,1578.95,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1263.16
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,315.79
+,,,,,
+A 237,2026-02-06,Card Cursor Usage Mid  Feb [WISE_USD],,,
+,,1942 Wise USD,,,431.46
+,,5420 Programvaror,,431.46,
+,,,,,
+A 238,2026-02-06,"Card Github, Inc. [WISE_USD]",,,
+,,1942 Wise USD,,,366.60
+,,5420 Programvaror,,366.60,
+,,,,,
+A 239,2026-02-06,SALES [WORLDLINE],,,
+,,1947 Worldline,,506.00,
+,,3051 Försäljn varor 25% sv,,,404.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,101.20
+,,,,,
+A 240,2026-02-06,FEE [WORLDLINE],,,
+,,1947 Worldline,,,3.28
+,,6570 Bankkostnader,,3.28,
+,,,,,
+A 241,2026-02-07,Card Cursor Usage Mid  Feb [WISE_USD],,,
+,,1942 Wise USD,,,575.00
+,,5420 Programvaror,,575.00,
+,,,,,
+A 242,2026-02-07,SALES [WORLDLINE],,,
+,,1947 Worldline,,3615.00,
+,,3051 Försäljn varor 25% sv,,,2892.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,723.00
+,,,,,
+A 243,2026-02-07,FEE [WORLDLINE],,,
+,,1947 Worldline,,,23.67
+,,6570 Bankkostnader,,23.67,
+,,,,,
+A 244,2026-02-08,GHENA JARKAS [LUNAR],,,
+,,1948 Sales account,,2200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1760.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,440.00
+,,,,,
+A 245,2026-02-08,"ABDULMASIH BLME, NAHLA [LUNAR]",,,
+,,1948 Sales account,,1000.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,800.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,200.00
+,,,,,
+A 246,2026-02-08,"ABDULMASIH BLME, NAHLA [LUNAR]",,,
+,,1948 Sales account,,1800.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1440.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,360.00
+,,,,,
+A 247,2026-02-08,GHENA JARKAS [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 248,2026-02-08,"ABDULMASIH BLME, NAHLA [LUNAR]",,,
+,,1948 Sales account,,350.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,280.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,70.00
+,,,,,
+A 249,2026-02-09,IKHLAS MOHAMAD [LUNAR],,,
+,,1948 Sales account,,1430.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1144.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,286.00
+,,,,,
+A 250,2026-02-09,PERSONUPPGIFT SKYDDAD [LUNAR],,,
+,,1948 Sales account,,79.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,63.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,15.80
+,,,,,
+A 251,2026-02-09,"ALTAMARI, MONA [LUNAR]",,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 252,2026-02-09,"AL KHALED,HANAA [LUNAR]",,,
+,,1948 Sales account,,258.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,206.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,51.60
+,,,,,
+A 253,2026-02-09,B02090569951 [MARGINALEN],,,
+,,1930 Företagskonto,,3697.82,
+,,1947 Worldline,,,3697.82
+,,,,,
+A 254,2026-02-09,B02070523538 [MARGINALEN],,,
+,,1930 Företagskonto,,3591.33,
+,,1947 Worldline,,,3591.33
+,,,,,
+A 255,2026-02-09,FX EUR->USD [WISE_EUR],,,
+,,1944 Wise EUR,,,1578.95
+,,1942 Wise USD,,1578.95,
+,,,,,
+A 256,2026-02-09,Card Shipit.se [WISE_USD],,,
+,,1942 Wise USD,,,1056.84
+,,5700 Frakter och transporter (gruppkonto),,1056.84,
+,,,,,
+A 257,2026-02-09,SALES [WORLDLINE],,,
+,,1947 Worldline,,3722.00,
+,,3051 Försäljn varor 25% sv,,,2977.60
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,744.40
+,,,,,
+A 258,2026-02-09,FEE [WORLDLINE],,,
+,,1947 Worldline,,,24.18
+,,6570 Bankkostnader,,24.18,
+,,,,,
+A 259,2026-02-10,Transfer [LUNAR],,,
+,,1948 Sales account,,,7500.00
+,,1930 Företagskonto,,7500.00,
+,,,,,
+A 260,2026-02-10,B02100584482 [MARGINALEN],,,
+,,1930 Företagskonto,,4547.93,
+,,1947 Worldline,,,4547.93
+,,,,,
+A 261,2026-02-10,Card Shopify* 486613319 [WISE_USD],,,
+,,1942 Wise USD,,,404.11
+,,5420 Programvaror,,404.11,
+,,,,,
+A 262,2026-02-10,SALES [WORLDLINE],,,
+,,1947 Worldline,,4581.00,
+,,3051 Försäljn varor 25% sv,,,3664.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,916.20
+,,,,,
+A 263,2026-02-10,FEE [WORLDLINE],,,
+,,1947 Worldline,,,33.07
+,,6570 Bankkostnader,,33.07,
+,,,,,
+A 264,2026-02-11,RAUDH FOIED [LUNAR],,,
+,,1948 Sales account,,379.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,303.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,75.80
+,,,,,
+A 265,2026-02-11,PERSONUPPGIFT SKYDDAD [LUNAR],,,
+,,1948 Sales account,,280.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,224.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,56.00
+,,,,,
+A 266,2026-02-11,Personuppgift skyddad [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 267,2026-02-11,RAUDH FOIED [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 268,2026-02-11,B02110607269 [MARGINALEN],,,
+,,1930 Företagskonto,,1376.95,
+,,1947 Worldline,,,1376.95
+,,,,,
+A 269,2026-02-11,Abbonmang [MARGINALEN],,,
+,,1930 Företagskonto,,,569.00
+,,6212 Mobiltelefon,,569.00,
+,,,,,
+A 270,2026-02-11,Lagar hyra 12/2025. 1-2 2026 [MARGINALEN],,,
+,,1930 Företagskonto,,,15627.00
+,,5010 Lokalhyra,,15627.00,
+,,,,,
+A 271,2026-02-11,DSV ROAD AB [MARGINALEN],,,
+,,1930 Företagskonto,,,2100.00
+,,5710 Frakter och försäkringar vid varudistribution,,2100.00,
+,,,,,
+A 272,2026-02-11,Apple Subscription (business apps) [GOLD] APPLE.COM/BILL [NORDEA],,,
+,,5420 Programvaror,,249.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,249.00
+,,,,,
+A 273,2026-02-11,Card Okq8 [WISE_USD],,,
+,,1942 Wise USD,,945.64,
+,,"5611 Drivmedel för personbilar, mc, m.m.",,,945.64
+,,,,,
+A 274,2026-02-11,Card Okq8 [WISE_USD],,,
+,,1942 Wise USD,,,1915.25
+,,"5611 Drivmedel för personbilar, mc, m.m.",,1915.25,
+,,,,,
+A 275,2026-02-11,SALES [WORLDLINE],,,
+,,1947 Worldline,,1386.00,
+,,3051 Försäljn varor 25% sv,,,1108.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,277.20
+,,,,,
+A 276,2026-02-11,FEE [WORLDLINE],,,
+,,1947 Worldline,,,9.05
+,,6570 Bankkostnader,,9.05,
+,,,,,
+A 277,2026-02-12,Moms okt 2025 - dec 2025 [SKATTEVERKET],,,
+,,1630 Avräkning för skatter och avgifter (skattekonto),,,81643.00
+,,2650 Redovisningskonto för moms,,81643.00,
+,,,,,
+A 278,2026-02-12,Stripe ZZIK5QM8VPLIIR [WISE_EUR],,,
+,,1944 Wise EUR,,2839.35,
+,,3190 ∩┐╜vrig f∩┐╜rs∩┐╜ljning av varor,,,2839.35
+,,,,,
+A 279,2026-02-13,B02130658937 [MARGINALEN],,,
+,,1930 Företagskonto,,3004.71,
+,,1947 Worldline,,,3004.71
+,,,,,
+A 280,2026-02-13,FX EUR->USD [WISE_EUR],,,
+,,1944 Wise EUR,,,2839.35
+,,1942 Wise USD,,2839.35,
+,,,,,
+A 281,2026-02-13,Sent money to ahmed gheyath al-sharif | [WISE_USD],,,
+,,1942 Wise USD,,,6580.00
+,,"2893 Skulder till närstående personer, kortfristig del",,6580.00,
+,,,,,
+A 282,2026-02-13,SALES [WORLDLINE],,,
+,,1947 Worldline,,3038.00,
+,,3051 Försäljn varor 25% sv,,,2430.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,607.60
+,,,,,
+A 283,2026-02-13,FEE [WORLDLINE],,,
+,,1947 Worldline,,,33.29
+,,6570 Bankkostnader,,33.29,
+,,,,,
+A 284,2026-02-14,SALES [WORLDLINE],,,
+,,1947 Worldline,,965.00,
+,,3051 Försäljn varor 25% sv,,,772.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,193.00
+,,,,,
+A 285,2026-02-14,FEE [WORLDLINE],,,
+,,1947 Worldline,,,6.38
+,,6570 Bankkostnader,,6.38,
+,,,,,
+A 286,2026-02-15,Swish Business enrollment [LUNAR],,,
+,,1948 Sales account,,,39.00
+,,6570 Bankkostnader,,39.00,
+,,,,,
+A 287,2026-02-15,SALES [WORLDLINE],,,
+,,1947 Worldline,,550.00,
+,,3051 Försäljn varor 25% sv,,,440.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,110.00
+,,,,,
+A 288,2026-02-15,FEE [WORLDLINE],,,
+,,1947 Worldline,,,3.58
+,,6570 Bankkostnader,,3.58,
+,,,,,
+A 289,2026-02-16,Frakt [MARGINALEN],,,
+,,1930 Företagskonto,,,1192.00
+,,5710 Frakter och försäkringar vid varudistribution,,1192.00,
+,,,,,
+A 290,2026-02-16,B02150711570 [MARGINALEN],,,
+,,1930 Företagskonto,,546.42,
+,,1947 Worldline,,,546.42
+,,,,,
+A 291,2026-02-16,B02140685830 [MARGINALEN],,,
+,,1930 Företagskonto,,958.62,
+,,1947 Worldline,,,958.62
+,,,,,
+A 292,2026-02-16,Apple Subscription (business apps) [GOLD] APPLE.COM/BILL [NORDEA],,,
+,,5420 Programvaror,,18.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,18.00
+,,,,,
+A 293,2026-02-16,Stripe NLQE0ARPCQWBQZ [WISE_EUR],,,
+,,1944 Wise EUR,,887.95,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,710.36
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,177.59
+,,,,,
+A 294,2026-02-16,Card Ledmegastore.se +4631301 [WISE_USD],,,
+,,1942 Wise USD,,,175.97
+,,5410 Förbrukningsinventarier,,175.97,
+,,,,,
+A 295,2026-02-16,Card Biltema Eskilstuna [WISE_USD],,,
+,,1942 Wise USD,,,1124.90
+,,5460 Förbrukningsmaterial,,1124.90,
+,,,,,
+A 296,2026-02-16,Card Tradera [WISE_USD],,,
+,,1942 Wise USD,,,6281.74
+,,5410 Förbrukningsinventarier,,6281.74,
+,,,,,
+A 297,2026-02-17,Najma Dayib [LUNAR],,,
+,,1948 Sales account,,,221.00
+,,"3001 Försäljning inom Sverige, 25 % moms",,176.80,
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,44.20,
+,,,,,
+A 298,2026-02-17,B02170746228 [MARGINALEN],,,
+,,1930 Företagskonto,,1317.38,
+,,1947 Worldline,,,1317.38
+,,,,,
+A 299,2026-02-17,Stripe OA3QAOLCNQAP3V [WISE_EUR],,,
+,,1944 Wise EUR,,248.37,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,198.70
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,49.67
+,,,,,
+A 300,2026-02-17,Card Apcoa Flow Se [WISE_USD],,,
+,,1942 Wise USD,,,395.27
+,,"5611 Drivmedel för personbilar, mc, m.m.",,395.27,
+,,,,,
+A 301,2026-02-17,SALES [WORLDLINE],,,
+,,1947 Worldline,,1326.00,
+,,3051 Försäljn varor 25% sv,,,1060.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,265.20
+,,,,,
+A 302,2026-02-17,FEE [WORLDLINE],,,
+,,1947 Worldline,,,8.62
+,,6570 Bankkostnader,,8.62,
+,,,,,
+A 303,2026-02-18,Norge grosshandel Mohamad Sharif (export 0%) [MARGINALEN],,,
+,,1930 Företagskonto,,18000.00,
+,,3105 Försäljning varor till land utanför EU,,,18000.00
+,,,,,
+A 304,2026-02-18,B02180770543 [MARGINALEN],,,
+,,1930 Företagskonto,,297.06,
+,,1947 Worldline,,,297.06
+,,,,,
+A 305,2026-02-18,Apple Subscription (business apps) [GOLD] APPLE.COM/BILL [NORDEA],,,
+,,5420 Programvaror,,39.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,39.00
+,,,,,
+A 306,2026-02-18,SALES [WORLDLINE],,,
+,,1947 Worldline,,299.00,
+,,3051 Försäljn varor 25% sv,,,239.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,59.80
+,,,,,
+A 307,2026-02-18,FEE [WORLDLINE],,,
+,,1947 Worldline,,,1.94
+,,6570 Bankkostnader,,1.94,
+,,,,,
+A 308,2026-02-19,Norge grosshandel CI-2026-001 (export 0%) [MARGINALEN],,,
+,,1930 Företagskonto,,28000.00,
+,,3105 Försäljning varor till land utanför EU,,,28000.00
+,,,,,
+A 309,2026-02-19,B02190795628 [MARGINALEN],,,
+,,1930 Företagskonto,,2308.90,
+,,1947 Worldline,,,2308.90
+,,,,,
+A 310,2026-02-19,UNITRANS SHIPPING & TRANSPORT AB [MARGINALEN],,,
+,,1930 Företagskonto,,,46372.00
+,,1460 Lager av handelsvaror,,46372.00,
+,,,,,
+A 311,2026-02-19,Card Tradera [WISE_USD],,,
+,,1942 Wise USD,,,572.55
+,,5410 Förbrukningsinventarier,,572.55,
+,,,,,
+A 312,2026-02-19,Card Amazon.se* No0l24615 [WISE_USD],,,
+,,1942 Wise USD,,,1605.80
+,,5410 Förbrukningsinventarier,,1605.80,
+,,,,,
+A 313,2026-02-19,Card Amazonmktplc www.amazon. [WISE_USD],,,
+,,1942 Wise USD,,,1368.92
+,,5410 Förbrukningsinventarier,,1368.92,
+,,,,,
+A 314,2026-02-19,SALES [WORLDLINE],,,
+,,1947 Worldline,,2324.00,
+,,3051 Försäljn varor 25% sv,,,1859.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,464.80
+,,,,,
+A 315,2026-02-19,FEE [WORLDLINE],,,
+,,1947 Worldline,,,15.10
+,,6570 Bankkostnader,,15.10,
+,,,,,
+A 316,2026-02-20,"ALAMIN,AMNA MOHAMMEDALI [LUNAR]",,,
+,,1948 Sales account,,1000.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,800.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,200.00
+,,,,,
+A 317,2026-02-20,AWADYA SALEH [LUNAR],,,
+,,1948 Sales account,,1087.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,869.60
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,217.40
+,,,,,
+A 318,2026-02-20,Norge grosshandel CI-2026-001 (export 0%) [MARGINALEN],,,
+,,1930 Företagskonto,,12000.00,
+,,3105 Försäljning varor till land utanför EU,,,12000.00
+,,,,,
+A 319,2026-02-20,B02200821451 [MARGINALEN],,,
+,,1930 Företagskonto,,375.55,
+,,1947 Worldline,,,375.55
+,,,,,
+A 320,2026-02-20,Paid to Shopify | Shopify [WISE_EUR],,,
+,,1944 Wise EUR,,,255.15
+,,5420 Programvaror,,255.15,
+,,,,,
+A 321,2026-02-20,SALES [WORLDLINE],,,
+,,1947 Worldline,,378.00,
+,,3051 Försäljn varor 25% sv,,,302.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,75.60
+,,,,,
+A 322,2026-02-20,FEE [WORLDLINE],,,
+,,1947 Worldline,,,2.45
+,,6570 Bankkostnader,,2.45,
+,,,,,
+A 323,2026-02-21,FX EUR->USD [WISE_EUR],,,
+,,1944 Wise EUR,,,881.17
+,,1942 Wise USD,,881.17,
+,,,,,
+A 324,2026-02-21,SALES [WORLDLINE],,,
+,,1947 Worldline,,1590.00,
+,,3051 Försäljn varor 25% sv,,,1272.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,318.00
+,,,,,
+A 325,2026-02-21,FEE [WORLDLINE],,,
+,,1947 Worldline,,,10.51
+,,6570 Bankkostnader,,10.51,
+,,,,,
+A 326,2026-02-22,YOUSRA DALATI [LUNAR],,,
+,,1948 Sales account,,1300.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1040.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,260.00
+,,,,,
+A 327,2026-02-22,"ABDULMASIH BLME, NAHLA [LUNAR]",,,
+,,1948 Sales account,,1500.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1200.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,300.00
+,,,,,
+A 328,2026-02-22,YOUSRA DALATI [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 329,2026-02-23,AYED FALLAHAH [LUNAR],,,
+,,1948 Sales account,,1237.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,989.60
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,247.40
+,,,,,
+A 330,2026-02-23,NOURA YASSIN ALFALAH [LUNAR],,,
+,,1948 Sales account,,1660.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1328.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,332.00
+,,,,,
+A 331,2026-02-23,MAGNUS NILSSON [LUNAR],,,
+,,1948 Sales account,,500.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,400.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,100.00
+,,,,,
+A 332,2026-02-23,YOUSRA DALATI [LUNAR],,,
+,,1948 Sales account,,100.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,80.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,20.00
+,,,,,
+A 333,2026-02-23,Ikhlas Retur [LUNAR],,,
+,,1948 Sales account,,,1220.00
+,,"3001 Försäljning inom Sverige, 25 % moms",,976.00,
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,244.00,
+,,,,,
+A 334,2026-02-23,B02210847561 [MARGINALEN],,,
+,,1930 Företagskonto,,1579.49,
+,,1947 Worldline,,,1579.49
+,,,,,
+A 335,2026-02-24,AKHYAR YASSIN HASSAN MOHAMEDALI [LUNAR],,,
+,,1948 Sales account,,379.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,303.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,75.80
+,,,,,
+A 336,2026-02-24,FATIMA ASAAD [LUNAR],,,
+,,1948 Sales account,,329.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,263.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,65.80
+,,,,,
+A 337,2026-02-24,MILLION BERAKI [LUNAR],,,
+,,1948 Sales account,,325.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,260.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,65.00
+,,,,,
+A 338,2026-02-24,AKHYAR YASSIN HASSAN MOHAMEDALI [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 339,2026-02-24,MONA FREJEH [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 340,2026-02-24,Till 2893 [MARGINALEN],,,
+,,1930 Företagskonto,,,20000.00
+,,"2893 Skulder till närstående personer, kortfristig del",,20000.00,
+,,,,,
+A 341,2026-02-24,B02240904331 [MARGINALEN],,,
+,,1930 Företagskonto,,3889.36,
+,,1947 Worldline,,,3889.36
+,,,,,
+A 342,2026-02-24,Mari Ln januari [MARGINALEN],,,
+,,7210 Löner till tjänstemän,,18528.76,
+,,"7510 Arbetsgivaravgifter 31,42 %",,3258.27,
+,,2710 Personalskatt,,,1803.76
+,,2731 Avräkning lagstadgade sociala avgifter,,,3258.27
+,,1930 Företagskonto,,,16725.00
+,,,,,
+A 343,2026-02-24,Emelie LN JANUARI 2026 [MARGINALEN],,,
+,,7210 Löner till tjänstemän,,17632.24,
+,,"7510 Arbetsgivaravgifter 31,42 %",,3101.73,
+,,2710 Personalskatt,,,1716.24
+,,2731 Avräkning lagstadgade sociala avgifter,,,3101.73
+,,1930 Företagskonto,,,15916.00
+,,,,,
+A 344,2026-02-24,Frakt [MARGINALEN],,,
+,,1930 Företagskonto,,,522.00
+,,5710 Frakter och försäkringar vid varudistribution,,522.00,
+,,,,,
+A 345,2026-02-24,Paid to Shopify | Shopify [WISE_USD],,,
+,,1942 Wise USD,,,602.16
+,,"3001 Försäljning inom Sverige, 25 % moms",,481.73,
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,120.43,
+,,,,,
+A 346,2026-02-24,SALES [WORLDLINE],,,
+,,1947 Worldline,,3915.00,
+,,3051 Försäljn varor 25% sv,,,3132.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,783.00
+,,,,,
+A 347,2026-02-24,FEE [WORLDLINE],,,
+,,1947 Worldline,,,25.64
+,,6570 Bankkostnader,,25.64,
+,,,,,
+A 348,2026-02-25,"ABOUD,MARYAM [LUNAR]",,,
+,,1948 Sales account,,250.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,200.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,50.00
+,,,,,
+A 349,2026-02-25,ASAWER MUAYAD ORAIBI ORAIBI [LUNAR],,,
+,,1948 Sales account,,599.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,479.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,119.80
+,,,,,
+A 350,2026-02-25,NADIA MORAD [LUNAR],,,
+,,1948 Sales account,,879.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,703.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,175.80
+,,,,,
+A 351,2026-02-25,Till 2893 [MARGINALEN],,,
+,,1930 Företagskonto,,,4500.00
+,,"2893 Skulder till närstående personer, kortfristig del",,4500.00,
+,,,,,
+A 352,2026-02-25,0006641229 [MARGINALEN],,,
+,,1930 Företagskonto,,48374.00,
+,,3994 Försäkringsersättningar,,,48374.00
+,,,,,
+A 353,2026-02-26,MONA FREJEH [LUNAR],,,
+,,1948 Sales account,,1782.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1425.60
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,356.40
+,,,,,
+A 354,2026-02-26,"AL KHALED,HANAA [LUNAR]",,,
+,,1948 Sales account,,179.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,143.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,35.80
+,,,,,
+A 355,2026-02-27,B02270977337 [MARGINALEN],,,
+,,1930 Företagskonto,,5118.52,
+,,1947 Worldline,,,5118.52
+,,,,,
+A 356,2026-02-27,Emelie och Mari skrattar [MARGINALEN],,,
+,,1930 Företagskonto,,,19612.00
+,,1630 Avräkning för skatter och avgifter (skattekonto),,19612.00,
+,,,,,
+A 357,2026-02-27,Bil frskring [MARGINALEN],,,
+,,1930 Företagskonto,,,871.00
+,,6310 Företagsförsäkringar,,871.00,
+,,,,,
+A 358,2026-02-27,Fastighets AB Akvarium [MARGINALEN],,,
+,,1930 Företagskonto,,,5209.00
+,,5010 Lokalhyra,,5209.00,
+,,,,,
+A 359,2026-02-27,SALES [WORLDLINE],,,
+,,1947 Worldline,,5152.00,
+,,3051 Försäljn varor 25% sv,,,4121.60
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,1030.40
+,,,,,
+A 360,2026-02-27,FEE [WORLDLINE],,,
+,,1947 Worldline,,,33.48
+,,6570 Bankkostnader,,33.48,
+,,,,,
+A 361,2026-02-28,One.com webbhotell samisjackets.com [PREMIUM] One.com [NORDEA],,,
+,,5420 Programvaror,,2387.00,
+,,2641 Debiterad ingående moms,,596.75,
+,,"2893 Skulder till närstående personer, kortfristig del",,,2983.75
+,,,,,
+A 362,2026-02-28,Card Temu.com [WISE_USD],,,
+,,1942 Wise USD,,,442.18
+,,5410 Förbrukningsinventarier,,442.18,
+,,,,,
+A 363,2026-02-28,Card Temu.com [WISE_USD],,,
+,,1942 Wise USD,,,2076.65
+,,5410 Förbrukningsinventarier,,2076.65,
+,,,,,
+A 364,2026-02-28,SALES [WORLDLINE],,,
+,,1947 Worldline,,1.00,
+,,3051 Försäljn varor 25% sv,,,0.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,0.20
+,,,,,
+A 365,2026-02-28,FEE [WORLDLINE],,,
+,,1947 Worldline,,,0.01
+,,6570 Bankkostnader,,0.01,
+,,,,,
+A 366,2026-03-01,Mnadsavgift Fretagskonto [MARGINALEN],,,
+,,1930 Företagskonto,,,70.00
+,,6570 Bankkostnader,,70.00,
+,,,,,
+A 367,2026-03-01,Kostnadsrnta [SKATTEVERKET],,,
+,,1630 Avräkning för skatter och avgifter (skattekonto),,,645.00
+,,8423 Räntekostnader för skatter och avgifter,,645.00,
+,,,,,
+A 368,2026-03-01,Card Google*Workspace Samis C [WISE_USD],,,
+,,1942 Wise USD,,,90.15
+,,5420 Programvaror,,90.15,
+,,,,,
+A 369,2026-03-01,"Card Github, Inc. [WISE_USD]",,,
+,,1942 Wise USD,,,366.60
+,,5420 Programvaror,,366.60,
+,,,,,
+A 370,2026-03-02,Everygreen seaport fees [LUNAR],,,
+,,1948 Sales account,,,3463.00
+,,1460 Lager av handelsvaror,,3463.00,
+,,,,,
+A 371,2026-03-02,B03021053599 [MARGINALEN],,,
+,,1930 Företagskonto,,841.50,
+,,1947 Worldline,,,841.50
+,,,,,
+A 372,2026-03-02,B02281005989 [MARGINALEN],,,
+,,1930 Företagskonto,,0.99,
+,,1947 Worldline,,,0.99
+,,,,,
+A 373,2026-03-02,SVEA BANK AB REF 9 [MARGINALEN],,,
+,,1930 Företagskonto,,,248.00
+,,6570 Bankkostnader,,248.00,
+,,,,,
+A 374,2026-03-02,Norge frakt utan moms [MARGINALEN],,,
+,,1930 Företagskonto,,,5299.00
+,,5710 Frakter och försäkringar vid varudistribution,,5299.00,
+,,,,,
+A 375,2026-03-02,Frakt [MARGINALEN],,,
+,,1930 Företagskonto,,,949.00
+,,5710 Frakter och försäkringar vid varudistribution,,949.00,
+,,,,,
+A 376,2026-03-02,Card Tradera [WISE_USD],,,
+,,1942 Wise USD,,,928.06
+,,5410 Förbrukningsinventarier,,928.06,
+,,,,,
+A 377,2026-03-02,Card Tradera [WISE_USD],,,
+,,1942 Wise USD,,,927.50
+,,5410 Förbrukningsinventarier,,927.50,
+,,,,,
+A 378,2026-03-02,Card Klm Airline 074213554938 [WISE_USD],,,
+,,1942 Wise USD,,,6862.28
+,,"2893 Skulder till närstående personer, kortfristig del",,6862.28,
+,,,,,
+A 379,2026-03-02,SALES [WORLDLINE],,,
+,,1947 Worldline,,847.00,
+,,3051 Försäljn varor 25% sv,,,677.60
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,169.40
+,,,,,
+A 380,2026-03-02,FEE [WORLDLINE],,,
+,,1947 Worldline,,,5.50
+,,6570 Bankkostnader,,5.50,
+,,,,,
+A 381,2026-03-03,Card Bankomat Kungsgatan-Carl [WISE_USD],,,
+,,1942 Wise USD,,,1524.96
+,,"2893 Skulder till närstående personer, kortfristig del",,1524.96,
+,,,,,
+A 382,2026-03-05,B03051119511 [MARGINALEN],,,
+,,1930 Företagskonto,,98.36,
+,,1947 Worldline,,,98.36
+,,,,,
+A 383,2026-03-05,Card 650 Industries (expo) [WISE_USD],,,
+,,1942 Wise USD,,,186.12
+,,5420 Programvaror,,186.12,
+,,,,,
+A 384,2026-03-05,Cashback [WISE_USD],,,
+,,1942 Wise USD,,40.80,
+,,8311 Ränteintäkter från bank,,,40.80
+,,,,,
+A 385,2026-03-05,Card Amazon.se* Kl4061py5 [WISE_USD],,,
+,,1942 Wise USD,,,182.74
+,,5410 Förbrukningsinventarier,,182.74,
+,,,,,
+A 386,2026-03-05,Card Gotogate1115233374 [WISE_USD],,,
+,,1942 Wise USD,,,1184.40
+,,"2893 Skulder till närstående personer, kortfristig del",,1184.40,
+,,,,,
+A 387,2026-03-05,SALES [WORLDLINE],,,
+,,1947 Worldline,,99.00,
+,,3051 Försäljn varor 25% sv,,,79.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,19.80
+,,,,,
+A 388,2026-03-05,FEE [WORLDLINE],,,
+,,1947 Worldline,,,0.64
+,,6570 Bankkostnader,,0.64,
+,,,,,
+A 389,2026-03-06,Received money from MOHAMMAD SAMI ALSHAR [WISE_EUR],,,
+,,1944 Wise EUR,,33609.03,
+,,"2893 Skulder till närstående personer, kortfristig del",,,33609.03
+,,,,,
+A 390,2026-03-06,Card 4167 Kontanten Cityhuset [WISE_USD],,,
+,,1942 Wise USD,,,2083.51
+,,"2893 Skulder till närstående personer, kortfristig del",,2083.51,
+,,,,,
+A 391,2026-03-06,Card 4167 Kontanten Cityhuset [WISE_USD],,,
+,,1942 Wise USD,,,2083.32
+,,"2893 Skulder till närstående personer, kortfristig del",,2083.32,
+,,,,,
+A 392,2026-03-06,Card 4167 Kontanten Cityhuset [WISE_USD],,,
+,,1942 Wise USD,,,2083.32
+,,"2893 Skulder till närstående personer, kortfristig del",,2083.32,
+,,,,,
+A 393,2026-03-06,Card 4167 Kontanten Cityhuset [WISE_USD],,,
+,,1942 Wise USD,,,2083.23
+,,"2893 Skulder till närstående personer, kortfristig del",,2083.23,
+,,,,,
+A 394,2026-03-06,Card 4167 Kontanten Cityhuset [WISE_USD],,,
+,,1942 Wise USD,,,2068.56
+,,"2893 Skulder till närstående personer, kortfristig del",,2068.56,
+,,,,,
+A 395,2026-03-06,Card Google*Workspace Auron C [WISE_USD],,,
+,,1942 Wise USD,,,553.85
+,,5420 Programvaror,,553.85,
+,,,,,
+A 396,2026-03-07,Google Ads marknadsforing REFUND [GOLD] GOOGLE *ADS5215017274 [NORDEA],,,
+,,5900 Reklam och PR (gruppkonto),,,14.54
+,,2641 Debiterad ingående moms,,,3.64
+,,"2893 Skulder till närstående personer, kortfristig del",,18.18,
+,,,,,
+A 397,2026-03-07,Card St1 Gillbergaplan [WISE_EUR],,,
+,,1944 Wise EUR,,,577.66
+,,"5611 Drivmedel för personbilar, mc, m.m.",,577.66,
+,,,,,
+A 398,2026-03-07,Card St1 Gillbergaplan Eskils [WISE_EUR],,,
+,,1944 Wise EUR,,,577.66
+,,"5611 Drivmedel för personbilar, mc, m.m.",,577.66,
+,,,,,
+A 399,2026-03-07,Card St1 Gillbergaplan [WISE_USD],,,
+,,1942 Wise USD,,425.07,
+,,"5611 Drivmedel för personbilar, mc, m.m.",,,425.07
+,,,,,
+A 400,2026-03-07,Card St1 Gillbergaplan [WISE_USD],,,
+,,1942 Wise USD,,,1497.42
+,,"5611 Drivmedel för personbilar, mc, m.m.",,1497.42,
+,,,,,
+A 401,2026-03-07,Card St1 Gillbergaplan Eskils [WISE_USD],,,
+,,1942 Wise USD,,,1497.42
+,,"5611 Drivmedel för personbilar, mc, m.m.",,1497.42,
+,,,,,
+A 402,2026-03-08,Card Sormlandstrafiken [WISE_USD],,,
+,,1942 Wise USD,,,35.91
+,,5800 Resekostnader (gruppkonto),,35.91,
+,,,,,
+A 403,2026-03-09,DSV Road AB [MARGINALEN],,,
+,,1930 Företagskonto,,,748.00
+,,5710 Frakter och försäkringar vid varudistribution,,748.00,
+,,,,,
+A 404,2026-03-09,One.com webbhotell samisjackets.com REFUND [PREMIUM] One.com [NORDEA],,,
+,,5420 Programvaror,,,960.00
+,,2641 Debiterad ingående moms,,,240.00
+,,"2893 Skulder till närstående personer, kortfristig del",,1200.00,
+,,,,,
+A 405,2026-03-09,Sent money to Mohammad sami Alsharef | M [WISE_EUR],,,
+,,1944 Wise EUR,,,11300.00
+,,"2893 Skulder till närstående personer, kortfristig del",,11300.00,
+,,,,,
+A 406,2026-03-09,FX EUR->SEK (10 EUR -> 106.48 SEK) [WISE_EUR],,,
+,,1944 Wise EUR,,,113.00
+,,1945 Wise SEK,,106.48,
+,,7960 Valutakursförluster på fordringar och skulder av rörelsekaraktär,,6.52,
+,,,,,
+A 407,2026-03-10,Card Klm Airline 074413079810 [WISE_EUR],,,
+,,1944 Wise EUR,,,416.29
+,,"2893 Skulder till närstående personer, kortfristig del",,416.29,
+,,,,,
+A 408,2026-03-10,Card Klm Airline 074413079805 [WISE_EUR],,,
+,,1944 Wise EUR,,,1777.15
+,,"2893 Skulder till närstående personer, kortfristig del",,1777.15,
+,,,,,
+A 409,2026-03-11,Mobile abbonmang [MARGINALEN],,,
+,,1930 Företagskonto,,,569.00
+,,6212 Mobiltelefon,,569.00,
+,,,,,
+A 410,2026-03-11,Apple Subscription (business apps) [PREMIUM] APPLE.COM/BILL [NORDEA],,,
+,,5420 Programvaror,,249.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,249.00
+,,,,,
+A 411,2026-03-12,Arbetsgivaravgift febr 2026 [SKATTEVERKET],,,
+,,1630 Avräkning för skatter och avgifter (skattekonto),,,6360.00
+,,2731 Avräkning lagstadgade sociala avgifter,,6360.00,
+,,,,,
+A 412,2026-03-12,Avdragen skatt febr 2026 [SKATTEVERKET],,,
+,,1630 Avräkning för skatter och avgifter (skattekonto),,,3520.00
+,,2710 Personalskatt,,3520.00,
+,,,,,
+A 413,2026-03-12,Anstllningsstd [SKATTEVERKET],,,
+,,1630 Avräkning för skatter och avgifter (skattekonto),,3755.00,
+,,3985 Erhållna statliga bidrag,,,3755.00
+,,,,,
+A 414,2026-03-12,Lnebidrag och skyddat arbete [SKATTEVERKET],,,
+,,1630 Avräkning för skatter och avgifter (skattekonto),,18390.00,
+,,3985 Erhållna statliga bidrag,,,18390.00
+,,,,,
+A 415,2026-03-12,Card 4167 Kontanten Cityhuset [WISE_EUR],,,
+,,1944 Wise EUR,,,1639.52
+,,"2893 Skulder till närstående personer, kortfristig del",,1639.52,
+,,,,,
+A 416,2026-03-12,Card Shopify* 500636476 [WISE_EUR],,,
+,,1944 Wise EUR,,,406.80
+,,5420 Programvaror,,406.80,
+,,,,,
+A 417,2026-03-12,Card 4167 Kontanten Cityhuset [WISE_SEK],,,
+,,1945 Wise SEK,,,106.48
+,,"2893 Skulder till närstående personer, kortfristig del",,106.48,
+,,,,,
+A 418,2026-03-12,Card 4167 Kontanten Cityhuset [WISE_USD],,,
+,,1942 Wise USD,,,389.16
+,,"2893 Skulder till närstående personer, kortfristig del",,389.16,
+,,,,,
+A 419,2026-03-13,Helen Zeresilasie Habte [LUNAR],,,
+,,1948 Sales account,,978.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,782.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,195.60
+,,,,,
+A 420,2026-03-13,Helen Zeresilasie Habte [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 421,2026-03-14,"AL RASHID,SOMIA [LUNAR]",,,
+,,1948 Sales account,,7366.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,5892.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,1473.20
+,,,,,
+A 422,2026-03-15,MONA FREJEH [LUNAR],,,
+,,1948 Sales account,,910.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,728.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,182.00
+,,,,,
+A 423,2026-03-15,MONA FREJEH [LUNAR],,,
+,,1948 Sales account,,3000.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,2400.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,600.00
+,,,,,
+A 424,2026-03-15,Swish Business enrollment [LUNAR],,,
+,,1948 Sales account,,,39.00
+,,6570 Bankkostnader,,39.00,
+,,,,,
+A 425,2026-03-15,Card Tiktok Ads [WISE_EUR],,,
+,,1944 Wise EUR,,,2107.45
+,,5900 Reklam och PR (gruppkonto),,2107.45,
+,,,,,
+A 426,2026-03-15,Card Tradera [WISE_EUR],,,
+,,1944 Wise EUR,,,165.66
+,,5410 Förbrukningsinventarier,,165.66,
+,,,,,
+A 427,2026-03-15,SALES [WORLDLINE],,,
+,,1947 Worldline,,1656.00,
+,,3051 Försäljn varor 25% sv,,,1324.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,331.20
+,,,,,
+A 428,2026-03-15,FEE [WORLDLINE],,,
+,,1947 Worldline,,,10.90
+,,6570 Bankkostnader,,10.90,
+,,,,,
+A 429,2026-03-16,TWILIO.COM [LUNAR],,,
+,,1948 Sales account,,,287.86
+,,5420 Programvaror,,287.86,
+,,,,,
+A 430,2026-03-16,B03161387133 [MARGINALEN],,,
+,,1930 Företagskonto,,3957.86,
+,,1947 Worldline,,,3957.86
+,,,,,
+A 431,2026-03-16,B03151367841 [MARGINALEN],,,
+,,1930 Företagskonto,,1645.10,
+,,1947 Worldline,,,1645.10
+,,,,,
+A 432,2026-03-16,Apple Subscription (business apps) [PREMIUM] APPLE.COM/BILL [NORDEA],,,
+,,5420 Programvaror,,18.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,18.00
+,,,,,
+A 433,2026-03-16,SALES [WORLDLINE],,,
+,,1947 Worldline,,3985.00,
+,,3051 Försäljn varor 25% sv,,,3188.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,797.00
+,,,,,
+A 434,2026-03-16,FEE [WORLDLINE],,,
+,,1947 Worldline,,,27.14
+,,6570 Bankkostnader,,27.14,
+,,,,,
+A 435,2026-03-17,IBRAHEM HABASH [LUNAR],,,
+,,1948 Sales account,,800.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,640.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,160.00
+,,,,,
+A 436,2026-03-17,Till 1930 [LUNAR],,,
+,,1948 Sales account,,,21911.00
+,,1930 Företagskonto,,21911.00,
+,,,,,
+A 437,2026-03-17,B03171403665 [MARGINALEN],,,
+,,1930 Företagskonto,,8560.72,
+,,1947 Worldline,,,8560.72
+,,,,,
+A 438,2026-03-17,SALES [WORLDLINE],,,
+,,1947 Worldline,,8619.00,
+,,3051 Försäljn varor 25% sv,,,6895.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,1723.80
+,,,,,
+A 439,2026-03-17,FEE [WORLDLINE],,,
+,,1947 Worldline,,,58.28
+,,6570 Bankkostnader,,58.28,
+,,,,,
+A 440,2026-03-18,moms ocha rbetsgivare [MARGINALEN],,,
+,,1930 Företagskonto,,,52871.00
+,,1630 Avräkning för skatter och avgifter (skattekonto),,52871.00,
+,,,,,
+A 441,2026-03-18,Apple Subscription (business apps) [GOLD] APPLE.COM/BILL [NORDEA],,,
+,,5420 Programvaror,,39.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,39.00
+,,,,,
+A 442,2026-03-18,Card Tiktok Ads [WISE_EUR],,,
+,,1944 Wise EUR,,,2130.95
+,,5900 Reklam och PR (gruppkonto),,2130.95,
+,,,,,
+A 443,2026-03-19,MAHER ABDULSATER BOUZAN [LUNAR],,,
+,,1948 Sales account,,1159.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,927.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,231.80
+,,,,,
+A 444,2026-03-19,FARDOUSSA ADEN YOUSSOUF [LUNAR],,,
+,,1948 Sales account,,328.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,262.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,65.60
+,,,,,
+A 445,2026-03-19,GENET KIBREAB WELDEMARYAM [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 446,2026-03-19,STRIPE Shopi [LUNAR],,,
+,,1948 Sales account,,1504.51,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1203.61
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,300.90
+,,,,,
+A 447,2026-03-19,Card Www.fashn.ai [WISE_EUR],,,
+,,1944 Wise EUR,,,76.84
+,,5420 Programvaror,,76.84,
+,,,,,
+A 448,2026-03-19,Card Apcoa Flow Se [WISE_EUR],,,
+,,1944 Wise EUR,,,260.47
+,,"5611 Drivmedel för personbilar, mc, m.m.",,260.47,
+,,,,,
+A 449,2026-03-19,Card Apcoa Flow Se [WISE_SEK],,,
+,,1945 Wise SEK,,,128.37
+,,"5611 Drivmedel för personbilar, mc, m.m.",,128.37,
+,,,,,
+A 450,2026-03-19,Card Temu.com [WISE_SEK],,,
+,,1945 Wise SEK,,128.37,
+,,5410 Förbrukningsinventarier,,,128.37
+,,,,,
+A 451,2026-03-19,Snabbgross - Food/Beverage Cash Purchase [KASSA],,,
+,,1910 Kassa,,,3863.00
+,,4580 Varor f├╢r ├Ñterf├╢rs├ñljning - livsmedel,,3644.34,
+,,2641 Debiterad ingående moms,,218.66,
+,,,,,
+A 452,2026-03-20,"ABOUD,MARYAM [LUNAR]",,,
+,,1948 Sales account,,1000.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,800.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,200.00
+,,,,,
+A 453,2026-03-20,STRIPE Shopi [LUNAR],,,
+,,1948 Sales account,,1040.80,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,832.64
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,208.16
+,,,,,
+A 454,2026-03-20,B03201480621 [MARGINALEN],,,
+,,1930 Företagskonto,,5981.19,
+,,1947 Worldline,,,5981.19
+,,,,,
+A 455,2026-03-20,Card Tre Sverige Stockholm - [WISE_EUR],,,
+,,1944 Wise EUR,,,1068.64
+,,6212 Mobiltelefon,,1068.64,
+,,,,,
+A 456,2026-03-20,SALES [WORLDLINE],,,
+,,1947 Worldline,,6021.00,
+,,3051 Försäljn varor 25% sv,,,4816.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,1204.20
+,,,,,
+A 457,2026-03-20,FEE [WORLDLINE],,,
+,,1947 Worldline,,,39.81
+,,6570 Bankkostnader,,39.81,
+,,,,,
+A 458,2026-03-22,SALES [WORLDLINE],,,
+,,1947 Worldline,,6721.00,
+,,3051 Försäljn varor 25% sv,,,5376.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,1344.20
+,,,,,
+A 459,2026-03-22,FEE [WORLDLINE],,,
+,,1947 Worldline,,,55.54
+,,6570 Bankkostnader,,55.54,
+,,,,,
+A 460,2026-03-23,Seham Saalouk [LUNAR],,,
+,,1948 Sales account,,1079.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,863.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,215.80
+,,,,,
+A 461,2026-03-23,AKHYAR YASSIN HASSAN MOHAMEDALI [LUNAR],,,
+,,1948 Sales account,,360.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,288.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,72.00
+,,,,,
+A 462,2026-03-23,B03221536484 [MARGINALEN],,,
+,,1930 Företagskonto,,6665.46,
+,,1947 Worldline,,,6665.46
+,,,,,
+A 463,2026-03-23,Card St1 Gillbergaplan [WISE_EUR],,,
+,,1944 Wise EUR,,875.41,
+,,"5611 Drivmedel för personbilar, mc, m.m.",,,875.41
+,,,,,
+A 464,2026-03-23,Card St1 Gillbergaplan [WISE_EUR],,,
+,,1944 Wise EUR,,,2100.22
+,,"5611 Drivmedel för personbilar, mc, m.m.",,2100.22,
+,,,,,
+A 465,2026-03-24,B03241573073 [MARGINALEN],,,
+,,1930 Företagskonto,,12504.29,
+,,1947 Worldline,,,12504.29
+,,,,,
+A 466,2026-03-24,Card Lidl166etunarabergstor [WISE_EUR],,,
+,,1944 Wise EUR,,,713.26
+,,"2893 Skulder till närstående personer, kortfristig del",,713.26,
+,,,,,
+A 467,2026-03-24,SALES [WORLDLINE],,,
+,,1947 Worldline,,12591.00,
+,,3051 Försäljn varor 25% sv,,,10072.80
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,2518.20
+,,,,,
+A 468,2026-03-24,FEE [WORLDLINE],,,
+,,1947 Worldline,,,86.71
+,,6570 Bankkostnader,,86.71,
+,,,,,
+A 469,2026-03-25,Transfer [LUNAR],,,
+,,1948 Sales account,,,7460.00
+,,1930 Företagskonto,,7460.00,
+,,,,,
+A 470,2026-03-25,B03251597946 [MARGINALEN],,,
+,,1930 Företagskonto,,2520.52,
+,,1947 Worldline,,,2520.52
+,,,,,
+A 471,2026-03-25,Ln fabruari och januari [MARGINALEN],,,
+,,7210 Löner till tjänstemän,,7121.08,
+,,"7510 Arbetsgivaravgifter 31,42 %",,2828.78,
+,,2710 Personalskatt,,,1620.08
+,,2731 Avräkning lagstadgade sociala avgifter,,,2828.78
+,,1930 Företagskonto,,,5501.00
+,,,,,
+A 472,2026-03-25,Aterbetalning skuld delagare (sista fakturan = 2893) [MARGINALEN],,,
+,,1930 Företagskonto,,,11800.00
+,,"2893 Skulder till närstående personer, kortfristig del",,11800.00,
+,,,,,
+A 473,2026-03-25,Card Apple.com/bill 020100529 [WISE_EUR],,,
+,,1944 Wise EUR,,,1045.36
+,,5420 Programvaror,,1045.36,
+,,,,,
+A 474,2026-03-25,SALES [WORLDLINE],,,
+,,1947 Worldline,,2537.00,
+,,3051 Försäljn varor 25% sv,,,2029.60
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,507.40
+,,,,,
+A 475,2026-03-25,FEE [WORLDLINE],,,
+,,1947 Worldline,,,16.48
+,,6570 Bankkostnader,,16.48,
+,,,,,
+A 476,2026-03-26,ROIDA ALKLAH [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 477,2026-03-26,AWADYA SALEH [LUNAR],,,
+,,1948 Sales account,,600.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,480.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,120.00
+,,,,,
+A 478,2026-03-26,AMIRA MOHAMAD [LUNAR],,,
+,,1948 Sales account,,898.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,718.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,179.60
+,,,,,
+A 479,2026-03-26,Februari ln och semesteremile [MARGINALEN],,,
+,,7210 Löner till tjänstemän,,30746.92,
+,,"7510 Arbetsgivaravgifter 31,42 %",,12212.22,
+,,2710 Personalskatt,,,6993.92
+,,2731 Avräkning lagstadgade sociala avgifter,,,12212.22
+,,1930 Företagskonto,,,23753.00
+,,,,,
+A 480,2026-03-26,B03261624898 [MARGINALEN],,,
+,,1930 Företagskonto,,7624.60,
+,,1947 Worldline,,,7624.60
+,,,,,
+A 481,2026-03-26,SALES [WORLDLINE],,,
+,,1947 Worldline,,7690.00,
+,,3051 Försäljn varor 25% sv,,,6152.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,1538.00
+,,,,,
+A 482,2026-03-26,FEE [WORLDLINE],,,
+,,1947 Worldline,,,65.40
+,,6570 Bankkostnader,,65.40,
+,,,,,
+A 483,2026-03-27,GHENA JARKAS [LUNAR],,,
+,,1948 Sales account,,250.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,200.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,50.00
+,,,,,
+A 484,2026-03-27,GHENA JARKAS [LUNAR],,,
+,,1948 Sales account,,2750.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,2200.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,550.00
+,,,,,
+A 485,2026-03-27,WEDAD MOHAMMAD [LUNAR],,,
+,,1948 Sales account,,1080.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,864.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,216.00
+,,,,,
+A 486,2026-03-27,HANIN ALAJLOUNI [LUNAR],,,
+,,1948 Sales account,,1050.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,840.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,210.00
+,,,,,
+A 487,2026-03-27,HANIN ALAJLOUNI [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 488,2026-03-27,NOUR MOKHLES AL MAHAMID [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 489,2026-03-27,WEDAD MOHAMMAD [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 490,2026-03-27,B03271651166 [MARGINALEN],,,
+,,1930 Företagskonto,,5674.45,
+,,1947 Worldline,,,5674.45
+,,,,,
+A 491,2026-03-27,Frakt [MARGINALEN],,,
+,,1930 Företagskonto,,,1150.00
+,,5710 Frakter och försäkringar vid varudistribution,,1150.00,
+,,,,,
+A 492,2026-03-27,SALES [WORLDLINE],,,
+,,1947 Worldline,,5719.00,
+,,3051 Försäljn varor 25% sv,,,4575.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,1143.80
+,,,,,
+A 493,2026-03-27,FEE [WORLDLINE],,,
+,,1947 Worldline,,,44.55
+,,6570 Bankkostnader,,44.55,
+,,,,,
+A 494,2026-03-28,Card Tradera [WISE_EUR],,,
+,,1944 Wise EUR,,,717.10
+,,5410 Förbrukningsinventarier,,717.10,
+,,,,,
+A 495,2026-03-29,"NTUMBA,SHUPETE [LUNAR]",,,
+,,1948 Sales account,,149.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,119.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,29.80
+,,,,,
+A 496,2026-03-29,FATEN AL SHLASH [LUNAR],,,
+,,1948 Sales account,,650.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,520.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,130.00
+,,,,,
+A 497,2026-03-29,FATEN AL SHLASH [LUNAR],,,
+,,1948 Sales account,,780.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,624.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,156.00
+,,,,,
+A 498,2026-03-29,"Card Github, Inc. [WISE_EUR]",,,
+,,1944 Wise EUR,,,384.65
+,,5420 Programvaror,,384.65,
+,,,,,
+A 499,2026-03-30,"OKBATEDROS,HIWET HANNES [LUNAR]",,,
+,,1948 Sales account,,79.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,63.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,15.80
+,,,,,
+A 500,2026-03-30,HANEEN ALQAHWAJI [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 501,2026-03-30,FIYORI YIKALO GILE [LUNAR],,,
+,,1948 Sales account,,555.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,444.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,111.00
+,,,,,
+A 502,2026-03-30,AWADYA SALEH [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 503,2026-03-30,"OKBATEDROS,HIWET HANNES [LUNAR]",,,
+,,1948 Sales account,,400.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,320.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,80.00
+,,,,,
+A 504,2026-03-30,To 1930 [LUNAR],,,
+,,1948 Sales account,,,3000.00
+,,1930 Företagskonto,,3000.00,
+,,,,,
+A 505,2026-03-30,Till 1930 [LUNAR],,,
+,,1948 Sales account,,,4400.00
+,,1930 Företagskonto,,4400.00,
+,,,,,
+A 506,2026-03-30,B03301727484 [MARGINALEN],,,
+,,1930 Företagskonto,,16107.20,
+,,1947 Worldline,,,16107.20
+,,,,,
+A 507,2026-03-30,FROM 2893 [MARGINALEN],,,
+,,1930 Företagskonto,,5800.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,5800.00
+,,,,,
+A 508,2026-03-30,Kort terminal [MARGINALEN],,,
+,,1930 Företagskonto,,,248.00
+,,6570 Bankkostnader,,248.00,
+,,,,,
+A 509,2026-03-30,Kort terminal [MARGINALEN],,,
+,,1930 Företagskonto,,,248.00
+,,6570 Bankkostnader,,248.00,
+,,,,,
+A 510,2026-03-30,Frskring [MARGINALEN],,,
+,,1930 Företagskonto,,,3762.00
+,,6310 Företagsförsäkringar,,3762.00,
+,,,,,
+A 511,2026-03-30,SALES [WORLDLINE],,,
+,,1947 Worldline,,16213.00,
+,,3051 Försäljn varor 25% sv,,,12970.40
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,3242.60
+,,,,,
+A 512,2026-03-30,FEE [WORLDLINE],,,
+,,1947 Worldline,,,105.80
+,,6570 Bankkostnader,,105.80,
+,,,,,
+A 513,2026-03-31,"ALAMIN,AMNA MOHAMMEDALI [LUNAR]",,,
+,,1948 Sales account,,600.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,480.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,120.00
+,,,,,
+A 514,2026-03-31,HIBA GHAZI [LUNAR],,,
+,,1948 Sales account,,579.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,463.20
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,115.80
+,,,,,
+A 515,2026-03-31,SOWIM MOHAMMAD [LUNAR],,,
+,,1948 Sales account,,80.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,64.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,16.00
+,,,,,
+A 516,2026-03-31,SOWIM MOHAMMAD [LUNAR],,,
+,,1948 Sales account,,1600.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1280.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,320.00
+,,,,,
+A 517,2026-03-31,MARYNA RIELE WILLIAM WILLIAM [LUNAR],,,
+,,1948 Sales account,,1480.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,1184.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,296.00
+,,,,,
+A 518,2026-03-31,SARAB ALTAYAR [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 519,2026-03-31,MARYNA RIELE WILLIAM WILLIAM [LUNAR],,,
+,,1948 Sales account,,200.00,
+,,"3001 Försäljning inom Sverige, 25 % moms",,,160.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,40.00
+,,,,,
+A 520,2026-03-31,Lunar Q1 fees aggregated (127 st) [LUNAR],,,
+,,6570 Bankkostnader,,189.23,
+,,1948 Sales account,,,189.23
+,,,,,
+A 521,2026-03-31,Container shipping to Eskilstu [MARGINALEN],,,
+,,1930 Företagskonto,,,14305.00
+,,1460 Lager av handelsvaror,,14305.00,
+,,,,,
+A 522,2026-03-31,Kontantforsaljning butik Q1 2026 (POS 163992 minus Worldline 145331 = 18661 netto) [SALES_AND_COGS],,,
+,,1910 Kassa,,23326.25,
+,,3051 Försäljn varor 25% sv,,,18661.00
+,,"2611 Utgående moms på försäljning inom Sverige, 25%",,,4665.25
+,,,,,
+A 523,2026-03-31,KSV Q1 2026 - 93pct av forsaljn 371820.88 = 345793.42 fran lager [SALES_AND_COGS],,,
+,,4110 Kostnad slda varor,,345793.42,
+,,1460 Lager av handelsvaror,,,345793.42
+,,,,,
+A 524,2026-03-31,FX EUR->USD [WISE_EUR],,,
+,,1944 Wise EUR,,,8061.08
+,,1942 Wise USD,,8061.08,
+,,,,,
+A 525,2026-01-31,Egen kontantinsattning fran agare for inkop kontant (V196 saknar tackning),,,
+,,1910 Kassa,,2173.75,
+,,"2893 Skulder till närstående personer, kortfristig del",,,2173.75
+,,,,,
+A 526,2026-03-31,"FWT Invoice FWT-SJ-2026-Q1-001 - $126,882.90 @ 9.6 (korrigerad med verifikation A527 av Mohammad Sami Alsharef, 2026-05-07)",,,
+,,1460 Lager av handelsvaror,,791575.22,
+,,5460 Förbrukningsmaterial,,183926.02,
+,,"1220 Inventarier, verktyg och installationer",,242574.60,
+,,2441 Future World Tech,,,1218075.84
+,,2645 Beräknad ingående moms på förvärv från utlandet,,,304518.96
+,,2615 Utgående moms import av varor 25%,,304518.96,
+,,,,,
+A 527,2026-03-31,"Correction of journal entry A526, FWT Invoice FWT-SJ-2026-Q1-001 - $126,882.90 @ 9.6 (av Mohammad Sami Alsharef, 2026-05-07) (korrigerad med verifikation A528 av Mohammad Sami Alsharef, 2026-05-07)",,,
+,,1460 Lager av handelsvaror,,,791575.22
+,,5460 Förbrukningsmaterial,,,183926.02
+,,"1220 Inventarier, verktyg och installationer",,,242574.60
+,,2441 Future World Tech,,1218075.84,
+,,2645 Beräknad ingående moms på förvärv från utlandet,,304518.96,
+,,2615 Utgående moms import av varor 25%,,,304518.96
+,,,,,
+A 528,2026-03-31,"Correction of journal entry A527, Correction of journal entry A526, FWT Invoice FWT-SJ-2026-Q1-001 - $126,882.90 @ 9.6 (av Mohammad Sami Alsharef, 2026-05-07) (av Mohammad Sami Alsharef, 2026-05-07)",,,
+,,1460 Lager av handelsvaror,,791575.22,
+,,5460 Förbrukningsmaterial,,183926.02,
+,,"1220 Inventarier, verktyg och installationer",,242574.60,
+,,2441 Future World Tech,,,1218075.84
+,,2645 Beräknad ingående moms på förvärv från utlandet,,,304518.96
+,,2615 Utgående moms import av varor 25%,,304518.96,
+,,,,,
+A 529,2026-03-31,"Payment to FWT by Samer Alsharef - 373,303 SEK (38,885 USD @ 9.6)",,,
+,,2441 Future World Tech,,373303.00,
+,,"2893 Skulder till närstående personer, kortfristig del",,,373303.00
+,,,,,
+A 530,2026-05-07,from 2893 to 1910 cash in snabbgros privet ,Manuell verifikation,,
+,,"2893 Skulder till närstående personer, kortfristig del",,,3900.00
+,,1910 Kassa,,3400.00,
+,,1910 Kassa,,500.00,
+,,,,,

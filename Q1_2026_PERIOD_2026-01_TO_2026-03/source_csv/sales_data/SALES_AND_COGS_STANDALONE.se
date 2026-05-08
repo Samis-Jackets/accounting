@@ -1,0 +1,34 @@
+#FLAGGA 0
+#PROGRAM "SamisJackets-COGS" "7.0-cash-and-93pct"
+#FORMAT PC8
+#GEN 20260505
+#SIETYP 4
+#FNAMN "Samis Jackets AB"
+#ORGNR 559489-5301
+#KPTYP EUBAS97
+#RAR 0 20260101 20261231
+#RAR -1 20240701 20251231
+#KONTO 1460 "Lager av handelsvaror"
+#KONTO 1910 "Kassa"
+#KONTO 2611 "Utgående moms 25%"
+#KONTO 3051 "Försäljning kontant butik"
+#KONTO 4110 "Inköp av handelsvaror"
+#IB 0 1460 0.00
+#VER C 1 20260201 "Inkop fr privatperson kontant del 25500 (totalt 38000, 12500 via Marginalen)"
+{
+   #TRANS 1460 {} 25500.00
+   #TRANS 1910 {} -25500.00
+}
+#VER C 2 20260331 "Kontantforsaljning butik Q1 2026 (POS 163992 minus Worldline 145331 = 18661 netto)"
+{
+   #TRANS 1910 {} 23326.25
+   #TRANS 3051 {} -18661.00
+   #TRANS 2611 {} -4665.25
+}
+#VER C 3 20260331 "KSV Q1 2026 - 93pct av forsaljn 371820.88 = 345793.42 fran lager"
+{
+   #TRANS 4110 {} 345793.42
+   #TRANS 1460 {} -345793.42
+}
+#UB 0 1460 -320293.42
+#RES 0 4110 345793.42

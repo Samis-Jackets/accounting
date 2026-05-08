@@ -1,0 +1,28 @@
+#FLAGGA 0
+#PROGRAM "AI Accountant" "1.0"
+#FORMAT PC8
+#GEN 20260507
+#SIETYP 4
+#FNAMN "Samis Jackets AB"
+#ORGNR 559489-5301
+#ADRESS "" "" "" ""
+#FNR 1
+#RAR 0 20260101 20261231
+#KPTYP EUBAS97
+
+#KONTO 1220 "Inventarier och verktyg"
+#KONTO 1460 "Lager av handelsvaror"
+#KONTO 2441 "Leverantörsskulder"
+#KONTO 2615 "Utgående moms, omvänd skattskyldighet"
+#KONTO 2645 "Beräknad ingående moms på förvärv från utlandet"
+#KONTO 5460 "Förbrukningsmaterial"
+
+#VER A 526 20260331 "FWT Invoice FWT-SJ-2026-Q1-001 - $126,882.90 @ 9.6"
+{
+   #TRANS 1460 {} 791575.22
+   #TRANS 5460 {} 183926.02
+   #TRANS 1220 {} 242574.60
+   #TRANS 2441 {} -1218075.84
+   #TRANS 2645 {} -304518.96
+   #TRANS 2615 {} 304518.96
+}

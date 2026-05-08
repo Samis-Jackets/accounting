@@ -1,0 +1,15 @@
+# Lönedata Q1 2026 — Mari + Emelie (2 anställda)
+# Mappar bank-text-substring → netto/personskatt/arbetsgivaravgift
+# Format: text_substring | netto | pskatt | agav
+#
+# Källa: AGI-redovisningen till Skatteverket (CSV) + Marginalen utbetalningar
+# Fördelning sker per netto-proportion inom samma lönemånad.
+#
+# Jan-lön (utbetald 2026-02-24): total netto 32 641, AGI: pskatt 3 520 + AGAV 6 360
+mari lön januari            | 16725.00 | 1803.76 | 3258.27
+emelie lön januari          | 15916.00 | 1716.24 | 3101.73
+#
+# Feb-lön (utbetald 2026-03-25/26): total netto 29 254, AGI feb: pskatt 8 614 + AGAV 15 041
+# (8 614 = 5 014 huvud + 3 600 korr; 15 041 = 8 909 huvud + 6 132 korr — alla för feb)
+lön fabruari och januari    | 5501.00  | 1620.08 | 2828.78
+februari lön och semester   | 23753.00 | 6993.92 | 12212.22

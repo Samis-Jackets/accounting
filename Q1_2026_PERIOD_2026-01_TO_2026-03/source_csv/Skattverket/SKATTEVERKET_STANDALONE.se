@@ -1,0 +1,71 @@
+#FLAGGA 0
+#PROGRAM "SamisJackets-SKV" "1.0"
+#FORMAT PC8
+#GEN 20260502
+#SIETYP 4
+#FNAMN "Samis Jackets AB"
+#ORGNR 559489-5301
+#KPTYP EUBAS97
+#RAR 0 20260101 20261231
+#RAR -1 20240701 20251231
+#KONTO 1630 "Skattekonto"
+#KONTO 2650 "Redovisningskonto moms"
+#KONTO 2710 "Personalskatt"
+#KONTO 2731 "Avr�kning lagstadgade sociala avgifter"
+#KONTO 3985 "Erh�llna offentliga bidrag"
+#KONTO 7210 "L�ner till tj�nstem�n"
+#KONTO 7510 "Lagstadgade sociala avgifter"
+#KONTO 8423 "R�ntekostnader skattekonto"
+#IB 0 1630 108.00
+#IB 0 2650 0.00
+#IB 0 2710 0.00
+#IB 0 2731 0.00
+#VER A 1 20260212 "Moms okt 2025 - dec 2025"
+{
+   #TRANS 1630 {} -81643.00
+   #TRANS 2650 {} 81643.00
+}
+#VER A 2 20260301 "Kostnadsr�nta"
+{
+   #TRANS 1630 {} -645.00
+   #TRANS 8423 {} 645.00
+}
+#VER A 3 20260312 "Arbetsgivaravgift febr 2026"
+{
+   #TRANS 1630 {} -6360.00
+   #TRANS 2731 {} 6360.00
+}
+#VER A 4 20260312 "Avdragen skatt febr 2026"
+{
+   #TRANS 1630 {} -3520.00
+   #TRANS 2710 {} 3520.00
+}
+#VER A 5 20260312 "Anst�llningsst�d"
+{
+   #TRANS 1630 {} 3755.00
+   #TRANS 3985 {} -3755.00
+}
+#VER A 6 20260312 "L�nebidrag och skyddat arbete"
+{
+   #TRANS 1630 {} 18390.00
+   #TRANS 3985 {} -18390.00
+}
+#VER A 7 20260331 "Korrigering jan-l�n enl SKV-beslut 260227"
+{
+   #TRANS 7510 {} 6132.00
+   #TRANS 7210 {} 3600.00
+   #TRANS 2710 {} -3600.00
+   #TRANS 2731 {} -6132.00
+}
+#VER A 8 20260331 "Korrigering feb-l�n enl SKV-rapport"
+{
+   #TRANS 7510 {} -3665.00
+   #TRANS 7210 {} -1660.00
+   #TRANS 2710 {} 1660.00
+   #TRANS 2731 {} 3665.00
+}
+#VER A 9 20260331 "Periodisering bidrag feb-l�n enl matchningsprincipen"
+{
+   #TRANS 1630 {} 38374.00
+   #TRANS 3985 {} -38374.00
+}

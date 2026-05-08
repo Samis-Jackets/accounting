@@ -1,0 +1,41 @@
+================================================================================
+DOKTOR FORENSIC AUDIT - SALES & VAT DISCREPANCIES
+Samis Jackets AB - Org.nr: 559489-5301
+Date: 2026-05-07
+Period: Q1 2026 (2026-01-01 to 2026-03-31)
+================================================================================
+
+📊 CURRENT MAIN LEDGER (Q1 2026):
+   Account 3051 (Sweden 25% VAT): 0.00 SEK
+   Account 3001 (Sales 25% VAT):  0.00 SEK
+   Account 3105 (Export 0% VAT):  0.00 SEK
+   TOTAL RECORDED SALES: 0.00 SEK
+
+🔴 CRITICAL: MISSING SALES NOT IN MAIN LEDGER
+--------------------------------------------------------------------------------
+   Lunar Bank (3001)                         74,486.65 SEK
+   Worldline (3051)                         145,330.75 SEK
+   Wise EU/USD (3051)                         1,035.00 SEK
+   Norway Export (3105)                      58,000.00 SEK
+--------------------------------------------------------------------------------
+   TOTAL MISSING SALES                      278,852.40 SEK
+
+🔴 CRITICAL: MISSING UTGÅENDE MOMS (OUTPUT VAT)
+--------------------------------------------------------------------------------
+   Lunar Bank VAT (2611)                     14,897.33 SEK
+   Worldline VAT (2611)                      29,066.15 SEK
+   Wise VAT (2611)                              207.00 SEK
+--------------------------------------------------------------------------------
+   TOTAL MISSING VAT                         44,170.48 SEK
+
+💰 FINANCIAL IMPACT SUMMARY
+================================================================================
+   Sales understated by:             278,852.40 SEK
+   Output VAT understated by:         44,170.48 SEK
+
+✅ RECOMMENDATIONS
+================================================================================
+1. Import standalone SE files for Lunar, Worldline, and Wise
+2. Reverse incorrect input VAT on rent (if applicable)
+3. File corrected VAT return if previously filed
+4. Update financial statements with corrected sales figures

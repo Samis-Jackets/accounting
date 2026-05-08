@@ -1,0 +1,84 @@
+#FLAGGA 0
+#PROGRAM "SamisJackets-Nordea-Clean" "2.0"
+#FORMAT PC8
+#GEN 20260504
+#SIETYP 4
+#FNAMN "Samis Jackets AB"
+#ORGNR 559489-5301
+#KPTYP EUBAS97
+#RAR 0 20260101 20261231
+#RAR -1 20240701 20251231
+#KONTO 2611 "Utgaende moms 25%"
+#KONTO 2641 "Ingaende moms 25%"
+#KONTO 2893 "Skuld till delagare Sami"
+#KONTO 5420 "SaaS/programvara"
+#KONTO 5900 "Reklam/marknadsforing"
+#KONTO 6212 "Mobil/telecom"
+#VER N 1 20260107 "Apple Subscription (business apps) [GOLD] APPLE.COM/BILL"
+{
+   #TRANS 5420 {} 39.00
+   #TRANS 2893 {} -39.00
+}
+#VER N 2 20260111 "Apple Subscription (business apps) [PREMIUM] APPLE.COM/BILL"
+{
+   #TRANS 5420 {} 249.00
+   #TRANS 2893 {} -249.00
+}
+#VER N 3 20260116 "Apple Subscription (business apps) [PREMIUM] APPLE.COM/BILL"
+{
+   #TRANS 5420 {} 18.00
+   #TRANS 2893 {} -18.00
+}
+#VER N 4 20260118 "Apple Subscription (business apps) [GOLD] APPLE.COM/BILL"
+{
+   #TRANS 5420 {} 39.00
+   #TRANS 2893 {} -39.00
+}
+#VER N 5 20260211 "Apple Subscription (business apps) [GOLD] APPLE.COM/BILL"
+{
+   #TRANS 5420 {} 249.00
+   #TRANS 2893 {} -249.00
+}
+#VER N 6 20260216 "Apple Subscription (business apps) [GOLD] APPLE.COM/BILL"
+{
+   #TRANS 5420 {} 18.00
+   #TRANS 2893 {} -18.00
+}
+#VER N 7 20260218 "Apple Subscription (business apps) [GOLD] APPLE.COM/BILL"
+{
+   #TRANS 5420 {} 39.00
+   #TRANS 2893 {} -39.00
+}
+#VER N 8 20260228 "One.com webbhotell samisjackets.com [PREMIUM] One.com"
+{
+   #TRANS 5420 {} 2387.00
+   #TRANS 2641 {} 596.75
+   #TRANS 2893 {} -2983.75
+}
+#VER N 9 20260307 "Google Ads marknadsforing REFUND [GOLD] GOOGLE *ADS5215017274"
+{
+   #TRANS 5900 {} -14.54
+   #TRANS 2641 {} -3.64
+   #TRANS 2893 {} 18.18
+}
+#VER N 10 20260309 "One.com webbhotell samisjackets.com REFUND [PREMIUM] One.com"
+{
+   #TRANS 5420 {} -960.00
+   #TRANS 2641 {} -240.00
+   #TRANS 2893 {} 1200.00
+}
+#VER N 11 20260311 "Apple Subscription (business apps) [PREMIUM] APPLE.COM/BILL"
+{
+   #TRANS 5420 {} 249.00
+   #TRANS 2893 {} -249.00
+}
+#VER N 12 20260316 "Apple Subscription (business apps) [PREMIUM] APPLE.COM/BILL"
+{
+   #TRANS 5420 {} 18.00
+   #TRANS 2893 {} -18.00
+}
+#VER N 13 20260318 "Apple Subscription (business apps) [GOLD] APPLE.COM/BILL"
+{
+   #TRANS 5420 {} 39.00
+   #TRANS 2893 {} -39.00
+}

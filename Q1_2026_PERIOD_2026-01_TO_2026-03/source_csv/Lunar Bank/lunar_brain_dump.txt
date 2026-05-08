@@ -1,0 +1,16 @@
+alsharef,mohammad sami  ->  2893  PRIVATE  ägaren själv (Swish till Lunar)
+alsharef mohammad sami  ->  2893  PRIVATE  ägaren själv
+# Brain dump för Lunar Bank (1948)
+to 1930                 ->  1930  BUSINESS  intern: Lunar -> Marginalen
+till 1930               ->  1930  BUSINESS  intern: Lunar -> Marginalen
+ikhlas retur            ->  3001  BUSINESS  Swish-refund
+retur refund sweish     ->  3001  BUSINESS  Swish-refund
+swish sales|-20489.00   ->  1930  BUSINESS  intern: Swish-saldo överfört till Marginalen
+swish sales             ->  3001  BUSINESS  Swish (refund neg)
+2893 återbetalning      ->  2893  PRIVATE  återbetalning till ägaren
+twilio                  ->  5420  BUSINESS  Twilio SMS
+lunar plan essential    ->  6570  BUSINESS  Lunar bank-prenumeration
+everygreen seaport      ->  5710  BUSINESS  Evergreen seaport fees
+evergreen seaport       ->  5710  BUSINESS  Evergreen seaport fees
+najma dayib|-221.00     ->  3001  BUSINESS  Swish-refund Najma
+
